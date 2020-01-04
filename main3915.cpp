@@ -335,7 +335,7 @@ if (IfE0V7xj & 1875701233)
 CrMQ15_oG = qvl6p(CrMQ15_oG, (unsigned short)372599256, 1204187457, (short)1590390899);
 }
 
-I2SgY = M4AXlfL((unsigned char)400965138, (short)612311954, (short)1514067940, 448822540, t6aI9M_);
+I2SgY = M4AXlfL((unsigned char)400965138, (short)612311954, (short)1514067940, (char)448822540, t6aI9M_);
 
 WA85 = (int)abs(RHxFPksv);
 {

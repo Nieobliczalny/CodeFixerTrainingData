@@ -59,7 +59,7 @@ case 'c':
 txIB7l9K2 = m_rV2Y(txIB7l9K2, (unsigned short)715806743, (unsigned char)-1127149799, wO2A8_H1, (unsigned short)-1452168350);
 break;
 case 'd':
-IJWY1n6m = m_rV2Y((short)-127347614, JIg05, (unsigned char)-1053049342, (short)1987119026, 447849248);
+IJWY1n6m = m_rV2Y((short)-127347614, JIg05, (unsigned char)-1053049342, (short)1987119026, (unsigned short)447849248);
 break;
 case 'e':
 ppN9kbr ^= Bg3y25_W;

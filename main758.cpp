@@ -20,7 +20,7 @@ int main() {
  short int giwOe8u7 = (short)368938677;
 	char	qyTBHU0_M	=	(char)1266994452;
 	char	ZOmpN	=	(char)-986756496;
-  char  t_R0  =  -598323776;
+  char  t_R0  =  (char)-598323776;
   unsigned int  QWsm  =  -713278412;
   unsigned short  OIuRS2  =  (unsigned short)1826530036;
   long long  lif9TM  =  646375437;

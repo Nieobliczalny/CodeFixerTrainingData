@@ -305,7 +305,7 @@ for (int i = 4; i >= 0; --i)
 {
 SF_5 = j16cf((unsigned short)-1340949242, jT6_7sjD, 372208677, VrCoZ72Qm);
 }
-YvI7A64Yx = Eri84(554968666, -1783832649, -868071321, bD7q);
+YvI7A64Yx = Eri84((char)554968666, -1783832649, -868071321, bD7q);
 
 L6NwHIis = (char)(nS0m);
 

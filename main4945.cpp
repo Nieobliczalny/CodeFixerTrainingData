@@ -317,7 +317,7 @@ case 3:
 u8pYJ1m = q81WeK(IPyZs, (unsigned short)-1111799243, RF6VS9Nvt2, (short)-868184041) % 243539488;
 break;
 case 4:
-vANrWsi = q81WeK(Tw1vh_uDZm, rYu8L8, -2111041607, p9dCEGP);
+vANrWsi = q81WeK(Tw1vh_uDZm, rYu8L8, (char)-2111041607, p9dCEGP);
 break;
 case 5:
 un4fYL1 *= kLZ7BdK5GM;

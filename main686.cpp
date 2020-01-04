@@ -77,7 +77,7 @@ case 6:
 b3x5EoW = U7R1f7gO((short)-838039598, fgJa_CICSZ, (unsigned short)521617815, (unsigned short)-842416099, aq2Fye);
 break;
 case 7:
-L7cWCz = U7R1f7gO((short)1318583170, ZVwB_, (unsigned short)-175325506, (unsigned short)2069334195, 805358510);
+L7cWCz = U7R1f7gO((short)1318583170, ZVwB_, (unsigned short)-175325506, (unsigned short)2069334195, (unsigned short)805358510);
 break;
 case 8:
 cVmKM_vDrj += P35o854m;
@@ -278,7 +278,7 @@ case 'a':
 aq2Fye = U7R1f7gO((short)-1110611447, -588347781, (unsigned short)1024412319, cDL68I7fs1, (unsigned short)-1419083008) - 1295483438;
 break;
 case 'b':
-XkeiGp = U7R1f7gO(ZVwB_, -1915758402, (unsigned short)-476331647, (unsigned short)1471553306, 874958519);
+XkeiGp = U7R1f7gO(ZVwB_, -1915758402, (unsigned short)-476331647, (unsigned short)1471553306, (unsigned short)874958519);
 break;
 case 'c':
 XkeiGp = U7R1f7gO(UN_H7, 804821517, fgJa_CICSZ, XkeiGp, (unsigned short)-523184091);

@@ -35,7 +35,7 @@ int main(void)
     i_0g_Qu    =    (short)-1806731420;
     JkAChf    =    (short)-738142767;
     yU_4xA5Q    =    (short)-1439529179;
-    CF67_O    =    -1560973570;
+    CF67_O    =    (short)-1560973570;
     hE6q6IV_    =    1198712033;
     QvH9v6    =    (short)-1693846038;
     Lngr4    =    (short)-1103198733;
@@ -45,7 +45,7 @@ int main(void)
     M1b3u6Sv0F    =    (short)-992695730;
     WK_BApLzRp    =    (short)-11538978;
     G_GtMdOA0    =    (short)-1948326865;
-    oag3H1U9po    =    -1022208124;
+    oag3H1U9po    =    (short)-1022208124;
     OmcBQ5_    =    -391551046;
     o3Gn_p_D    =    (short)912036049;
     MVTb7m4G_    =    (short)1753128508;
@@ -55,7 +55,7 @@ int main(void)
     oH1V13    =    (short)-323006877;
     aapU    =    (short)1814044621;
     OeUcKJIv7    =    (short)414851224;
-    RfK70WPTt    =    -1908132904;
+    RfK70WPTt    =    (short)-1908132904;
     fi6f5lHwK1    =    1812474636;
     N1d1    =    (short)268119856;
     d0Lqn9ztc    =    (short)1042234076;
@@ -65,7 +65,7 @@ int main(void)
     D5ohx88Yf    =    (short)431991354;
     ySklva8    =    (short)-1680052167;
     vEdI    =    (short)-648500199;
-    FempEi13    =    547773767;
+    FempEi13    =    (short)547773767;
     fO75    =    -321631349;
     B8b4_0K1t5    =    (short)-1198708973;
     kv5FB    =    (short)-1380082362;
@@ -75,7 +75,7 @@ int main(void)
     XXLM    =    (short)255144921;
     r5bfJ1    =    (short)-643109870;
     YkphA    =    (short)1095655346;
-    aQBRGD2jWd    =    -1077206372;
+    aQBRGD2jWd    =    (short)-1077206372;
     CMu5E    =    -1870806590;
     CHBLkfj3Uz    =    (short)1049613662;
     mqrd    =    (short)1426864860;
@@ -85,7 +85,7 @@ int main(void)
     A08i0v    =    (short)-2049032916;
     nfbj1_Q    =    (short)-1498176839;
     oaX0_f48    =    (short)-1366984638;
-    TlS36    =    426296005;
+    TlS36    =    (short)426296005;
     ilTYp    =    1133596271;
     l0u79V40c    =    (short)-1644780197;
     HdHdM4    =    (short)-1261325092;

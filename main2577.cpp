@@ -34,7 +34,7 @@ int main(void) {
   Kk4LW6vC  =  (unsigned short)-724100177;
   dkkaT  =  (unsigned short)657926116;
   z084K5  =  (unsigned short)-1965270588;
-  EEFrFt7V  =  -1969532522;
+  EEFrFt7V  =  (unsigned short)-1969532522;
   s31A9lje6G  =  -1429935000;
   nC41iOcm2F  =  (unsigned short)1645891102;
   sX5g1mL  =  (unsigned short)-1054307335;
@@ -44,7 +44,7 @@ int main(void) {
   g52AAi08_  =  (unsigned short)-1975547401;
   W_0l4z  =  (unsigned short)1219871362;
   Wa3356  =  (unsigned short)1574184636;
-  Hzc3  =  -1244669383;
+  Hzc3  =  (unsigned short)-1244669383;
   dO57b  =  -321430050;
   xtvvT  =  (unsigned short)-1570472560;
   u98O37  =  (unsigned short)-2034341830;
@@ -54,7 +54,7 @@ int main(void) {
   DWGq12B  =  (unsigned short)-501789363;
   oiBz_y  =  (unsigned short)1667269849;
   IN9D7  =  (unsigned short)986179353;
-  W9TZSc6e9e  =  1144807398;
+  W9TZSc6e9e  =  (unsigned short)1144807398;
   x49Hi27J  =  2128589223;
   PS6_  =  (unsigned short)-552735864;
   cGY3F  =  (unsigned short)1647394247;
@@ -64,7 +64,7 @@ int main(void) {
   q700_q2  =  (unsigned short)-380771491;
   PdCTg  =  (unsigned short)788646536;
   UG9eJKl  =  (unsigned short)2074716633;
-  vda8  =  -2076054014;
+  vda8  =  (unsigned short)-2076054014;
   d5x6  =  542897441;
   dcZEiAjd  =  (unsigned short)338435040;
   xQB7M07  =  (unsigned short)1237747328;
@@ -74,7 +74,7 @@ int main(void) {
   N7r3Y9  =  (unsigned short)542728251;
   nmhzz7a  =  (unsigned short)128912280;
   WrM9E3  =  (unsigned short)1506099510;
-  mC69e  =  1667871785;
+  mC69e  =  (unsigned short)1667871785;
   Q5D_  =  -2010822558;
   RXf7  =  (unsigned short)-2076609520;
   e31_h  =  (unsigned short)-1572340000;
@@ -84,7 +84,7 @@ int main(void) {
   bX0ZdgA  =  (unsigned short)760351405;
   Ml_bF3hm8J  =  (unsigned short)-1693247236;
   Adc6  =  (unsigned short)-1649088420;
-  qn33O  =  484828428;
+  qn33O  =  (unsigned short)484828428;
   Ypl4  =  1753390795;
   oENSF1k  =  (unsigned short)-1840027886;
   GnLNoETJuq  =  (unsigned short)660895637;
@@ -94,7 +94,7 @@ int main(void) {
   YoV2S  =  (unsigned short)-352574392;
   yiq7tGu  =  (unsigned short)1141437867;
   O_c_ZRVQ46  =  (unsigned short)1718015197;
-  RPsSZW  =  -906328601;
+  RPsSZW  =  (unsigned short)-906328601;
   ew7qVv  =  1639249278;
   uR2h17ZT1  =  (unsigned short)517598010;
   kLQdNvW  =  (unsigned short)-1715342430;

@@ -374,7 +374,7 @@ case 8:
 h8qi2A = sc_w((short)1210274636, (unsigned char)1761606370, e0v5W7BN74, (unsigned short)1348132659, -1062166029);
 break;
 default:
-h8qi2A = sc_w(h8qi2A, (unsigned char)-1262111364, (unsigned short)1087250845, 146354674, j2GHsb);
+h8qi2A = sc_w(h8qi2A, (unsigned char)-1262111364, (unsigned short)1087250845, (unsigned short)146354674, j2GHsb);
 break;
 }
 }

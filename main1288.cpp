@@ -51,7 +51,7 @@ int main() {
   unsigned char  w_i5_ABw4  =  (unsigned char)193509405;
 
 TVVB3J9cSi = (int)(M806RR);
-n93l4Xda_ = L2X4q1lLu(yx_LgLhoA, 458249258, HrEN62, (char)1118745471, 1368842307);
+n93l4Xda_ = L2X4q1lLu(yx_LgLhoA, 458249258, HrEN62, (char)1118745471, (unsigned short)1368842307);
 
 G5Ng2W70J_ = (int)floor(KC2oLf);
 

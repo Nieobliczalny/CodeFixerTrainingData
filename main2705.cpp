@@ -51,7 +51,7 @@ int main()
  unsigned char mFsQ = (unsigned char)-1240104930;
 	long long	DIow	=	1661274922;
 	unsigned char	SNlKLB8	=	(unsigned char)-1715025021;
-	short int	kRj1ytCQV	=	1603188182;
+	short int	kRj1ytCQV	=	(short)1603188182;
 	long long	LkMA514K6	=	680668042;
 	double	gVs3FywEWl	=	1739029096;
  unsigned short int InrrPIkf = (unsigned short)1247146572;

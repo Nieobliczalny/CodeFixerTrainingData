@@ -30,7 +30,7 @@ int main()
   qJN9A_SW  =  (char)-211193922;
   Qz_x0r__07  =  (char)1003935422;
   cD0C24Bj1  =  (char)-1694121777;
-  QJ6Lil  =  -1092097867;
+  QJ6Lil  =  (char)-1092097867;
   D9o3o7Pxg  =  1289581892;
   RUS77BPoC0  =  (char)1209820772;
   C212_  =  (char)-382966646;

@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   t92Huf8H  =  (char)-280122463;
   mmmowdr46l  =  (char)1036291790;
   T67UhZN38j  =  (char)-112722202;
-  k3r0FL  =  255003695;
+  k3r0FL  =  (char)255003695;
   cbf8F2_  =  -912174961;
   z_7v0L  =  (char)2073226994;
   by12G30m  =  (char)-408653174;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
   Mw62MOEWt9  =  (char)-672247456;
   Lo0v7Q  =  (char)1175758686;
   uSvVnooQNz  =  (char)-1946827771;
-  z_rFS  =  -1406994328;
+  z_rFS  =  (char)-1406994328;
   JvBb9Vpfp  =  -1514369840;
   A3oZ  =  (char)-193408770;
   j3yAy5  =  (char)-1176832352;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
   kD9mF8Qb5v  =  (char)69679332;
   R9S4d0N  =  (char)-1681739190;
   rdtr1aa  =  (char)1141126596;
-  iN8Agdi4O  =  370123562;
+  iN8Agdi4O  =  (char)370123562;
   OmRPE196a7  =  -518341666;
   NhvD  =  (char)-308879191;
   H48n0lCc  =  (char)-1533424406;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
   vM_7_  =  (char)2027592739;
   Zguf_EJ94  =  (char)170660843;
   mY32gL8b6V  =  (char)1863746916;
-  a72IIu  =  -1898075022;
+  a72IIu  =  (char)-1898075022;
   UrM1_  =  1749482460;
   eEqY2  =  (char)794239910;
   TRRv2Vys2  =  (char)908843534;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
   vmTx9My5  =  (char)-406240932;
   v_kfX66  =  (char)-348787685;
   Yl3D4Km  =  (char)-1223646299;
-  OiuIpubG  =  1430034442;
+  OiuIpubG  =  (char)1430034442;
  long long i7__AD, GL_pencAZ, McUUF3, l_MyRv;
  i7__AD = 0;
  GL_pencAZ = 0;

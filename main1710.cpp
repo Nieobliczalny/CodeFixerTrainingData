@@ -63,7 +63,7 @@ int main()
   unsigned char  HETS1s_CO_  =  (unsigned char)456547747;
     char    s1w8uI    =    (char)1882748976;
  unsigned short int m_X8i = (unsigned short)-2100261892;
- unsigned char Nr42r46_16 = 1228525063;
+ unsigned char Nr42r46_16 = (unsigned char)1228525063;
   short int  r2Pt  =  (short)-991361887;
     unsigned long    Zbs3q44b    =    -1058143510;
   char  W17HP  =  (char)82490275;

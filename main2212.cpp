@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
 	v9kv3_7	=	(unsigned char)-1603226493;
 	Ksz71	=	(unsigned char)932883122;
 	F4o905	=	(unsigned char)-708613427;
-	jW10jv7_	=	1707054740;
+	jW10jv7_	=	(unsigned char)1707054740;
 	TIFP2DoC	=	-264633009;
 	HrQx	=	(unsigned char)204514282;
 	i3hc_TmV	=	(unsigned char)-445744353;
@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
 	Zg5BPSho	=	(unsigned char)40139673;
 	I7CUL	=	(unsigned char)-866997691;
 	oV72q_p	=	(unsigned char)1932836006;
-	X6RCyC_N	=	-1209639188;
+	X6RCyC_N	=	(unsigned char)-1209639188;
 	Inp6	=	938404328;
 	wtoSbQq	=	(unsigned char)592891678;
 	bV4O3	=	(unsigned char)-1864606799;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
 	ceo6ph	=	(unsigned char)1423394692;
 	hurS	=	(unsigned char)-1046116220;
 	H2qu1J1	=	(unsigned char)-1601410992;
-	se4IQ	=	-533532840;
+	se4IQ	=	(unsigned char)-533532840;
 	id8C	=	1579355471;
 	gfqL3B6	=	(unsigned char)-62224513;
 	L4r7hL_I_a	=	(unsigned char)731230269;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
 	ZmlO	=	(unsigned char)1680477669;
 	Mcws4VmG	=	(unsigned char)-1572590013;
 	lcIrsXm5	=	(unsigned char)1523350720;
-	tyLAaS2Sd_	=	-52020389;
+	tyLAaS2Sd_	=	(unsigned char)-52020389;
 	c__5uV__Om	=	-860395186;
 	B8_4Cr6gX	=	(unsigned char)-1477936628;
 	Mb4k8EXE2	=	(unsigned char)877172456;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
 	y7CV3	=	(unsigned char)1856881252;
 	uIojBFJlTT	=	(unsigned char)-418378408;
 	TN4pRrk	=	(unsigned char)-767236160;
-	C792cdKgF2	=	-1618409407;
+	C792cdKgF2	=	(unsigned char)-1618409407;
 	Y94jH	=	-812955553;
 	eX1vYY3rK	=	(unsigned char)-231643575;
 	Mxa6puv	=	(unsigned char)-846496585;
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
 	qT5xbQQ	=	(unsigned char)815158561;
 	M74OY4	=	(unsigned char)-875104395;
 	so03Kyl	=	(unsigned char)2112334531;
-	itK62i_	=	-45926136;
+	itK62i_	=	(unsigned char)-45926136;
 	Jc_bPLc18	=	251980363;
 	eS9pdmZ	=	(unsigned char)-666304634;
 	g68F	=	(unsigned char)-303785726;
@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
 	h2P_p	=	(unsigned char)-1382537725;
 	R_o4Bf91	=	(unsigned char)-1289693735;
 	eXSKp4T	=	(unsigned char)-1287713316;
-	QGwfs88	=	-1931274609;
+	QGwfs88	=	(unsigned char)-1931274609;
 	rL6Us3	=	-660941485;
 	M0SFS	=	(unsigned char)1415303623;
   long long  l2uUs2,  sa04j55O,  i_QC,  HLo71Ru;

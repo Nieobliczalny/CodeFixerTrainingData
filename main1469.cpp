@@ -37,7 +37,7 @@ int main()
 	char	Q3n32S	=	(char)-1880014225;
  short Qp4RiJf = (short)610898140;
     long double    J8E2eHr    =    1295669040;
-	unsigned char	iuu9Gb	=	-1109449699;
+	unsigned char	iuu9Gb	=	(unsigned char)-1109449699;
  short int Suy2 = (short)-109532675;
     int    X778Dtu75Y    =    793758596;
  unsigned char s_UG__3U = (unsigned char)-2130984424;

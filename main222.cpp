@@ -74,7 +74,7 @@ int main(void)
  unsigned short xz34U9N7Jp = (unsigned short)-1890646010;
 	unsigned char	NX_6u088	=	(unsigned char)278354999;
   unsigned char  gI8wM7jG  =  (unsigned char)1084127222;
-	unsigned char	EgDZDg4tK5	=	730224442;
+	unsigned char	EgDZDg4tK5	=	(unsigned char)730224442;
  long long V790y223 = 663903468;
  unsigned long long J21bg = -1825180529;
  char pygNmfP7R0 = (char)-2001665264;

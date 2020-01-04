@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
  char CcL_ = (char)-336467012;
  unsigned short int HhhZKl = (unsigned short)1863240350;
     short int    XOo25l    =    (short)-224424236;
-  unsigned short int  S5tZ91xz  =  -14014905;
+  unsigned short int  S5tZ91xz  =  (unsigned short)-14014905;
     int    i4eMF    =    -491281357;
     double    i_9Et2M    =    -275281094;
  int LdBR7 = -167499461;

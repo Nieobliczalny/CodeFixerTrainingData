@@ -28,7 +28,7 @@ int main(void) {
   htW47LY  =  (char)-1337110362;
   z7Nt  =  (char)1986484150;
   e4_X9zq  =  (char)-1738135245;
-  E9kG  =  417733146;
+  E9kG  =  (char)417733146;
   DPdgO9449  =  557301424;
   q8g56z  =  (char)-895910328;
   r_UGDFIa  =  (char)-580279295;
@@ -38,7 +38,7 @@ int main(void) {
   UVP_0T3MY  =  (char)-1909198956;
   Fs14  =  (char)-758722032;
   Wa1Z  =  (char)-168221950;
-  qjitzBU  =  -1071110131;
+  qjitzBU  =  (char)-1071110131;
   CX6zpfyw  =  -1368578079;
   AeFrI  =  (char)1563165859;
   vcEn  =  (char)-2080083152;
@@ -48,7 +48,7 @@ int main(void) {
   YA0s30l_fn  =  (char)-1806769089;
   s8fHsz  =  (char)398793725;
   X1lEV8lv  =  (char)1668763057;
-  p2p27yApB  =  -1484468159;
+  p2p27yApB  =  (char)-1484468159;
   n6NP  =  950733172;
   C_QRPo62l  =  (char)2032845108;
   bCMh3ax  =  (char)352077550;
@@ -58,7 +58,7 @@ int main(void) {
   Bfsj2  =  (char)1799510201;
   C0_vMZ8  =  (char)1550856153;
   c2FmA0i2  =  (char)-1010076969;
-  CODnOn_  =  -738915747;
+  CODnOn_  =  (char)-738915747;
   A_82oFY7B  =  -298790740;
   XETFQ  =  (char)-2073335021;
   Q1sZ1mvZT  =  (char)-1660569697;
@@ -68,7 +68,7 @@ int main(void) {
   v3pOoNQ8W  =  (char)-1465703442;
   KDq2TVxC  =  (char)848455996;
   Bx_vws_3s8  =  (char)1355795914;
-  MjV70OqE86  =  1151179631;
+  MjV70OqE86  =  (char)1151179631;
   Cm886g4TP  =  1601654422;
   J17y5p0_4  =  (char)-1149002687;
   On7T7  =  (char)1643040844;
@@ -78,7 +78,7 @@ int main(void) {
   Y88_  =  (char)696608102;
   P3pUQ5oH0b  =  (char)747893689;
   s67JL8n0  =  (char)-1445238634;
-  FSl_LBl  =  -633115870;
+  FSl_LBl  =  (char)-633115870;
   ayoeDybe  =  1455879598;
   EW9HGp  =  (char)-2144629563;
   tIOZq  =  (char)-1242537340;
@@ -88,7 +88,7 @@ int main(void) {
   w3Yk3k  =  (char)-438203619;
   Rv837DBW  =  (char)-1325501054;
   cSyU4  =  (char)432681146;
-  V21w5hm15  =  1163026877;
+  V21w5hm15  =  (char)1163026877;
   sA__vg8  =  -1139803586;
   iKIYkC2_  =  (char)-1469570666;
   dJfN  =  (char)-1769231486;
@@ -98,7 +98,7 @@ int main(void) {
   f6l4xi  =  (char)-1529774569;
   d2j9  =  (char)-366053286;
   PjDHfxbrg  =  (char)-585944316;
-  rJgJp  =  2112235397;
+  rJgJp  =  (char)2112235397;
   h0277  =  -1852363331;
   CjEI6_yez  =  (char)-576098052;
   B86Ovs7  =  (char)1633771273;

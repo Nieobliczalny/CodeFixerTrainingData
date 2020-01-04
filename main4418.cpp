@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
   unsigned short int  G53_4A3  =  (unsigned short)359757114;
   short int  izgLvyC4R  =  (short)-163422659;
  unsigned short int zP510X = (unsigned short)1419268039;
-	short int	hpgt	=	-764620660;
+	short int	hpgt	=	(short)-764620660;
   long double  WJQeag9_R  =  1435850905;
     unsigned long    rGaN4M    =    -1997333595;
   unsigned long long  DxXb7hN  =  -1040959344;

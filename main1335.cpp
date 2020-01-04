@@ -346,7 +346,7 @@ case 'e':
 FvyTOS = (l6pO7h3 == tDtZ_PkvNn) ? FLRd861F42(v57v8, bK93_k, (unsigned char)-1397598630, N24db, ACJhlCZD) : (unsigned short)-1862841597;
 break;
 case 'f':
-z9I8 = FLRd861F42(1381421630, W8wA5g, bK93_k, 1824162473, 295134141);
+z9I8 = FLRd861F42(1381421630, W8wA5g, bK93_k, (unsigned char)1824162473, 295134141);
 break;
 case 'g':
 z9I8 = FLRd861F42(-910545664, (char)-1780160800, uRK7T2, k84Z4, (short)530780792);

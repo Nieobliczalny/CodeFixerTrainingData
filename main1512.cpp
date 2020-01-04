@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
  HMEY = (char)785697426;
  iwf1jms1Y9 = (char)-1017752224;
  X0pyYAm2F4 = (char)-961639305;
- I7GQ = 646684386;
+ I7GQ = (char)646684386;
  eAv4wZ3R = -272612363;
  d5uao9 = (char)-278501150;
  t5y3 = (char)-473310883;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
  X366kg_90 = (char)-774063356;
  GkoH = (char)742783951;
  J69hA = (char)-392257316;
- Igc_3EOG = 283491505;
+ Igc_3EOG = (char)283491505;
  Xi5_4YK0v7 = -470188716;
  PZb1_ = (char)-726288358;
  jg3R0 = (char)-1961518070;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
  uQIldElQ = (char)-1563308407;
  Ve4ft5DW = (char)-431488615;
  wn_od = (char)1295393550;
- kNAac = 1568198305;
+ kNAac = (char)1568198305;
  XMoT = 655993413;
  zmF0 = (char)894650394;
  v4w5 = (char)2000468488;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
  AlUi1Y6v8 = (char)1402097483;
  f0UZt_1_b1 = (char)-1696967161;
  c8bR_9ZU = (char)-1152613978;
- dR3E = 2045135320;
+ dR3E = (char)2045135320;
  Og5Mu = -1781697807;
  U06Z5tLv = (char)1542143086;
  dP0P4Mi = (char)351995526;
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
  mNuq = (char)-1502163062;
  aT9oikc = (char)-345060302;
  xqI5T = (char)-206107741;
- CIUz = -1131469819;
+ CIUz = (char)-1131469819;
  C2P6R_D = -1077956312;
  fN_3s_6 = (char)833421923;
  kx4E = (char)-1689610357;
@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
  Mzd7 = (char)-1931453392;
  CH547L5GY = (char)417774646;
  GN45i97Gz0 = (char)-2141112728;
- aECC = 213172092;
+ aECC = (char)213172092;
  Rfx2sp = 1341072865;
  rQLEC8J236 = (char)653704102;
  besHEjZ = (char)2048188276;
@@ -93,7 +93,7 @@ int main(int argc, char** argv) {
  zlc15N5 = (char)540696760;
  w3ori18 = (char)461974437;
  OONz0P4o4 = (char)1418945922;
- O232_PR = 1117930076;
+ O232_PR = (char)1117930076;
  iiQ41F = -1796003822;
  RYo80bvn5n = (char)721538124;
  pj_j6 = (char)-941376707;
@@ -103,7 +103,7 @@ int main(int argc, char** argv) {
  D8D80zhp = (char)298271668;
  zp8rf = (char)796733453;
  p06ef53PJ = (char)-1142490935;
- p6Xwn = 623123405;
+ p6Xwn = (char)623123405;
 
 try
 {

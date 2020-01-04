@@ -26,7 +26,7 @@ int main()
   rHAk9w69  =  (unsigned char)-722425512;
   z059u8Nuj8  =  (unsigned char)-1833556406;
   jQxW_kT  =  (unsigned char)-1791661362;
-  H9QtnIi  =  462930810;
+  H9QtnIi  =  (unsigned char)462930810;
   ijcm7x4D  =  124513349;
   sX0e2_8Y  =  (unsigned char)1436685811;
   o9_E6L  =  (unsigned char)-1128857526;
@@ -36,7 +36,7 @@ int main()
   eB1plww_pB  =  (unsigned char)406198742;
   u2qGsg  =  (unsigned char)-753336828;
   YHvE  =  (unsigned char)110694806;
-  u_0n9Xkg_f  =  -1338854054;
+  u_0n9Xkg_f  =  (unsigned char)-1338854054;
   Ux66ID8KT2  =  -1133201773;
   sG5qaFzC9V  =  (unsigned char)-699641234;
   nESh  =  (unsigned char)-1450228522;
@@ -46,7 +46,7 @@ int main()
   uIgz_u6  =  (unsigned char)-114939175;
   Y43eNC  =  (unsigned char)2130244823;
   MEUq  =  (unsigned char)1316559887;
-  Xr2q  =  389772103;
+  Xr2q  =  (unsigned char)389772103;
   o0z2PZa3  =  -363713207;
   eF7o  =  (unsigned char)-550665671;
   GVFvyZ5o  =  (unsigned char)640509526;
@@ -56,7 +56,7 @@ int main()
   z_V_xw  =  (unsigned char)-134713702;
   ZNj715  =  (unsigned char)-776851731;
   V4DHl3AX  =  (unsigned char)-126936630;
-  Ahcv0f5j74  =  2387316;
+  Ahcv0f5j74  =  (unsigned char)2387316;
   zu5_MjBYbV  =  109331474;
   DqE9PVO_h  =  (unsigned char)-1867585043;
   l4Nt  =  (unsigned char)-250982850;
@@ -66,7 +66,7 @@ int main()
   OxFY0D  =  (unsigned char)-1241628020;
   c_p9  =  (unsigned char)-1605562163;
   f1l6  =  (unsigned char)-496876498;
-  O6PAYj2  =  -1793027012;
+  O6PAYj2  =  (unsigned char)-1793027012;
   Az9l  =  1595615448;
   d4H9_j2L  =  (unsigned char)-1584777072;
   uC44U83dt  =  (unsigned char)-1671904942;
@@ -76,7 +76,7 @@ int main()
   P5Loz80v  =  (unsigned char)-1655523285;
   R_v4iL0P0  =  (unsigned char)6187711;
   mmqzJ9  =  (unsigned char)91187192;
-  bNG8_7o  =  277841069;
+  bNG8_7o  =  (unsigned char)277841069;
   U7TJ1M9  =  -284795435;
   zSPdp  =  (unsigned char)-1834707398;
   QeC31_  =  (unsigned char)1039471847;
@@ -86,7 +86,7 @@ int main()
   egYmov8o  =  (unsigned char)-473306809;
   M60Mx8fu  =  (unsigned char)136296040;
   Ko_3  =  (unsigned char)1626562396;
-  JwAQvY  =  1503260501;
+  JwAQvY  =  (unsigned char)1503260501;
   imw42uz_  =  -689718042;
   k81dd  =  (unsigned char)-1685800905;
   Bf16ckt  =  (unsigned char)-685315961;
@@ -96,7 +96,7 @@ int main()
   rh_PzAm2Uw  =  (unsigned char)-201269116;
   d2__  =  (unsigned char)1468077057;
   Gyyqr3t  =  (unsigned char)-851673788;
-  n575YZjJ  =  2084268146;
+  n575YZjJ  =  (unsigned char)2084268146;
 
 switch (Gyyqr3t)
 {

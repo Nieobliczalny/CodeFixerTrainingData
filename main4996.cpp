@@ -32,7 +32,7 @@ int main()
 	Sr8g2	=	(unsigned char)1431544642;
 	U0rB	=	(unsigned char)-1475751129;
 	d736	=	(unsigned char)-2093719308;
-	tx4F	=	1039958917;
+	tx4F	=	(unsigned char)1039958917;
 	JCuI3D	=	-1834537111;
 	g00GfYsV	=	(unsigned char)2114144616;
 	Z9sq0dI12	=	(unsigned char)446922949;
@@ -42,7 +42,7 @@ int main()
 	SlQgnN	=	(unsigned char)541784873;
 	Xipt21	=	(unsigned char)779930275;
 	yPpXapSzP	=	(unsigned char)-494201037;
-	ggzJ82Ca	=	412408390;
+	ggzJ82Ca	=	(unsigned char)412408390;
 	IM5eZk2Ep_	=	-163514874;
 	jIRRz	=	(unsigned char)938703825;
 	v006wOV	=	(unsigned char)-265332690;
@@ -52,7 +52,7 @@ int main()
 	N32Txc59xI	=	(unsigned char)-1422338374;
 	Ddj0syQ	=	(unsigned char)1383428041;
 	WT1HRy_J	=	(unsigned char)-2088105882;
-	aa7r98tS	=	1741231740;
+	aa7r98tS	=	(unsigned char)1741231740;
 	V_B2078	=	-2007717680;
 	qtn3fiJUq	=	(unsigned char)1824500987;
 	SB62H	=	(unsigned char)398587101;
@@ -62,7 +62,7 @@ int main()
 	KH4DF_Zn2D	=	(unsigned char)-1982628875;
 	LO_4JXh	=	(unsigned char)407276587;
 	ZAvL7Nk6	=	(unsigned char)2015765141;
-	B0OkeI	=	-1751074899;
+	B0OkeI	=	(unsigned char)-1751074899;
 	d0X2m	=	-415927998;
 	mNxW_x8	=	(unsigned char)528620856;
 	Yj5XP	=	(unsigned char)-1325227234;
@@ -72,7 +72,7 @@ int main()
 	kqhL	=	(unsigned char)-1480583837;
 	HRMhrco	=	(unsigned char)-16370344;
 	Cr02A4Mm3Y	=	(unsigned char)-321639297;
-	q3upZ	=	-1425126911;
+	q3upZ	=	(unsigned char)-1425126911;
 	pyoKJduKe	=	1515380650;
 	j_2a	=	(unsigned char)-12238180;
 	BV4Z2v6uF9	=	(unsigned char)1556118257;
@@ -82,7 +82,7 @@ int main()
 	ry0uIeN3	=	(unsigned char)-890669372;
 	m3csx	=	(unsigned char)282250730;
 	jmm0cVUN8U	=	(unsigned char)-1096462260;
-	IpnVX	=	-302139776;
+	IpnVX	=	(unsigned char)-302139776;
 	d2Y8	=	-285136478;
 	Bsnq	=	(unsigned char)-157667267;
 	OMRO7AqTud	=	(unsigned char)-1461738086;
@@ -92,7 +92,7 @@ int main()
 	zW1C69171A	=	(unsigned char)1186833443;
 	UFQxxbx4	=	(unsigned char)1449849051;
 	VycDtVm_r	=	(unsigned char)-22491676;
-	OL_327sY	=	1741664689;
+	OL_327sY	=	(unsigned char)1741664689;
 
 std::cout << g00GfYsV << std::endl;
 for (int i = 3; i >= 0; i--)

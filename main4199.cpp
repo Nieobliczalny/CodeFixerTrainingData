@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   gyO_99u_bu  =  (unsigned char)-785679161;
   HrJBqX  =  (unsigned char)396557648;
   Qq_444S1O  =  (unsigned char)473135707;
-  QBhea  =  -118675836;
+  QBhea  =  (unsigned char)-118675836;
   oYPfF  =  519988955;
   bTu29  =  (unsigned char)574228362;
   vQHlhM395k  =  (unsigned char)1642969108;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
   dfM_  =  (unsigned char)-1533389885;
   fd1b1UM  =  (unsigned char)-884215951;
   cPe_mP_m2U  =  (unsigned char)-644138964;
-  WJyIOpXTj6  =  -1844780545;
+  WJyIOpXTj6  =  (unsigned char)-1844780545;
   P7O76  =  160827793;
   ie8k4QGM  =  (unsigned char)-376197048;
   RJIKy  =  (unsigned char)667365811;

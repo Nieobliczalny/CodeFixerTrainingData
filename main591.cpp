@@ -41,7 +41,7 @@ int main(void) {
   I5GhL3_Qb  =  (short)-834878264;
   aK2O8  =  (short)84685188;
   onmWs4zAZ  =  (short)-959018033;
-  z35N7Zmw  =  653079592;
+  z35N7Zmw  =  (short)653079592;
   lDToL7z  =  -1201566699;
   pqwd86  =  (short)1033197002;
   K__Hv3jc  =  (short)-223522439;
@@ -51,7 +51,7 @@ int main(void) {
   w2V2  =  (short)629516066;
   fLn49tiY  =  (short)-1397435827;
   zEkBzAsnIB  =  (short)1824925892;
-  Ob6oMa  =  -1501849050;
+  Ob6oMa  =  (short)-1501849050;
   Vv09u0162t  =  614456483;
   IyEV_  =  (short)139065831;
   Sj_JZ  =  (short)-997738987;
@@ -61,7 +61,7 @@ int main(void) {
   Cld3aQ_xRg  =  (short)-1977752443;
   r5PN58  =  (short)1832583303;
   svQzv0VOP  =  (short)-1626527630;
-  bslLUxL  =  -753296255;
+  bslLUxL  =  (short)-753296255;
   w6AiU9  =  1753434009;
   NGqVLRl  =  (short)907507335;
   R3H8MmX_1  =  (short)887534795;
@@ -71,7 +71,7 @@ int main(void) {
   ONqXR  =  (short)-833410506;
   b0Eb1Qnw  =  (short)-378445832;
   PC1HDkT  =  (short)-285656825;
-  KHUy6h5  =  217355051;
+  KHUy6h5  =  (short)217355051;
   G96w  =  534142708;
   Pg2Cq  =  (short)-1826109299;
   L4lOoX  =  (short)976011010;
@@ -81,7 +81,7 @@ int main(void) {
   ghW03j  =  (short)1500001605;
   gY3NAL1s  =  (short)1566063607;
   ZpJ_x13U  =  (short)1124282760;
-  oi643Ee  =  1568236772;
+  oi643Ee  =  (short)1568236772;
   l63qrGx5s  =  442569401;
   hpjT5Ic  =  (short)1206066685;
   mdqtS  =  (short)-1846491335;
@@ -91,7 +91,7 @@ int main(void) {
   uh_4BM6u  =  (short)1287514673;
   C6VFt_3KVP  =  (short)426500437;
   W0Ov9  =  (short)-1677095772;
-  Ev_NZTn9  =  1627386597;
+  Ev_NZTn9  =  (short)1627386597;
   C3AEu342  =  -823258268;
   rrUc2CC  =  (short)472629866;
   n60tS  =  (short)-1698028199;
@@ -101,7 +101,7 @@ int main(void) {
   HkBbRSAzRW  =  (short)406681371;
   kxM86bB  =  (short)330102585;
   W3w6H2W  =  (short)1977646118;
-  OUG7AY9v  =  -444362370;
+  OUG7AY9v  =  (short)-444362370;
   htTElsWo  =  -1761834926;
   rV40zkr  =  (short)-30541293;
   ZlJT9AqZE  =  (short)-1519656019;
@@ -111,7 +111,7 @@ int main(void) {
   dqYmPZKR  =  (short)-317118755;
   MWdYT  =  (short)-1352832408;
   A7Zo  =  (short)1795544750;
-  CWIm  =  -1205087453;
+  CWIm  =  (short)-1205087453;
   D_FQ  =  1239443826;
   long  av0j3HmD4,  S7BbX5o;
   av0j3HmD4  =  0;

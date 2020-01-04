@@ -28,7 +28,7 @@ int main(void)
  H_oRF51X = (unsigned short)503744314;
  O5P9 = (unsigned short)2120262738;
  tVnfsg3kO5 = (unsigned short)135089906;
- iw8Ky = 1224891877;
+ iw8Ky = (unsigned short)1224891877;
  Ii0WUW_0 = -586290649;
  b9YwD30Te = (unsigned short)-1866723181;
  T9pp7 = (unsigned short)324847792;
@@ -38,7 +38,7 @@ int main(void)
  iu19Q = (unsigned short)1714970222;
  z5M_ZOM_mj = (unsigned short)481377390;
  DdLVcWT1 = (unsigned short)-825235015;
- M4d7ST8i = -668102191;
+ M4d7ST8i = (unsigned short)-668102191;
  N2Jqp = -680573952;
  RbgIk = (unsigned short)1567838790;
  azqOIBp = (unsigned short)1994411880;
@@ -48,7 +48,7 @@ int main(void)
  wNiT_buq = (unsigned short)1134750659;
  yYsbW_ = (unsigned short)1739645003;
  afKOToVps = (unsigned short)-1182249355;
- Qqkz = 334318273;
+ Qqkz = (unsigned short)334318273;
  CpzD09AZ = -208143428;
  iu9hX = (unsigned short)28985862;
  EoQi4c0__ = (unsigned short)-448695507;
@@ -58,7 +58,7 @@ int main(void)
  qbphTx7Z2 = (unsigned short)-496672066;
  S6wJ1Drv = (unsigned short)-259405868;
  CVj9e8b = (unsigned short)707702603;
- mEy2kdv7PZ = 2087379437;
+ mEy2kdv7PZ = (unsigned short)2087379437;
  I6_f0dz = -1326463461;
  g0ccW9bA = (unsigned short)-991518689;
  a4a_k9 = (unsigned short)-781747583;
@@ -68,7 +68,7 @@ int main(void)
  DckS5D = (unsigned short)109700989;
  MMLkp = (unsigned short)-2085636853;
  m3m015Uq = (unsigned short)1002636091;
- s8T5 = -637452969;
+ s8T5 = (unsigned short)-637452969;
  u7PY04 = -1370763227;
  WT6D = (unsigned short)11593112;
  vB3K_OvBew = (unsigned short)-1134423347;
@@ -78,7 +78,7 @@ int main(void)
  BEK_f = (unsigned short)690834158;
  O305E5j1TT = (unsigned short)2067940621;
  f1s0qsgl_I = (unsigned short)1649365727;
- W2_kh = -1303171542;
+ W2_kh = (unsigned short)-1303171542;
  x9053 = 825988702;
  Wy34 = (unsigned short)1341484679;
  g_PT5Q = (unsigned short)1292208151;
@@ -88,7 +88,7 @@ int main(void)
  h7W06G = (unsigned short)1232996611;
  Ti2GLJ2 = (unsigned short)-508081464;
  Xlt89 = (unsigned short)1784063331;
- MH9W = 1981547937;
+ MH9W = (unsigned short)1981547937;
  BF11OSb = -491970380;
  DvC5X4_y = (unsigned short)1561232578;
  m1xbPtK = (unsigned short)1523387562;

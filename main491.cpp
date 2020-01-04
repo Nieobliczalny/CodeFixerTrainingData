@@ -18,7 +18,7 @@ int main()
 	enTx1R	=	(unsigned char)1235402892;
 	Q_6tKu7Fl	=	(unsigned char)215972398;
 	gX7wQKxk	=	(unsigned char)1396343861;
-	itAu847	=	-1744161011;
+	itAu847	=	(unsigned char)-1744161011;
 	short int	BK0p,	dId6E6,	Ot8518mGzB;
 	BK0p	=	0;
 	dId6E6	=	0;

@@ -192,7 +192,7 @@ case 'd':
 ke030 = ldNVQ(fzKJm_, (unsigned char)-1284324044, (unsigned short)-957802443, (unsigned short)689945917, HI5JN);
 break;
 case 'e':
-ke030 = ldNVQ((unsigned char)-1091056426, -253308612, cp476Mf, gEYFFH459, tLBcSDz);
+ke030 = ldNVQ((unsigned char)-1091056426, (unsigned char)-253308612, cp476Mf, gEYFFH459, tLBcSDz);
 break;
 case 'f':
 oz4Qu &= 45096000;

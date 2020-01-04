@@ -33,7 +33,7 @@ int main()
   Kb_kU  =  (char)77810943;
   H_v_j0Y  =  (char)-1834404355;
   g1eXqy7u  =  (char)752929170;
-  D_V55r  =  796347497;
+  D_V55r  =  (char)796347497;
   FIyKJY_d  =  -1107058884;
   aS1_kD  =  (char)1588620359;
   F8ai3  =  (char)-223333281;
@@ -43,7 +43,7 @@ int main()
   c91uaUKJLZ  =  (char)-333933658;
   wPF8  =  (char)1328692187;
   mbn5WVNw6  =  (char)-1015872706;
-  C8T0W  =  816259465;
+  C8T0W  =  (char)816259465;
   UNNY702tPh  =  1239960415;
   D4M1KBA  =  (char)-1911695103;
   P5X534C  =  (char)800317841;

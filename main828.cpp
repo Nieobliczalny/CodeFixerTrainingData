@@ -24,7 +24,7 @@ int main(void) {
   j73yy_OMo  =  (unsigned char)1156175654;
   KS5vY0U  =  (unsigned char)-1432058541;
   lImKoT  =  (unsigned char)1127714272;
-  C661K0Q  =  -1931524500;
+  C661K0Q  =  (unsigned char)-1931524500;
   Tf1_yk57r  =  -1199544989;
   x9RlXtH  =  (unsigned char)-612490471;
   znmlvg  =  (unsigned char)-947290089;
@@ -34,7 +34,7 @@ int main(void) {
   NCQ5vy51sU  =  (unsigned char)1895813812;
   v2O5pNPP  =  (unsigned char)-124260093;
   He_E  =  (unsigned char)1895922617;
-  b6_ze0Q  =  -1621096944;
+  b6_ze0Q  =  (unsigned char)-1621096944;
   xk3XP  =  -700502089;
   WwrwkN98  =  (unsigned char)1705525905;
   cg9d  =  (unsigned char)-1140754761;
@@ -44,7 +44,7 @@ int main(void) {
   t_I9mE1ow4  =  (unsigned char)-70175079;
   bNLCizC  =  (unsigned char)840418634;
   dMNR  =  (unsigned char)1667183103;
-  p1iXA2ml  =  -276664350;
+  p1iXA2ml  =  (unsigned char)-276664350;
   En68  =  -1278512416;
   hsRSt1NFdO  =  (unsigned char)1888187005;
   gesx6ch3  =  (unsigned char)-1485110480;
@@ -54,7 +54,7 @@ int main(void) {
   NZGGre_Y9  =  (unsigned char)-1444819423;
   CWE27H_5  =  (unsigned char)1952743609;
   yuN0  =  (unsigned char)-831524388;
-  EEz1Wpq8JF  =  -1625455718;
+  EEz1Wpq8JF  =  (unsigned char)-1625455718;
   nTKywp1Su9  =  2012209095;
   kJ31  =  (unsigned char)845219609;
   KP4N6  =  (unsigned char)797752776;
@@ -64,7 +64,7 @@ int main(void) {
   nTm_q_BT6  =  (unsigned char)1348146958;
   kvfp  =  (unsigned char)939056073;
   ba0L33  =  (unsigned char)847863720;
-  kcdvkA  =  796577630;
+  kcdvkA  =  (unsigned char)796577630;
   F80981A8  =  -1723428349;
   Dy4pD  =  (unsigned char)974215137;
   bbA__Q1Iuj  =  (unsigned char)-331495243;
@@ -74,7 +74,7 @@ int main(void) {
   tdmqNwjTw4  =  (unsigned char)-307762326;
   ia7J4I3w  =  (unsigned char)-264628729;
   fyO0nRO  =  (unsigned char)-1844619844;
-  lQnzfk  =  515151104;
+  lQnzfk  =  (unsigned char)515151104;
   Z_8KO1sAs  =  -1092006814;
   T4sW2xVeY  =  (unsigned char)328063938;
   HPDr84ZjW  =  (unsigned char)253525311;

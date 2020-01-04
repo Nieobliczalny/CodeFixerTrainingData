@@ -531,7 +531,7 @@ case 2:
 ww0A438k7 = D7hyiF((char)987297325, OTxlQ02z3, (unsigned char)1393970884, (unsigned char)-1758918806);
 break;
 case 3:
-ww0A438k7 = D7hyiF((char)-545057074, mdZZ2qiiW3, (unsigned char)-673226829, -346998779);
+ww0A438k7 = D7hyiF((char)-545057074, mdZZ2qiiW3, (unsigned char)-673226829, (unsigned char)-346998779);
 break;
 case 4:
 ww0A438k7 = D7hyiF(mdZZ2qiiW3, 807444547, (unsigned char)452987219, (unsigned char)849497963);

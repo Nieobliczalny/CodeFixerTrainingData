@@ -316,7 +316,7 @@ case 'e':
 cYV_e59o = (int)abs(bZHWP) + (-1853703637);
 break;
 case 'f':
-fj3yvWOnlX = LFt1B_LD5e((unsigned short)1803981308, C2A8jAhSN_, (short)1242012373, (short)-534430275, 1248461745) >> 1677517795;
+fj3yvWOnlX = LFt1B_LD5e((unsigned short)1803981308, C2A8jAhSN_, (short)1242012373, (short)-534430275, (unsigned short)1248461745) >> 1677517795;
 break;
 case 'g':
 fj3yvWOnlX = NER8Bd5Yo(fj3yvWOnlX, cYV_e59o, bZHWP);

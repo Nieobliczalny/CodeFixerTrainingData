@@ -28,7 +28,7 @@ int main()
     MJ4rnHh7EB    =    (char)361145217;
     y9Du    =    (char)1186525835;
     Z15o0    =    (char)-1677190879;
-    QqG9DU    =    -1856984161;
+    QqG9DU    =    (char)-1856984161;
  int otg6Z8aC, tY93H, b_F7Sa, iZrPu8OB88;
  otg6Z8aC = 0;
  tY93H = 0;

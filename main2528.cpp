@@ -25,7 +25,7 @@ int main(int argc, char** argv)
  XKg0 = (unsigned char)-202126980;
  OlQ0Frx = (unsigned char)-1535595773;
  jF78xd = (unsigned char)1701584649;
- vpLU = 784234697;
+ vpLU = (unsigned char)784234697;
  TpDQMdGbV = -293883860;
  Yrr7 = (unsigned char)-2016751498;
  H4T9D9wme = (unsigned char)435054300;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
  H98c = (unsigned char)1665965110;
  l211rz = (unsigned char)-1353167387;
  Ag22MmrDx = (unsigned char)688745435;
- gRUB7acU = -644612068;
+ gRUB7acU = (unsigned char)-644612068;
  j63N = -382292589;
  Ce9_T8_SP5 = (unsigned char)1231834214;
  iq_a8 = (unsigned char)-465820228;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
  GLPiopI92 = (unsigned char)887048861;
  Qoc28TV99 = (unsigned char)-725857939;
  fj2IAv = (unsigned char)-1206510308;
- WO3xnLA98 = -645946128;
+ WO3xnLA98 = (unsigned char)-645946128;
  z1M6EGP8 = 600415865;
  al__2U = (unsigned char)-2019960289;
  RMWBR0_VI3 = (unsigned char)-2138803136;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
  pO7PT_u39 = (unsigned char)-1799726840;
  Da36shixS = (unsigned char)1368707059;
  vAWGHY3c = (unsigned char)-531451557;
- i5L28UTF = -445637780;
+ i5L28UTF = (unsigned char)-445637780;
  Zl35I_X = -776228022;
  vhS_ = (unsigned char)1491912080;
  QCB35Dr830 = (unsigned char)-502948351;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
  fLZkgn__7d = (unsigned char)1992353159;
  Fig9 = (unsigned char)1892363907;
  eaT1 = (unsigned char)-1621487810;
- pDcS2b = 88676820;
+ pDcS2b = (unsigned char)88676820;
  FuTkiGP0I8 = -1828101497;
  pqOG0WqZlh = (unsigned char)636036824;
  J5qHj = (unsigned char)-152523557;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
  R682JQz = (unsigned char)1944246678;
  iKSd = (unsigned char)-486735333;
  N_03 = (unsigned char)365380598;
- rbIm_ = -1579142402;
+ rbIm_ = (unsigned char)-1579142402;
  VG8ETIkx = -1942922013;
  qo9LQMWcC3 = (unsigned char)-1542088585;
  SSf4h1610 = (unsigned char)136334446;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
  XNt__Ea = (unsigned char)-273303217;
  s4__PJSl = (unsigned char)35443978;
  Hg0KR = (unsigned char)1897363867;
- A4f59o = -1210258294;
+ A4f59o = (unsigned char)-1210258294;
  o746 = -1386717591;
  K_7tt7 = (unsigned char)-969482341;
  lNTE1r_J0 = (unsigned char)744470037;

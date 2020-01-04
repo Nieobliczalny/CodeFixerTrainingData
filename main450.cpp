@@ -22,7 +22,7 @@ int main() {
  h883 = (unsigned short)-516731329;
  OwIoT1 = (unsigned short)-2053710205;
  l2PFDQ = (unsigned short)-468170449;
- o2xKNZ = 1857288226;
+ o2xKNZ = (unsigned short)1857288226;
  B5KEH1h07k = -2127404754;
  zkwM = (unsigned short)-720441130;
 	unsigned int	iWe4stjM,	AM78S5L;

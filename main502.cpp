@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
 	YNl70	=	(unsigned short)540474472;
 	SAs2Kx0NN_	=	(unsigned short)1506409681;
 	eSR2Pv2	=	(unsigned short)-664845314;
-	pj4q4	=	-1142851120;
+	pj4q4	=	(unsigned short)-1142851120;
 
 {
 int i = 0;

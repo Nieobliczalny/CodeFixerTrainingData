@@ -31,7 +31,7 @@ int main()
     z2Po    =    (unsigned short)-858917353;
     i_5xK    =    (unsigned short)87462289;
     gtD4SbaZ    =    (unsigned short)-599555612;
-    Cpa5nw    =    233381621;
+    Cpa5nw    =    (unsigned short)233381621;
     q79c5U0    =    -1654598680;
     HZJn    =    (unsigned short)-506387714;
     tC2g6k_    =    (unsigned short)-600482559;
@@ -41,7 +41,7 @@ int main()
     iITmF_s    =    (unsigned short)-494573482;
     cp9CV6k    =    (unsigned short)450427344;
     xR13vbgD    =    (unsigned short)1749592918;
-    Jgjt7hT_c    =    1481873501;
+    Jgjt7hT_c    =    (unsigned short)1481873501;
     qe_A5E13    =    100954105;
     IYu__5ay2    =    (unsigned short)717341422;
     Sd5Qt_W    =    (unsigned short)-820287995;
@@ -51,7 +51,7 @@ int main()
     d644    =    (unsigned short)1423211874;
     o0_501r6    =    (unsigned short)1777127663;
     Qc_fKw5oy3    =    (unsigned short)-1992355104;
-    T_4Q9j4j0    =    -409589122;
+    T_4Q9j4j0    =    (unsigned short)-409589122;
     t02g2e39    =    871935592;
     HxJC9eSO35    =    (unsigned short)1037457034;
     mmuL2X    =    (unsigned short)1523337595;
@@ -61,7 +61,7 @@ int main()
     K65B_dX    =    (unsigned short)1692834930;
     gq6It8L1T    =    (unsigned short)-208689906;
     bmflX5n    =    (unsigned short)332770076;
-    DY77    =    -1636716454;
+    DY77    =    (unsigned short)-1636716454;
     q01R20116B    =    1527864245;
     R3hk    =    (unsigned short)-199336820;
     LhbEyp_76f    =    (unsigned short)523107592;
@@ -71,7 +71,7 @@ int main()
     wm9G16fWhz    =    (unsigned short)-1398456028;
     Wr_20r    =    (unsigned short)876525740;
     ehoZC__zM    =    (unsigned short)-1658625730;
-    OoaB72W7Kq    =    -1644816562;
+    OoaB72W7Kq    =    (unsigned short)-1644816562;
     GFj_5    =    493605057;
     Wv3D    =    (unsigned short)-291046073;
     a5_CG32v    =    (unsigned short)-338497732;
@@ -81,7 +81,7 @@ int main()
     FQ3wsz0j2e    =    (unsigned short)939885519;
     Ho2i9    =    (unsigned short)-376038791;
     OXgEu7Y8z5    =    (unsigned short)-1746400101;
-    D1PJc7lcIY    =    -1521487368;
+    D1PJc7lcIY    =    (unsigned short)-1521487368;
     a0_afM_    =    1800042608;
     B0Knl    =    (unsigned short)-1420609704;
     oZ49up    =    (unsigned short)-961804585;

@@ -234,7 +234,7 @@ std::cout << bx2_((unsigned short)-1282712192, LeH_bB2_, C56K2zGNx, -1494685105,
 
 if (bx2_((unsigned short)1399458750, (unsigned char)1284654287, (unsigned short)1546814768, iV71_, 1235647773) == 0)
 {
-	Q601_3h8 = daJ6u / bx2_((unsigned short)1399458750, 1284654287, 1546814768, iV71_, 1235647773);
+	Q601_3h8 = daJ6u / bx2_((unsigned short)1399458750, (unsigned char)1284654287, 1546814768, iV71_, 1235647773);
 }
 
 o7s6v1x = (int)(zOw0Uc);

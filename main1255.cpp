@@ -175,7 +175,7 @@ if ((vpBVn_h1_((unsigned char)-1704434395, kiH3B47, e89sD20CH, P47c1w5, Odzkw) /
 switch (Ex2plxA)
 {
 case 'a':
-J2x_q = vpBVn_h1_((unsigned char)814782720, kiH3B47, e89sD20CH, P47c1w5, 2053475387) / 1415671233;
+J2x_q = vpBVn_h1_((unsigned char)814782720, kiH3B47, e89sD20CH, P47c1w5, (short)2053475387) / 1415671233;
 break;
 case 'b':
 vn6Qqj24r /= Ybe_4QiGS;

@@ -19,7 +19,7 @@ int main(void) {
     nYjXn    =    (unsigned char)1294277591;
     VwFeAxfleN    =    (unsigned char)1668142323;
     B1Js    =    (unsigned char)476910071;
-    B1xL9Ne    =    -4127823;
+    B1xL9Ne    =    (unsigned char)-4127823;
     Y55S    =    1572412539;
     q885d    =    (unsigned char)-159556982;
     I11n4r94V    =    (unsigned char)555695490;
@@ -29,7 +29,7 @@ int main(void) {
     o_k_Bufsr8    =    (unsigned char)-1200986867;
     X7_HY0    =    (unsigned char)328149509;
     lZsr4P7    =    (unsigned char)633978616;
-    ur08y91L    =    1000231427;
+    ur08y91L    =    (unsigned char)1000231427;
     G8K71Q1L4    =    1392081564;
     UCXC8    =    (unsigned char)-2039302577;
     xseJMs9    =    (unsigned char)-653068971;

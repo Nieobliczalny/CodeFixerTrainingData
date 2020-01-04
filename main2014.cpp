@@ -27,7 +27,7 @@ int main()
     gIp405    =    (char)2040751277;
     H2TJKN    =    (char)72819624;
     RYsd    =    (char)2126028054;
-    qK7x9    =    1982366403;
+    qK7x9    =    (char)1982366403;
 
 if (((gIp405 <= fGoZt_) || (LxRbc2yiko == V7vl)) && (oMo66Xmf))
 {

@@ -37,7 +37,7 @@ int main(int argc, char** argv)
  Mg0L = (short)2015496354;
  p8KS33lx2A = (short)1640025170;
  w36b78 = (short)-740286533;
- b_461p = -845798612;
+ b_461p = (short)-845798612;
  EepJPb1_9 = 751443820;
  fhuHCHZ1 = (short)-513578277;
  o_5tyi9 = (short)1237102872;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
  O02s = (short)539589062;
  qMzen3 = (short)915090131;
  i5TTlC = (short)536376107;
- ecua = -720023281;
+ ecua = (short)-720023281;
  sdRw5 = -1353881183;
  wERcrIR8 = (short)-495454818;
  U_5QE = (short)-616701926;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
  T1ido = (short)-651657249;
  dE5Kt4g = (short)1992358426;
  F3rsiITU = (short)-1442449596;
- K8K86JT = 688851066;
+ K8K86JT = (short)688851066;
  Y6MNidF9T3 = 1658569312;
  iSg8T_V = (short)274243008;
  kr_nj37 = (short)-2038015067;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
  w88Vv3yj = (short)-162700925;
  H8PgPxV0q = (short)1988294558;
  g8_j = (short)-1550046548;
- wvDDO = 733869071;
+ wvDDO = (short)733869071;
  nlWYF0Cl = 87808760;
  Ann_ir = (short)233201993;
  WuM44Ds = (short)1814491452;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
  O54cnLiCb = (short)558501578;
  BRc_z917 = (short)1330814859;
  sP9_26Zxw1 = (short)2120377706;
- o088XL = 1786380494;
+ o088XL = (short)1786380494;
  M_uY3 = -1544703042;
  S7TuNY80O = (short)-1373094717;
  k_140B5 = (short)1255040447;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
  raFp9 = (short)1194237212;
  Wsvja56rB2 = (short)-21609076;
  BypXpF_ = (short)1584203405;
- hkWy8cZCTI = -1229967180;
+ hkWy8cZCTI = (short)-1229967180;
  u7W8x8GH = -1941513703;
  AZmV_1 = (short)-1623603398;
  P0EwF7sUF = (short)-1194435001;
@@ -97,7 +97,7 @@ int main(int argc, char** argv)
  Kv09q = (short)713516500;
  mRXoI6_9MD = (short)1202684398;
  u8S24_ = (short)582769931;
- t269m = 1537376808;
+ t269m = (short)1537376808;
  t6iB = -1064674426;
  DhKw = (short)1889417109;
  Rmle6gb = (short)-33933337;
@@ -107,7 +107,7 @@ int main(int argc, char** argv)
  RiA1r = (short)1383077545;
  Ed9dh6 = (short)-562002021;
  xQB1 = (short)1737384307;
- fi9NNZR9iO = 273101212;
+ fi9NNZR9iO = (short)273101212;
  XTz1 = -645506764;
  p5Y0i6_ = (short)1454716980;
  NtTW39gJu = (short)1565098218;

@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     L47QJxuw    =    (unsigned char)-1258191878;
     j2D7f6jQ    =    (unsigned char)-282559690;
     J4srV_e    =    (unsigned char)-718318752;
-    xPblU    =    1506730563;
+    xPblU    =    (unsigned char)1506730563;
     EU9Cu    =    886568494;
     M_ZQrH79_    =    (unsigned char)-1422033799;
     k33W3P5T    =    (unsigned char)1105341887;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
     C3_27JCH    =    (unsigned char)647497451;
     GvD35    =    (unsigned char)108217812;
     DLoCk6qkF    =    (unsigned char)278816449;
-    iBj2_mn    =    -1203103404;
+    iBj2_mn    =    (unsigned char)-1203103404;
     GDC6I    =    169007909;
     m5sD2Sc9U4    =    (unsigned char)603190994;
     nu6T    =    (unsigned char)966955588;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
     az3S8b3ek_    =    (unsigned char)-2049746853;
     zSB6zJI    =    (unsigned char)-1839879830;
     I_VExf    =    (unsigned char)391715678;
-    Nvd__    =    412948802;
+    Nvd__    =    (unsigned char)412948802;
     lE15jWoC0    =    -826949627;
     iYOs9N63    =    (unsigned char)1804157;
     Tkd06    =    (unsigned char)276690173;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
     WGZYLqY    =    (unsigned char)-974371665;
     lyxN    =    (unsigned char)859918207;
     D8RqmLZt    =    (unsigned char)717972489;
-    I_t7ocP    =    -580387829;
+    I_t7ocP    =    (unsigned char)-580387829;
     tgN2AsV    =    449419576;
     ojUt2    =    (unsigned char)-1918261711;
     d6rRY14I    =    (unsigned char)1315370948;
@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
     Ds0Fi    =    (unsigned char)2105809070;
     D3w0cU    =    (unsigned char)1314144796;
     T_7o3    =    (unsigned char)984793241;
-    B39n    =    2033688664;
+    B39n    =    (unsigned char)2033688664;
     Qh39X2xO    =    1529566047;
     b2XwFC8jLE    =    (unsigned char)-1357772842;
     lKqJ8F2m8    =    (unsigned char)-863421253;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
     Dm6zQr1I    =    (unsigned char)591024524;
     RU4602X0    =    (unsigned char)-932642837;
     Q_Y0w    =    (unsigned char)-1744419404;
-    YgE9AJvI    =    -1571605732;
+    YgE9AJvI    =    (unsigned char)-1571605732;
     qmuMfmwZ    =    -1505169711;
     GRw9Fa_K    =    (unsigned char)367574982;
     NT4b    =    (unsigned char)691933578;

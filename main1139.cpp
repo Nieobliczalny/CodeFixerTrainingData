@@ -30,7 +30,7 @@ int main() {
 	qOn3hb	=	(unsigned short)-572551953;
 	Tec84Bfcw	=	(unsigned short)882317617;
 	qM4d	=	(unsigned short)1630010055;
-	d9y7	=	875895319;
+	d9y7	=	(unsigned short)875895319;
 	aVMZeK	=	484132526;
 	O4OI0chR	=	(unsigned short)766904359;
 	FXmlDg_Be	=	(unsigned short)755374072;
@@ -40,7 +40,7 @@ int main() {
 	y6MNC5uY2	=	(unsigned short)-520829028;
 	e_DSS	=	(unsigned short)687839690;
 	rb198R04	=	(unsigned short)-1209714125;
-	ulWF72HS	=	98379649;
+	ulWF72HS	=	(unsigned short)98379649;
 	fa3f9	=	-1610517255;
 	visf	=	(unsigned short)1436247342;
 	dqWHh	=	(unsigned short)-1543255077;
@@ -50,7 +50,7 @@ int main() {
 	a9A095fDiD	=	(unsigned short)49658445;
 	NkZw4mgp	=	(unsigned short)1822202263;
 	V_0877	=	(unsigned short)-379864093;
-	aPuGS_np2	=	-11475788;
+	aPuGS_np2	=	(unsigned short)-11475788;
 	PhY_	=	792060143;
 	CA2rr	=	(unsigned short)-1207355752;
 	ISV_AdmC5p	=	(unsigned short)1350523359;
@@ -60,7 +60,7 @@ int main() {
 	rTSQMG9jc	=	(unsigned short)-123987900;
 	HisuZ1Tn	=	(unsigned short)761447537;
 	lgH7FK	=	(unsigned short)-2026957172;
-	wii9C2	=	-692476027;
+	wii9C2	=	(unsigned short)-692476027;
 	HVr10	=	-726995359;
 	mx5HNoB2T1	=	(unsigned short)1094950940;
 	h469Vx4	=	(unsigned short)-1928217296;
@@ -70,7 +70,7 @@ int main() {
 	SQI2g0lS8	=	(unsigned short)-1734199649;
 	Z76k_A2J_	=	(unsigned short)346730950;
 	T0gzp7bnl	=	(unsigned short)-2006039250;
-	BaX13	=	-335425650;
+	BaX13	=	(unsigned short)-335425650;
 	i6_lHRZk	=	895445722;
 	f8E7	=	(unsigned short)-578874526;
 	tU4_i	=	(unsigned short)-435986848;
@@ -80,7 +80,7 @@ int main() {
 	jBFx	=	(unsigned short)-1839163037;
 	JrIvSreY	=	(unsigned short)-754685068;
 	ZshXX_	=	(unsigned short)-760534980;
-	lrz__YjT	=	-1896342821;
+	lrz__YjT	=	(unsigned short)-1896342821;
 	oGTC20JjV	=	-2116380059;
 	YQ6qaqPLb	=	(unsigned short)1695349413;
 	IUMAcw0	=	(unsigned short)-1871188828;
@@ -90,7 +90,7 @@ int main() {
 	VCuM3g	=	(unsigned short)2033577319;
 	g4b7l3E3	=	(unsigned short)-1918695512;
 	cdpA3vDt9	=	(unsigned short)859574619;
-	kkVAuL4Y	=	1961959767;
+	kkVAuL4Y	=	(unsigned short)1961959767;
 	OgAk_4v	=	-968854958;
 	agtxChg83	=	(unsigned short)-1129902430;
 	tGi2306	=	(unsigned short)497548666;

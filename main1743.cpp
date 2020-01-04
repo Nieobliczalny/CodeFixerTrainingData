@@ -31,7 +31,7 @@ int main(void) {
   unsigned short int  Ie_M61u4n  =  (unsigned short)1779645190;
 	unsigned char	KEytVMSi	=	(unsigned char)-201250864;
   unsigned char  aVqF3P5t  =  (unsigned char)1563723442;
-	short int	i_gba9ELd	=	-493110174;
+	short int	i_gba9ELd	=	(short)-493110174;
     unsigned long long    T_O5q    =    0;
 	unsigned char	g2_Uxz	=	(unsigned char)2024645223;
   float  D4XT03OLK  =  -1888323397;

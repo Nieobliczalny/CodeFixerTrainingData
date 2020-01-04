@@ -27,7 +27,7 @@ int main() {
 	e4NTBo7XT	=	(char)377061439;
 	c6OyM8o96V	=	(char)2132922932;
 	ZJga7A	=	(char)1042050563;
-	T4WJ48Z	=	377780285;
+	T4WJ48Z	=	(char)377780285;
 	O3ome4	=	-164505856;
 	p_OoR_o	=	(char)-952471869;
 	cSM1	=	(char)639812213;
@@ -37,7 +37,7 @@ int main() {
 	i_kYFfXz8	=	(char)-254186167;
 	chco7	=	(char)-1987472029;
 	OyJE4	=	(char)261076352;
-	QSC99PZnl8	=	1298498050;
+	QSC99PZnl8	=	(char)1298498050;
 	cnXk81	=	-1770276569;
 	Hg9o8i7JQ2	=	(char)505924717;
 	ktMJiFgi3	=	(char)-319767549;
@@ -47,7 +47,7 @@ int main() {
 	R7DE	=	(char)2048166680;
 	E1AYV	=	(char)-1184048303;
 	btpx2_2	=	(char)-692922421;
-	b3n89H6DU	=	-1800813118;
+	b3n89H6DU	=	(char)-1800813118;
 	v3gnuvxc	=	-641331299;
 	rcUw0_2T	=	(char)-203293572;
 	x_hA	=	(char)-388907890;
@@ -57,7 +57,7 @@ int main() {
 	YUCgpYk	=	(char)-2077323173;
 	khdz7B5	=	(char)1155661852;
 	rp8dmXa	=	(char)-911935832;
-	g0ruk	=	-1865140762;
+	g0ruk	=	(char)-1865140762;
 	xG2k	=	451178091;
 	D_0U__	=	(char)-2143931311;
 	h6Y7R	=	(char)3144654;
@@ -67,7 +67,7 @@ int main() {
 	GC91SlmAzI	=	(char)-1849066751;
 	m3b9O6rS	=	(char)-964934708;
 	hff_2RpoG	=	(char)1894328441;
-	w_10q5jX	=	-2025834955;
+	w_10q5jX	=	(char)-2025834955;
 	z00BIB2t	=	-1715351631;
 	DQa6dfp4	=	(char)1414151036;
 	Ph052	=	(char)198106040;
@@ -77,7 +77,7 @@ int main() {
 	itQ3	=	(char)1916919602;
 	T5rEXo7Qk0	=	(char)-2021838264;
 	GZi9RqpUyX	=	(char)873622302;
-	Vu0N9dG	=	1606780334;
+	Vu0N9dG	=	(char)1606780334;
 	FjcI8y9F	=	1875404947;
 	p77KIfp	=	(char)-1208004775;
 	Ip2_iTL	=	(char)270099842;
@@ -87,7 +87,7 @@ int main() {
 	x3YU	=	(char)-178916461;
 	lP1G3Lb	=	(char)-714431149;
 	Bh0NkE8Z	=	(char)1104050502;
-	VLf3CV	=	1756860945;
+	VLf3CV	=	(char)1756860945;
 	Z_5Lpu5M	=	-1212568436;
 	zvSM	=	(char)-1823989120;
 	qj_aMEPHGz	=	(char)-1338803740;
@@ -97,7 +97,7 @@ int main() {
 	WcOSue_Cj	=	(char)-837418281;
 	OLbuW	=	(char)-1136980514;
 	gIiSc5s_2P	=	(char)-1807037868;
-	ywRK	=	866721648;
+	ywRK	=	(char)866721648;
 	BNB3	=	1364812859;
 	tOcj	=	(char)1535200529;
 	PHNR4Pb	=	(char)1463558506;

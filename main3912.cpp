@@ -63,7 +63,7 @@ int main()
  char A8F247JXp = (char)1201992277;
  short O35sH8 = (short)2048991047;
     unsigned short int    Cku1ea5Ip_    =    (unsigned short)-708547318;
- short int kJ5X = 123462699;
+ short int kJ5X = (short)123462699;
     float    kN4U    =    -1858920019;
  unsigned short XN17JVYJfJ = (unsigned short)626830279;
 	long long	s_l0En	=	0;

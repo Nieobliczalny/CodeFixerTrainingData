@@ -30,7 +30,7 @@ int main() {
     bl3u_x    =    (unsigned char)-74285312;
     e7a__KDv    =    (unsigned char)1803744723;
     n9yH8t7Dc    =    (unsigned char)-416795717;
-    w3KWQ8lQje    =    -639473501;
+    w3KWQ8lQje    =    (unsigned char)-639473501;
     x5F_83D_u8    =    1087422003;
     kS3B0PBG83    =    (unsigned char)-194275347;
     h5_b0u7    =    (unsigned char)2108369180;

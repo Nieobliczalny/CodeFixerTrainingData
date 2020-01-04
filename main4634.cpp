@@ -17,7 +17,7 @@ int main() {
   Kxp2  =  (char)-79014401;
   iA5l99  =  (char)-37628005;
   x693uH24g9  =  (char)949043193;
-  xbSWu  =  -1045202617;
+  xbSWu  =  (char)-1045202617;
   b402JI7j5  =  -1748590898;
   R894r_E4  =  (char)-2058418954;
   ERTQ8Tad  =  (char)187109717;

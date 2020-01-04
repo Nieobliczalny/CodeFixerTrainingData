@@ -59,7 +59,7 @@ int main(void)
 	short int	dI8t_8YL	=	(short)-2051353036;
  unsigned char FiS5_68et = (unsigned char)1534073715;
     short    cVv33U1BG    =    (short)1375846108;
- short int IqV7mV = -100294588;
+ short int IqV7mV = (short)-100294588;
 	short	Sj_2I0	=	(short)1892593242;
  long q78xl_ = 259390776;
   double  k_FN8L41  =  865022919;

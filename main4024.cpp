@@ -49,7 +49,7 @@ int main() {
     Bywid9vrW    =    (char)-835400874;
     rvC33Q2_6    =    (char)-579757866;
     k01AJv2o    =    (char)-1363579387;
-    yd6R    =    -1242168601;
+    yd6R    =    (char)-1242168601;
     oiF3vMF    =    2045237604;
     m33u1Suj11    =    (char)2068502092;
     J__eZbh3E    =    (char)-442515279;
@@ -59,7 +59,7 @@ int main() {
     JH3sV022GW    =    (char)1746804520;
     DSR2L    =    (char)-1326588698;
     C2lbK4    =    (char)-1191751447;
-    Lo_GwW    =    473208620;
+    Lo_GwW    =    (char)473208620;
     Zfs_X5QY    =    2141160282;
 
 VWrFiL <<= JH3sV022GW;

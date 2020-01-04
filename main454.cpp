@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
   char  n07e  =  (char)974383482;
     short    v3Bj    =    (short)1331244229;
   unsigned short int  gR2ly  =  (unsigned short)1385473371;
-    unsigned char    m424biYlZ    =    -1605831048;
+    unsigned char    m424biYlZ    =    (unsigned char)-1605831048;
   unsigned char  C1EW6wTF  =  -917046430;
 	unsigned int	j_qLcjY	=	0;
 	unsigned short int	sSde	=	(unsigned short)317833816;

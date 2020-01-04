@@ -59,7 +59,7 @@ int main(void)
 	unsigned char	gy4Ot5cF	=	(unsigned char)742408941;
     unsigned short    X3Zu7x1L    =    (unsigned short)-1083974031;
 	unsigned short	E2X9pb	=	(unsigned short)-1023318983;
-	short int	XD4_8m6	=	-832825217;
+	short int	XD4_8m6	=	(short)-832825217;
     short    Yir_72ik_    =    (short)796268608;
 	double	O0eH96O	=	-1994570932;
 	long long	c2JdM	=	-863655595;

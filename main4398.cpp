@@ -77,7 +77,7 @@ int main(void)
  char utNYsi = (char)-1117542781;
   short  JcO638p664  =  (short)-1787108921;
 	unsigned short int	H2178a	=	(unsigned short)595289192;
-  unsigned short int  VpJO  =  -1912051168;
+  unsigned short int  VpJO  =  (unsigned short)-1912051168;
 
 {
 int i = 10;

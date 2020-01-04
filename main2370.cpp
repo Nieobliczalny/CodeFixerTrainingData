@@ -22,7 +22,7 @@ int main(void) {
 	Z3xVBk1NJT	=	(short)-1126346231;
 	aBTJ	=	(short)1661661469;
 	n19_I_	=	(short)-881017919;
-	egIr570	=	1027863813;
+	egIr570	=	(short)1027863813;
 	D0e0	=	1037269947;
 	Aqm6clLa9y	=	(short)-1356838056;
 	o13bwA	=	(short)1059406436;

@@ -27,7 +27,7 @@ int main(void) {
  F_FBy1h6 = (short)-363357405;
  sj1Dk41 = (short)-1182402393;
  gb_4Q = (short)722806325;
- Lat42b4 = 1389277947;
+ Lat42b4 = (short)1389277947;
  J681__pnaK = -1928306847;
  K0une25 = (short)-1822025915;
  d4N0bcTD7 = (short)-347418554;
@@ -182,7 +182,7 @@ case 'f':
 BM8Pc = RK1442O9((unsigned char)-1093085208, (unsigned short)-2033531469, b5Z5);
 break;
 case 'g':
-zguNIKj = RK1442O9((unsigned char)1665925402, gb_4Q, -1207408090);
+zguNIKj = RK1442O9((unsigned char)1665925402, gb_4Q, (short)-1207408090);
 break;
 case 'h':
 zguNIKj = RK1442O9((unsigned char)219042819, SMbdIl, G4c1);

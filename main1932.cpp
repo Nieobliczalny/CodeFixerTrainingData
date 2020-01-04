@@ -89,7 +89,7 @@ int main(int argc, char** argv) {
     short int    cY1_B    =    (short)1336130842;
   char  D5L6G9GK67  =  (char)1053867084;
     char    Jgf5Q5va_    =    (char)-1771035502;
-	short int	peT5q	=	493710964;
+	short int	peT5q	=	(short)493710964;
 	float	xIsskvg	=	1014661420;
     unsigned long long    qivD5xPi    =    -1045161237;
 	unsigned short int	yJ0_rF6OH_	=	(unsigned short)-396382820;

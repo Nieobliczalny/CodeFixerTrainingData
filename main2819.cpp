@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	long	Fmq5_	=	0;
     char    Oqf2QM30    =    (char)-1794445576;
 	short	QqAYG1HVGP	=	(short)920577616;
-    char    Ik89hw_pmV    =    1441669636;
+    char    Ik89hw_pmV    =    (char)1441669636;
 	double	CS1AbQ	=	-1604986738;
  unsigned short Z2PkWb8 = (unsigned short)1928078994;
 

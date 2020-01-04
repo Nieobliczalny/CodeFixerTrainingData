@@ -28,7 +28,7 @@ int main(void)
  O306 = (unsigned char)-1337719608;
  Yfv1 = (unsigned char)1347407719;
  XM8zgZbCk2 = (unsigned char)-874237791;
- U7E6 = -1914114097;
+ U7E6 = (unsigned char)-1914114097;
  hzh5_7 = -1868957861;
  fY7bgKyjTn = (unsigned char)-95951710;
  zPCCP = (unsigned char)-2105296546;

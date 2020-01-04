@@ -97,7 +97,7 @@ case 1:
 wLR6t0 = NG0BpA((short)636725752, (unsigned char)-1353198784, (unsigned char)106074277, 927231622, (short)-1101309881);
 break;
 case 2:
-NuZOAepk0t = NG0BpA(-1915864547, -1814064376, yx_7Wj, FmiXm2_jF, p9U0U0E0) & 1544739173;
+NuZOAepk0t = NG0BpA((short)-1915864547, -1814064376, yx_7Wj, FmiXm2_jF, p9U0U0E0) & 1544739173;
 break;
 case 3:
 w42d = NG0BpA(1180539059, JiF2Os, Qc8t, 397736543, -1655866165);

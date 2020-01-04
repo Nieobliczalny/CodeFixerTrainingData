@@ -28,7 +28,7 @@ int main(int argc, char** argv)
   NSxY  =  (short)-1639669728;
   lu6s8  =  (short)-475818872;
   o201zCy  =  (short)516346677;
-  tus_Bj0  =  -1802129118;
+  tus_Bj0  =  (short)-1802129118;
   TIAA_  =  -119610315;
   r_43sQIpG  =  (short)-1114740432;
   Vx0d_4YJ  =  (short)-1313001293;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
   Efs1a  =  (short)533272902;
   DivTw  =  (short)1628088430;
   B_Lq  =  (short)-764273543;
-  xjBL702W  =  -303675426;
+  xjBL702W  =  (short)-303675426;
   rIfrcifu  =  1802528883;
   R7pZX7  =  (short)-292685350;
   u5MrIa6uEd  =  (short)-1687820440;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
   e2iwFgK  =  (short)1316567333;
   xoK4U7  =  (short)-243958247;
   YxlbI8  =  (short)-147767533;
-  p5mf6l  =  -674609608;
+  p5mf6l  =  (short)-674609608;
   m2ct  =  1882684822;
   G73D  =  (short)277852091;
   b6Ft9n  =  (short)250546012;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
   sF15_  =  (short)-1313827330;
   BXF9uPb1Z  =  (short)-546256420;
   S1o60m96TJ  =  (short)-518235456;
-  gIwQ_4u6  =  -320752942;
+  gIwQ_4u6  =  (short)-320752942;
   YMPX34R_1  =  89504391;
   I86kBM  =  (short)-328405152;
   I246YH_  =  (short)1414702900;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
   H9J9w7  =  (short)-694772736;
   Fd90Sw7  =  (short)-1424978622;
   WVgSH0332X  =  (short)-1150813034;
-  L714m40  =  2127651454;
+  L714m40  =  (short)2127651454;
   j4_sJ_lgjs  =  834215895;
   J87Ba1  =  (short)-1511632889;
   N3Ii_ts_C  =  (short)1605472345;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
   ubKXB4wE3A  =  (short)1581430912;
   loC1RYSW4  =  (short)182682209;
   sKF_L_1  =  (short)-131938979;
-  c1ui3G  =  -1488069767;
+  c1ui3G  =  (short)-1488069767;
   PkEkJn_  =  1491723342;
   yyMm_I4_  =  (short)-298028693;
   mxZTd2  =  (short)-829062714;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
   NLPRTIf9__  =  (short)-866060317;
   myJ0  =  (short)602589464;
   JqRT88i8b  =  (short)2044165807;
-  H5iOa0i  =  -1089604576;
+  H5iOa0i  =  (short)-1089604576;
   ty3BB  =  -1097391121;
  long tCQr67, Gg0qH, h_9iG1orT, LtWkV;
  tCQr67 = 0;

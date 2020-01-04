@@ -398,7 +398,7 @@ case 'e':
 HvyX47 = qr61s((unsigned short)-1667696909, (unsigned char)-811763415, (short)483063846);
 break;
 case 'f':
-XoV553ZXaI = j5o0((unsigned char)-669028542, (short)355802364, 569279941, HvyX47, -1813269343);
+XoV553ZXaI = j5o0((unsigned char)-669028542, (short)355802364, 569279941, HvyX47, (short)-1813269343);
 break;
 case 'g':
 XoV553ZXaI = (Eo8T3NR_Z == GFLVOB7) ? HvyX47 : (short)-2101761159;

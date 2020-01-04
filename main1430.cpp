@@ -154,7 +154,7 @@ z21uz = (GFa6z & -1035051611) ? 2088764330 : rCo2P40;
 I0F31H = AiOC((short)1153264911, (unsigned short)-920591431, (unsigned short)1264430910, D2SPwk);
 try
 {
-std::cout << lW__Kx((short)1736089392, I0F31H, AD5QrT0, D2SPwk, -1525036348) << "f__D_" << l0z45CLGzc(-1903693374, I0F31H) << std::endl;
+std::cout << lW__Kx((short)1736089392, I0F31H, AD5QrT0, D2SPwk, -1525036348) << "f__D_" << l0z45CLGzc((unsigned short)-1903693374, I0F31H) << std::endl;
 }
 catch (int& errorCode)
 {

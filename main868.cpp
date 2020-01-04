@@ -36,7 +36,7 @@ int main() {
     pPj5v7    =    (short)-32978277;
     kW15do_    =    (short)1941748442;
     H6sa9    =    (short)-51322339;
-    sbY99G6    =    73243115;
+    sbY99G6    =    (short)73243115;
     B2lS_    =    1866329189;
     r3mvOlV    =    (short)-1417200762;
     VV9z_O    =    (short)-561747170;
@@ -46,7 +46,7 @@ int main() {
     AuO_    =    (short)1739860051;
     t3_WFTMx    =    (short)1613560182;
     WA2ltPs    =    (short)-999717704;
-    fTYl    =    1967144021;
+    fTYl    =    (short)1967144021;
     j2l0jZ3Z    =    -885301088;
     O4_q0    =    (short)1243104350;
     r0md0AkSAH    =    (short)753868467;
@@ -56,7 +56,7 @@ int main() {
     QLUPSRy13b    =    (short)1658945646;
     XcLeBRtBE    =    (short)2086918723;
     sn0q35z    =    (short)-1148826795;
-    ivwPbMhKt    =    1189545108;
+    ivwPbMhKt    =    (short)1189545108;
     HuR61vrvcU    =    -2105758187;
     Br8W6IS    =    (short)-1513070082;
     ln4j5    =    (short)553529555;
@@ -66,7 +66,7 @@ int main() {
     GUum1nkkHO    =    (short)157774698;
     N7xja    =    (short)-654326495;
     cSn9S_26    =    (short)-156789258;
-    A23XfOyx    =    1524046016;
+    A23XfOyx    =    (short)1524046016;
     V2GNwfn    =    -570980830;
     XDT4A0    =    (short)-2866851;
     FcFq4LS    =    (short)2096719821;
@@ -76,7 +76,7 @@ int main() {
     Ue18ba    =    (short)2131147733;
     kyyUKlKTYm    =    (short)2065380432;
     P5Ce6p    =    (short)-1181128874;
-    yPi8l6p    =    -1530464439;
+    yPi8l6p    =    (short)-1530464439;
     ijC599j    =    113037924;
     V0k96HF_    =    (short)-1043234052;
     csp7A678lP    =    (short)-1639935670;
@@ -86,7 +86,7 @@ int main() {
     u8IeK    =    (short)-697339792;
     H3_69S3    =    (short)917701886;
     sFD9    =    (short)1106852640;
-    KXy8    =    1557214551;
+    KXy8    =    (short)1557214551;
     PZW4jVS4    =    897261452;
     ErlUl    =    (short)846251598;
     BGAaF2_    =    (short)-1727176675;
@@ -96,7 +96,7 @@ int main() {
     R38W    =    (short)-126702351;
     pJvGEFJ8    =    (short)1153411507;
     d__t    =    (short)-1230596965;
-    moLF3dvJ7s    =    -1455951183;
+    moLF3dvJ7s    =    (short)-1455951183;
     BPZoyhdG2    =    1650577677;
     mt678xxf8    =    (short)-154158248;
     G_DYkFKpTH    =    (short)-65038828;

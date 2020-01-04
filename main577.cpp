@@ -22,7 +22,7 @@ int main(void) {
   C5A_9  =  (short)-172868076;
   O_M10r_mz7  =  (short)1733344297;
   FI7d  =  (short)-1139765209;
-  Kwe8L9y  =  -489796058;
+  Kwe8L9y  =  (short)-489796058;
 	int	Py_QmS4,	RbN2543,	X8gJ_8e_kW;
 	Py_QmS4	=	0;
 	RbN2543	=	0;

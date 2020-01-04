@@ -189,7 +189,7 @@ q1v4n1w6j = O_K7((unsigned short)1989047151, y4l1EpE, (short)-1385890924);
 
 y4l1EpE = (unsigned char)(HaQ_v8S);
 
-HaQ_v8S = VKkJA_glK / O_K7((unsigned short)1154440209, 1344478167, -1918008062);
+HaQ_v8S = VKkJA_glK / O_K7((unsigned short)1154440209, (char)1344478167, -1918008062);
 v2_LlG = (unsigned long)(y4l1EpE * v2_LlG);
 {
 int i = 0;

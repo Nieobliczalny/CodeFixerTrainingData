@@ -43,7 +43,7 @@ int main(void) {
   short int  eKxYzNd  =  (short)-260699634;
     short    AQ7iC    =    (short)1046684253;
  short int wISJ8lly = (short)851024560;
-	short int	p5fx	=	-1955541186;
+	short int	p5fx	=	(short)-1955541186;
  unsigned int Zt8m2 = 1244309914;
 	short int	BKht4	=	0;
   unsigned long long  kNPUmms1fg  =  1773342413;

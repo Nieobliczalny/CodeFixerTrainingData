@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
     BnNwu4r    =    (short)1390889679;
     fu4ee    =    (short)1362690015;
     TmY77    =    (short)1689571883;
-    I_r9uWNl3Y    =    532140215;
+    I_r9uWNl3Y    =    (short)532140215;
     S27n    =    591313603;
     cO633    =    (short)1302471981;
     d0D8B2    =    (short)866291516;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     HgHsuvDZDM    =    (short)28259383;
     HBkyCSI    =    (short)2132704086;
     TFaR9    =    (short)1736683505;
-    Vfm__SF99A    =    -533369786;
+    Vfm__SF99A    =    (short)-533369786;
     R5itArA0_h    =    901159939;
     W1057hP    =    (short)1940478490;
     U41fr8_TD5    =    (short)-1048272238;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
     WTW_g    =    (short)-1975663173;
     Id0yddEu    =    (short)687973198;
     dpL_8S_    =    (short)-650435608;
-    M5Z_Uz    =    202721342;
+    M5Z_Uz    =    (short)202721342;
 
 if (Vfm__SF99A == w7Ift)
 {

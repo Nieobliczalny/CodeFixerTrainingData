@@ -56,7 +56,7 @@ int main(void)
 	unsigned short	X__H	=	(unsigned short)1427711802;
     short int    iMG4fZ    =    (short)942397095;
 	unsigned long long	MQ73U	=	1966656877;
-	short	gGlFJ5	=	1357515654;
+	short	gGlFJ5	=	(short)1357515654;
  char bc1rTP6H6 = (char)-815719464;
   unsigned int  h3nQ9Gp  =  -652478876;
 	float	ll_x0	=	-345660129;

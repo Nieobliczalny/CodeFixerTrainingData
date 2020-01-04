@@ -31,7 +31,7 @@ int main()
  lL_0Do2i = (short)-1047375872;
  mFMqgj8 = (short)-368129254;
  f66hp = (short)-1908172742;
- g8RdKQ_5_U = 1529506187;
+ g8RdKQ_5_U = (short)1529506187;
  z07SEPp = 2052390381;
  nE078F = (short)-723136938;
  O8nqP = (short)598629383;
@@ -41,7 +41,7 @@ int main()
  WOhC8E1A = (short)-1051477390;
  oqLyW = (short)2042363366;
  x5xuGLU = (short)1911037974;
- Kgh7_R = -1981949152;
+ Kgh7_R = (short)-1981949152;
  Go1S = 930915610;
  BhFR9t89 = (short)876637556;
  n645VUF4i4 = (short)-2001678452;
@@ -51,7 +51,7 @@ int main()
  vKA7 = (short)-319218578;
  R3pGabFU = (short)626944971;
  w3qbd8u6j = (short)-1396016607;
- vktGG2 = -1811055919;
+ vktGG2 = (short)-1811055919;
  Z181 = -153056345;
  ygd0H34biU = (short)533463432;
  j3r4m7 = (short)1897432320;
@@ -61,7 +61,7 @@ int main()
  XFpj6 = (short)747145364;
  ypJnLVbUJ = (short)1262285769;
  YxsJrKrY8 = (short)308578942;
- inD1Rt_0qb = 593815356;
+ inD1Rt_0qb = (short)593815356;
  Dd281U = -411690342;
  U6hse9BW = (short)-603230960;
  Urt8C8lD4 = (short)-1258668330;
@@ -71,7 +71,7 @@ int main()
  ip7l = (short)1366000588;
  Gkfwv01Uk = (short)-1257497343;
  KPr1Pt = (short)-729575761;
- p8g5kQ3 = -308702605;
+ p8g5kQ3 = (short)-308702605;
  FvO8 = 896312338;
  vgR_T = (short)-241777879;
  H0462_ = (short)2097703564;
@@ -81,7 +81,7 @@ int main()
  J9bmI1gEX = (short)-2138860699;
  Nce4_zzQB_ = (short)-1766655144;
  ntGcau7Bk2 = (short)-1818064694;
- XW1t = 1048618125;
+ XW1t = (short)1048618125;
  Z4_98_kjya = -428064113;
  va6__ = (short)-1183950803;
  MDX3qcuet = (short)-1060650192;
@@ -91,7 +91,7 @@ int main()
  XE__ = (short)1748788308;
  pRLm7n9 = (short)1006298089;
  pW62zhlj5 = (short)-1246299127;
- IIl2f5 = 1096719539;
+ IIl2f5 = (short)1096719539;
  m_Y3ZPc0 = -2019125594;
  CV4KjA_3 = (short)1410055609;
  iNxc8czAth = (short)640577477;
@@ -101,7 +101,7 @@ int main()
  f02TR8 = (short)-1944001994;
  XqYd7Duw = (short)-1671022427;
  Br4TUo9wA = (short)-182756050;
- kTo1g4FOH = 538785896;
+ kTo1g4FOH = (short)538785896;
  EQtTfC63K8 = 793232408;
  WnO0vV8 = (short)745350467;
  ksSDZ51xx = (short)688723095;
