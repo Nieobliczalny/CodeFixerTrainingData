@@ -21,7 +21,7 @@ int main(void) {
     pfVDzc8    =    (short)1591850993;
     n_Y6IKRZ    =    (short)2136730805;
     nBwqk2v_Wb    =    (short)984904086;
-    qwz_lr5D_B    =    1551054115;
+    qwz_lr5D_B    =    (short)1551054115;
     DnHb8    =    (short)-1203102630;
     Hw0EPa6Xc    =    (short)-1742583288;
     L1O1uM9    =    (short)-1019536460;

@@ -28,7 +28,7 @@ int main(void) {
  sj1Dk41 = (short)-1182402393;
  gb_4Q = (short)722806325;
  Lat42b4 = (short)1389277947;
- J681__pnaK = -1928306847;
+ J681__pnaK = (short)-1928306847;
  K0une25 = (short)-1822025915;
  d4N0bcTD7 = (short)-347418554;
  P5_4CoCz = (short)303920770;

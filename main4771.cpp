@@ -91,7 +91,7 @@ case 2:
 dL8xlz = S6k747727l((unsigned short)-888475839, (short)1223993128, (short)801771600, (unsigned short)2033845389);
 break;
 case 3:
-f3e9 = j92o9(-704982340, -788377743, 1377780599, 44322836, a3sauPWF_4);
+f3e9 = j92o9(-704982340, (short)-788377743, 1377780599, 44322836, a3sauPWF_4);
 break;
 case 4:
 dW3a36_mp = yW3W6BiTk % 1385306839;

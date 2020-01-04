@@ -29,7 +29,7 @@ int main(void) {
     V5Fk_olZ    =    (unsigned short)-1579930232;
     lqgL    =    (unsigned short)863171399;
     ISh2eU6z    =    (unsigned short)1694756720;
-    HYJY2xv    =    -211829431;
+    HYJY2xv    =    (unsigned short)-211829431;
     JF4lf_Z    =    (unsigned short)-619983997;
     A6s7Fq81N    =    (unsigned short)-980012701;
     MT9_210    =    (unsigned short)-198677377;
@@ -39,7 +39,7 @@ int main(void) {
     U_CGh0XjI    =    (unsigned short)-775460051;
     nuuFk    =    (unsigned short)-546455851;
     b1R01    =    (unsigned short)-1968027119;
-    xnh_1Aa    =    2143888772;
+    xnh_1Aa    =    (unsigned short)2143888772;
     eueI    =    (unsigned short)1340281641;
     kz3yBoPg_    =    (unsigned short)-409320968;
     I70YMfsf    =    (unsigned short)1526366382;
@@ -49,7 +49,7 @@ int main(void) {
     TwmU1j3    =    (unsigned short)-1962719928;
     I1WR79p    =    (unsigned short)-33022518;
     r1j_s526N5    =    (unsigned short)-1473314223;
-    QYo4Q    =    1200495253;
+    QYo4Q    =    (unsigned short)1200495253;
     dgg6cJt    =    (unsigned short)74522918;
     r_m8c    =    (unsigned short)1180606396;
     hsJt29P5b    =    (unsigned short)1493053401;
@@ -59,7 +59,7 @@ int main(void) {
     EV8aSDuElX    =    (unsigned short)-1044297409;
     gZH794pK    =    (unsigned short)-775340163;
     etLLtY9bkM    =    (unsigned short)1020442641;
-    zgu97J    =    -236655708;
+    zgu97J    =    (unsigned short)-236655708;
     t6T8qJ    =    (unsigned short)-1758160107;
     g2xr6N7W    =    (unsigned short)1622759089;
     q41MkG    =    (unsigned short)-849652997;
@@ -69,7 +69,7 @@ int main(void) {
     GRrdD    =    (unsigned short)1470252004;
     Gz0_    =    (unsigned short)903125870;
     R5Cx3u    =    (unsigned short)572530854;
-    FYC9UD4NWz    =    1147109653;
+    FYC9UD4NWz    =    (unsigned short)1147109653;
     BI6U5GBZu    =    (unsigned short)2069633004;
     A_m6    =    (unsigned short)-1566630946;
     dm3o    =    (unsigned short)2076020003;

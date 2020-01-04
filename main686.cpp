@@ -284,7 +284,7 @@ case 'c':
 XkeiGp = U7R1f7gO(UN_H7, 804821517, fgJa_CICSZ, XkeiGp, (unsigned short)-523184091);
 break;
 case 'd':
-L7cWCz = U7R1f7gO((short)-953461834, 553335363, JLY5j8s09, (unsigned short)453082665, -583165059);
+L7cWCz = U7R1f7gO((short)-953461834, 553335363, JLY5j8s09, (unsigned short)453082665, (unsigned short)-583165059);
 break;
 case 'e':
 XkeiGp = U7R1f7gO(cDL68I7fs1, XkeiGp, ZVwB_, (unsigned short)-2128563564, (unsigned short)476482727);

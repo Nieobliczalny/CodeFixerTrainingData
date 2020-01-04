@@ -29,7 +29,7 @@ int main(int argc, char** argv)
   lu6s8  =  (short)-475818872;
   o201zCy  =  (short)516346677;
   tus_Bj0  =  (short)-1802129118;
-  TIAA_  =  -119610315;
+  TIAA_  =  (short)-119610315;
   r_43sQIpG  =  (short)-1114740432;
   Vx0d_4YJ  =  (short)-1313001293;
   x7Dx2  =  (short)1894210148;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
   DivTw  =  (short)1628088430;
   B_Lq  =  (short)-764273543;
   xjBL702W  =  (short)-303675426;
-  rIfrcifu  =  1802528883;
+  rIfrcifu  =  (short)1802528883;
   R7pZX7  =  (short)-292685350;
   u5MrIa6uEd  =  (short)-1687820440;
   n51QHDYX  =  (short)-2067920280;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
   xoK4U7  =  (short)-243958247;
   YxlbI8  =  (short)-147767533;
   p5mf6l  =  (short)-674609608;
-  m2ct  =  1882684822;
+  m2ct  =  (short)1882684822;
   G73D  =  (short)277852091;
   b6Ft9n  =  (short)250546012;
   wLym7RK59  =  (short)1647984362;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
   BXF9uPb1Z  =  (short)-546256420;
   S1o60m96TJ  =  (short)-518235456;
   gIwQ_4u6  =  (short)-320752942;
-  YMPX34R_1  =  89504391;
+  YMPX34R_1  =  (short)89504391;
   I86kBM  =  (short)-328405152;
   I246YH_  =  (short)1414702900;
   E3V2pTW0_w  =  (short)-1401804312;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
   Fd90Sw7  =  (short)-1424978622;
   WVgSH0332X  =  (short)-1150813034;
   L714m40  =  (short)2127651454;
-  j4_sJ_lgjs  =  834215895;
+  j4_sJ_lgjs  =  (short)834215895;
   J87Ba1  =  (short)-1511632889;
   N3Ii_ts_C  =  (short)1605472345;
   Ime7s2290t  =  (short)-281631367;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
   loC1RYSW4  =  (short)182682209;
   sKF_L_1  =  (short)-131938979;
   c1ui3G  =  (short)-1488069767;
-  PkEkJn_  =  1491723342;
+  PkEkJn_  =  (short)1491723342;
   yyMm_I4_  =  (short)-298028693;
   mxZTd2  =  (short)-829062714;
   c5Txfex  =  (short)1096427945;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
   myJ0  =  (short)602589464;
   JqRT88i8b  =  (short)2044165807;
   H5iOa0i  =  (short)-1089604576;
-  ty3BB  =  -1097391121;
+  ty3BB  =  (short)-1097391121;
  long tCQr67, Gg0qH, h_9iG1orT, LtWkV;
  tCQr67 = 0;
  Gg0qH = 0;

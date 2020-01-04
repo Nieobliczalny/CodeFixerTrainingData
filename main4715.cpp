@@ -40,7 +40,7 @@ int main()
  u64Xp = (short)609747685;
  hsi3Xx = (short)-451598718;
  J66Ro6 = (short)1782151789;
- UvxS12 = 479738535;
+ UvxS12 = (short)479738535;
  Ra_b27 = (short)1666909325;
  grn806 = (short)1548702327;
  QHg8kOqN = (short)-1746397526;

@@ -43,7 +43,7 @@ int main()
     FNjoF2UG51    =    (unsigned short)253838120;
     gfAF20FV5    =    (unsigned short)-1609938488;
     OANn2    =    (unsigned short)-794866610;
-    d3_V    =    -1875520507;
+    d3_V    =    (unsigned short)-1875520507;
     rt2d_MdsR    =    (unsigned short)-2034604389;
     n1Y1B0    =    (unsigned short)48037704;
     DA8WIM    =    (unsigned short)253518179;

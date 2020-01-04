@@ -37,7 +37,7 @@ int main()
  bU0p = (short)272490642;
  i5Csb = (short)-1321863928;
  BdMn9W39P = (short)20833659;
- CVTM6L8FQF = 2035243930;
+ CVTM6L8FQF = (short)2035243930;
  ST8i5a1Ig = (short)1255623945;
  Ny10 = (short)-1382584741;
  pMH0ycW = (short)1454643338;
@@ -47,7 +47,7 @@ int main()
  Ut_zS = (short)-645420414;
  Mi8Kj8W = (short)-233093091;
  U750o_3_7l = (short)2143398051;
- mMgEDwQ = -1123411605;
+ mMgEDwQ = (short)-1123411605;
  qZ60o4uUa = (short)-1320109313;
  V7iP = (short)-1429399428;
  XT9Q = (short)467512260;
@@ -57,7 +57,7 @@ int main()
  Qy_7p5nKL1 = (short)-290421551;
  SSaKXay = (short)-557263493;
  HHzrIj = (short)2056139667;
- NLou = 1851253069;
+ NLou = (short)1851253069;
  T2JgZ9W9oO = (short)1182394288;
  AxM4 = (short)1001931957;
  WKsAQ1N = (short)1720669351;
@@ -67,7 +67,7 @@ int main()
  wKIGLn_Yb4 = (short)-1184006911;
  x9zVO = (short)337116646;
  E1TvAS4Nn_ = (short)-1133386057;
- ZLAMXDuf = 1304460604;
+ ZLAMXDuf = (short)1304460604;
  M5e2 = (short)-2066711250;
  X2Udwr_ = (short)-418168356;
  Gs7kKF3 = (short)1622984647;
@@ -77,7 +77,7 @@ int main()
  uM_R0s57 = (short)-1189714070;
  t3d_LP_ = (short)-1843759840;
  ouglBB0bS = (short)1206678208;
- nPB6X8S87g = 1695539487;
+ nPB6X8S87g = (short)1695539487;
  qfVr = (short)-906852749;
  V_7C_1 = (short)1029903853;
  Kt1p1 = (short)-2116350287;
@@ -87,7 +87,7 @@ int main()
  h55F5ZivpP = (short)531665173;
  eA618tl = (short)-1183459576;
  eIVsINwUf9 = (short)815292171;
- O8VJY20U8 = -1394700335;
+ O8VJY20U8 = (short)-1394700335;
  XTgak_hz_u = (short)-9383953;
  G1td = (short)-207365898;
  s0C7_z0z0n = (short)1217210539;
@@ -97,7 +97,7 @@ int main()
  G4s73E = (short)372656572;
  A8KgY0 = (short)660008261;
  wGL84 = (short)-117507976;
- YP92SG71 = -1841246106;
+ YP92SG71 = (short)-1841246106;
  M101 = (short)-25035103;
  XaK32_k = (short)1360662161;
  NUIwX_RdG = (short)-885308792;
@@ -107,7 +107,7 @@ int main()
  a05k4_ = (short)-1610042099;
  Ob94xu = (short)924173390;
  yZHPC = (short)1786897012;
- wT0HP = 698234334;
+ wT0HP = (short)698234334;
  qn_s_ = (short)1185942238;
 
 for (int i = 0; i < 6; i++)

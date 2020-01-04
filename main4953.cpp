@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 	YwRCY	=	(unsigned short)122073061;
 	t717KewA	=	(unsigned short)-1757379799;
 	iUPyGM	=	(unsigned short)-1585820823;
-	ixIhVSJ38T	=	-136454677;
+	ixIhVSJ38T	=	(unsigned short)-136454677;
 	f8gu3njZ0c	=	(unsigned short)-2119975308;
 	ip2z	=	(unsigned short)174044990;
 	QzWkNQ	=	(unsigned short)-830993601;

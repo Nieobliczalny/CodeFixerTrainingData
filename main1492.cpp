@@ -264,7 +264,7 @@ while (j < 7);
 Sx46 = (int)ceil(pEl68);
 YbY2 = SAJ9((char)1190235346, 135651106, (short)-990375767, (short)2033538523, (unsigned char)99307481);
 K5d7 = -1258305956 / mn5f;
-P7_de = SAJ9((char)893698418, -1675569126, (short)-795373168, (short)-542541813, -1324919989);
+P7_de = SAJ9((char)893698418, -1675569126, (short)-795373168, (short)-542541813, (unsigned char)-1324919989);
 
 for (int i = 0; i < 7; ++i)
 {

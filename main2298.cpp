@@ -43,7 +43,7 @@ int main(void) {
  TOX3 = (unsigned short)-1468076468;
  ch0GU2T = (unsigned short)-1439683991;
  LB400b4R = (unsigned short)1069111127;
- JxYa1xBH = -1847731714;
+ JxYa1xBH = (unsigned short)-1847731714;
  cTym = (unsigned short)-412587315;
  Hx6gZ0 = (unsigned short)-460057918;
  tg_xU4Gl = (unsigned short)776075465;
@@ -53,7 +53,7 @@ int main(void) {
  gi3f7hD7wK = (unsigned short)1078619611;
  nVaPK = (unsigned short)231714994;
  pQ70IS_ = (unsigned short)-1770707420;
- dDJ7NW5fHo = 1508616165;
+ dDJ7NW5fHo = (unsigned short)1508616165;
  JO8F2X0 = (unsigned short)759291822;
  ve5h9WQ = (unsigned short)1172441484;
  S1VMmyn7U = (unsigned short)-1325490155;
@@ -63,7 +63,7 @@ int main(void) {
  XDzane = (unsigned short)-1461026010;
  jlNwr58vF = (unsigned short)-1483116272;
  A8AAwVG = (unsigned short)956347958;
- w76HBwFX = 1672563356;
+ w76HBwFX = (unsigned short)1672563356;
  K66izldqNm = (unsigned short)767057763;
  akY_jdXz64 = (unsigned short)-400216025;
  c6xj = (unsigned short)-531484338;
@@ -73,7 +73,7 @@ int main(void) {
  D6B49EL7 = (unsigned short)-786380416;
  lNY_M = (unsigned short)314132289;
  JEDpAu = (unsigned short)-484430802;
- g62YQm = -84865042;
+ g62YQm = (unsigned short)-84865042;
  CZp568Bp = (unsigned short)-2112975794;
  K4GkP = (unsigned short)-558532920;
  P7o9 = (unsigned short)-1876546682;
@@ -83,7 +83,7 @@ int main(void) {
  Fuq_U = (unsigned short)1682452788;
  V5pyyw4 = (unsigned short)-1980301498;
  izb78TDkKW = (unsigned short)-1368467116;
- I4eRP = 1441207339;
+ I4eRP = (unsigned short)1441207339;
  JjU__K4Nx_ = (unsigned short)-1658706449;
  WVUktz = (unsigned short)-745306967;
  tbNxE2M_G = (unsigned short)-112125641;
@@ -93,7 +93,7 @@ int main(void) {
  g_NwBIf = (unsigned short)1116531867;
  ofE2vXOSK = (unsigned short)-2080882446;
  kIeU7s = (unsigned short)846994465;
- VQllS_Nz = -1789644156;
+ VQllS_Nz = (unsigned short)-1789644156;
  l2vA9 = (unsigned short)-515407858;
  zUI0ph49W9 = (unsigned short)1292226302;
  L_9DV_kF = (unsigned short)-1328095669;

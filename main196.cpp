@@ -67,7 +67,7 @@ case 'd':
 Q3Cp = NeutTWdU2(WTXBzVLxv, cO6LT3F9Dd, (char)261867200, (unsigned char)218200475);
 break;
 case 'e':
-Q3Cp = NeutTWdU2((unsigned short)-914813938, (unsigned short)166265842, (char)-1770830228, -326332242);
+Q3Cp = NeutTWdU2((unsigned short)-914813938, (unsigned short)166265842, (char)-1770830228, (unsigned char)-326332242);
 break;
 case 'f':
 F5eqh &= 463588423;

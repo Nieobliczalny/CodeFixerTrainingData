@@ -227,7 +227,7 @@ case 4:
 fv4fz = FGX1ktj_2 / w5bKMIK;
 break;
 case 5:
-FGX1ktj_2 = vzA81r15s_((char)-1585503541, (char)-2086573211, nS5N9x_5, vr86tiC, 2034979732);
+FGX1ktj_2 = vzA81r15s_((char)-1585503541, (char)-2086573211, nS5N9x_5, vr86tiC, (unsigned short)2034979732);
 break;
 case 6:
 vr86tiC = YHrB16n_7 ^ 1458664619;

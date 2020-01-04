@@ -22,7 +22,7 @@ int main() {
   G4B__GxGo  =  (char)-1923765202;
   Q5pD06_9  =  (char)2012580126;
   UK_pv26  =  (char)-269987311;
-  QxMC_FLf6P  =  100509086;
+  QxMC_FLf6P  =  (char)100509086;
   wgp0JYZnY  =  (char)573406163;
   fGtQyo3YzI  =  (char)-1187904405;
   DGQ1XMa  =  (char)48635128;
@@ -32,7 +32,7 @@ int main() {
   oTlCO7  =  (char)71982755;
   z8Jbuuq3J  =  (char)-1630615124;
   qB7AP6  =  (char)-2006538600;
-  LU861h55  =  -1249946414;
+  LU861h55  =  (char)-1249946414;
   KQ003GvD2  =  (char)-476942786;
   z3ggppm  =  (char)471544540;
   jXIs  =  (char)-1587465667;
@@ -42,7 +42,7 @@ int main() {
   uAGsSz  =  (char)-345236421;
   rReJyeG  =  (char)-1616887770;
   G4g7K  =  (char)1141231720;
-  Oq_60878  =  1693774301;
+  Oq_60878  =  (char)1693774301;
   JoWX_BP6  =  (char)895436411;
   b1l6  =  (char)850385580;
   K3255ySPV2  =  (char)1497289817;
@@ -52,7 +52,7 @@ int main() {
   rHad2s5  =  (char)-1587205321;
   H20lNVf4  =  (char)-1338325570;
   cyi846  =  (char)-1785886146;
-  BDJ8RGhFtC  =  2088838458;
+  BDJ8RGhFtC  =  (char)2088838458;
   G9gr5  =  (char)-1577961217;
   b4wWc8cfXf  =  (char)2012543082;
   Dc8og6x  =  (char)-1149476092;
@@ -62,7 +62,7 @@ int main() {
   G52c8jQu0J  =  (char)1343485756;
   qzl72b7  =  (char)-67874956;
   fDH61761_  =  (char)-2041773419;
-  QWrhZJ  =  1830156088;
+  QWrhZJ  =  (char)1830156088;
   I_G8d  =  (char)-639713638;
   bjaa_  =  (char)-150080547;
   SxvV1jiU  =  (char)-67898828;
@@ -72,7 +72,7 @@ int main() {
   XaHP  =  (char)-1356671106;
   Ei5V  =  (char)998918132;
   nO5J3lMw  =  (char)1080875984;
-  D1ouJ5ewo  =  -1004381216;
+  D1ouJ5ewo  =  (char)-1004381216;
   E98qz  =  (char)-1291626339;
   DY_J  =  (char)-1466077226;
   L9M30iJ6K1  =  (char)672330018;
@@ -82,7 +82,7 @@ int main() {
   zhuc  =  (char)1279989858;
   KRNBr5DE4L  =  (char)314585510;
   u0B148  =  (char)-1831091463;
-  LWfV  =  -1977478787;
+  LWfV  =  (char)-1977478787;
   oc12__  =  (char)1288324981;
   PX91Q  =  (char)1175597213;
   d6gG76  =  (char)-969486985;
@@ -92,7 +92,7 @@ int main() {
   PFH4Fj0L  =  (char)568469778;
   i_w0X5nin  =  (char)204035341;
   pq5dx  =  (char)1852376225;
-  X0Mbc7o8m  =  887759212;
+  X0Mbc7o8m  =  (char)887759212;
   D4D6_90Xj  =  (char)844955260;
   I16LptCHuW  =  (char)-1354918026;
   Rm11  =  (char)-763682521;

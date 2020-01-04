@@ -333,7 +333,7 @@ std::cout << O05pG8dwAK((unsigned short)202931915, Ro64, Z3_loq, (short)12380971
 std::cout << O05pG8dwAK(TH2I9, (short)-1375978291, -1993544946, lruzNV, -1480630199) << O05pG8dwAK((unsigned short)729949400, (short)-985916513, Z3_loq, lruzNV, nR2b3) << std::endl;
 for (int i = 0; i < 3; ++i)
 {
-std::cout << O05pG8dwAK(TH2I9, Ro64, Z3_loq, (short)-2138361361, nR2b3) << E7FGq2C1Dz << O05pG8dwAK(TH2I9, -996082304, -855003661, 598970565, nR2b3) << std::endl;
+std::cout << O05pG8dwAK(TH2I9, Ro64, Z3_loq, (short)-2138361361, nR2b3) << E7FGq2C1Dz << O05pG8dwAK(TH2I9, (short)-996082304, -855003661, 598970565, nR2b3) << std::endl;
 }
 
 if (xvSrNH7XY != -1682102596)

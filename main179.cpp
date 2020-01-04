@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
   ed1_  =  (short)-1532781055;
   yUqyWA_  =  (short)1988681081;
   mVkr9Bq  =  (short)-900402977;
-  CnVL8i  =  123864710;
+  CnVL8i  =  (short)123864710;
   CY0Zd  =  (short)-618530345;
   F183830_0P  =  (short)2025401373;
   ii2F  =  (short)759776132;

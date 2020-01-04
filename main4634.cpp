@@ -18,7 +18,7 @@ int main() {
   iA5l99  =  (char)-37628005;
   x693uH24g9  =  (char)949043193;
   xbSWu  =  (char)-1045202617;
-  b402JI7j5  =  -1748590898;
+  b402JI7j5  =  (char)-1748590898;
   R894r_E4  =  (char)-2058418954;
   ERTQ8Tad  =  (char)187109717;
  short ucnOpQfM, Blaia_3x, PtLS, LURmf;

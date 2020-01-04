@@ -39,7 +39,7 @@ int main(int argc, char** argv)
   E9wFcoTZp0  =  (unsigned char)-612487436;
   BAy3b6Ye  =  (unsigned char)207133502;
   FubF6C4  =  (unsigned char)1069212736;
-  qX39DaWH  =  -1807736555;
+  qX39DaWH  =  (unsigned char)-1807736555;
   Jexct__8TU  =  (unsigned char)1452558692;
   M0Vj  =  (unsigned char)376888011;
   sv2E6q_  =  (unsigned char)1193443308;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
   tG_JV4k  =  (unsigned char)-2084609107;
   G2imHUI85  =  (unsigned char)86025448;
   g476IGt_  =  (unsigned char)-1168496353;
-  Q14l4x  =  1534630289;
+  Q14l4x  =  (unsigned char)1534630289;
   E0_gN0m_S1  =  (unsigned char)697835445;
   XW26T41_  =  (unsigned char)-1133447257;
   P1560b15EM  =  (unsigned char)827576996;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
   bjzx  =  (unsigned char)255003080;
   uZI_  =  (unsigned char)1033230872;
   gqY30E6  =  (unsigned char)-333991504;
-  Ary_IjV  =  -1059125190;
+  Ary_IjV  =  (unsigned char)-1059125190;
   k0x3MK1_  =  (unsigned char)-1243781696;
   B868BOz1  =  (unsigned char)-489989952;
   y71zk93_P  =  (unsigned char)1947486409;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
   iTrTYA  =  (unsigned char)1570153404;
   IzGkIO  =  (unsigned char)1951263966;
   nU3S3cd  =  (unsigned char)485525065;
-  JeB59J7vc  =  461975709;
+  JeB59J7vc  =  (unsigned char)461975709;
   irB_  =  (unsigned char)-731187292;
   Rv14Nw  =  (unsigned char)-1079081697;
   Frz6D88K  =  (unsigned char)-2114825847;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
   Ud3f9g  =  (unsigned char)1565398563;
   qoUu1QIJy  =  (unsigned char)-220559567;
   oG2iUf2_L0  =  (unsigned char)-1528236707;
-  xdlj  =  823485964;
+  xdlj  =  (unsigned char)823485964;
   p9U6O8  =  (unsigned char)475305529;
   XCq_6KKRF2  =  (unsigned char)654766184;
   uuH59qiD4  =  (unsigned char)-1460915198;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
   n123TA  =  (unsigned char)-1889926849;
   n80X047N  =  (unsigned char)-1642974089;
   ItVCVoy  =  (unsigned char)-1177587415;
-  lSXn9  =  324421641;
+  lSXn9  =  (unsigned char)324421641;
   Y5URmhTv  =  (unsigned char)-497051661;
   N9S_ZfMZ  =  (unsigned char)-1634305953;
   cg3x  =  (unsigned char)-1661770985;

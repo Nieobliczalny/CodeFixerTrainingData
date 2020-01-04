@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
   gflt  =  (unsigned short)-227790671;
   w323  =  (unsigned short)-1445136979;
   P0MOO8  =  (unsigned short)599964285;
-  aFd_VyU  =  1566844104;
+  aFd_VyU  =  (unsigned short)1566844104;
   um4kb460B  =  (unsigned short)-1639934219;
   GpPL7Q4lgt  =  (unsigned short)-1832835541;
   Y5ef1eoR  =  (unsigned short)4745521;

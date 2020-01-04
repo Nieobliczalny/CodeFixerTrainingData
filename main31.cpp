@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     bwduTU8Lyv    =    (short)-2058877831;
     JZtl516T    =    (short)-715343559;
     KYAzwVd_A    =    (short)872377221;
-    cDZUq1iD    =    -1334122515;
+    cDZUq1iD    =    (short)-1334122515;
     Ek_FfUkQ    =    (short)827259856;
     fx_dRp0y    =    (short)-1414186548;
     P46XF    =    (short)1255372536;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
     HaMmt37S4    =    (short)-455827804;
     CE18    =    (short)-791250446;
     doB2Nx    =    (short)-205277885;
-    E7qcze5    =    -616345406;
+    E7qcze5    =    (short)-616345406;
     U31l4Uj    =    (short)276223353;
     KBvd_    =    (short)-1796697781;
     H26u_    =    (short)1042381964;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
     t_TVO    =    (short)780581861;
     myL5W    =    (short)371471014;
     lYi2AUNUb_    =    (short)-1402238086;
-    zwilG4uUZ    =    -1993385383;
+    zwilG4uUZ    =    (short)-1993385383;
     Jzt85n    =    (short)-143623033;
     n2AY5o38    =    (short)302605211;
     S6KM    =    (short)153564548;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
     LQtthp    =    (short)-1442224437;
     b93lhMCr    =    (short)-1334787366;
     A_L4qrQ    =    (short)-1010706279;
-    cas7PS    =    -49155636;
+    cas7PS    =    (short)-49155636;
     Bu__mcX_d9    =    (short)47084544;
     b_oM5IdF    =    (short)-189818106;
     v924NMMqXh    =    (short)1753791433;
@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
     qOlX    =    (short)2028513454;
     yjvWFh    =    (short)1728860974;
     c22bLrf    =    (short)-654726997;
-    ja9oVD    =    -144966213;
+    ja9oVD    =    (short)-144966213;
     d_Bma5    =    (short)-920284956;
     OIhR65_16F    =    (short)-1250720057;
     Jl7Q0    =    (short)-326802223;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
     KS8H0s    =    (short)-207315939;
     Mh5F    =    (short)1745285106;
     o9fk    =    (short)-1986970714;
-    iNp0Q    =    -2122566738;
+    iNp0Q    =    (short)-2122566738;
     xJf12gh    =    (short)1519248218;
     ZzsQ4    =    (short)1582248709;
     F717SN9q    =    (short)-1554172442;

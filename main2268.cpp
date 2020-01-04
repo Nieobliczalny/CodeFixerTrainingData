@@ -49,7 +49,7 @@ std::cout << LKXLnr_Cy(O2PWK19jb, (short)1104156071, (short)260593904, ZIY67_iI0
 
 try
 {
-abX94s799K = LKXLnr_Cy(tGlAX_QbsU, (short)690379603, abX94s799K, 561692072, 853971012);
+abX94s799K = LKXLnr_Cy(tGlAX_QbsU, (short)690379603, abX94s799K, (char)561692072, 853971012);
 }
 catch (int& errorCode)
 {

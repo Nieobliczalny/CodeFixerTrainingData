@@ -25,7 +25,7 @@ int main(void)
   weeo6y  =  (char)-926447877;
   HPci6fbv  =  (char)1534522059;
   QI2guk  =  (char)478325147;
-  pOu493H  =  1680887738;
+  pOu493H  =  (char)1680887738;
   yVYmr1X_1  =  (char)-409816820;
   w6O9  =  (char)-1408954376;
   p4F8MHgB  =  (char)-1250133974;
@@ -35,7 +35,7 @@ int main(void)
   LYr1l  =  (char)1501382428;
   T25d_9Q  =  (char)421545040;
   Jpse  =  (char)2028317882;
-  ExE4Na3z  =  -1463184335;
+  ExE4Na3z  =  (char)-1463184335;
   RNgPdBc8  =  (char)942961678;
   ZW18pg  =  (char)1586796435;
   v0hHYW7  =  (char)1408205448;
@@ -45,7 +45,7 @@ int main(void)
   KON65Y  =  (char)-221101318;
   fkg_049x  =  (char)-1630397197;
   lz16WN  =  (char)-1382912169;
-  fi3Aqma_hI  =  -888614107;
+  fi3Aqma_hI  =  (char)-888614107;
   Zn31W  =  (char)777477979;
   y1hn  =  (char)1102635891;
   Wap8X4  =  (char)-1155905763;
@@ -55,7 +55,7 @@ int main(void)
   DIvwKlb  =  (char)416305519;
   fZVu1t4iTv  =  (char)-914747109;
   mAB5gF_r  =  (char)1499625011;
-  ICbwW1T8  =  186798542;
+  ICbwW1T8  =  (char)186798542;
   KjsCN6  =  (char)660555290;
   h9smH  =  (char)322644405;
   wVEZTQ  =  (char)172816291;
@@ -65,7 +65,7 @@ int main(void)
   GDf9  =  (char)1334917183;
   W_4C2G6XV7  =  (char)348669039;
   FePq2vHo  =  (char)-454063870;
-  hSnwyt  =  1965328848;
+  hSnwyt  =  (char)1965328848;
   Q7ZUVyl867  =  (char)-86160823;
   UGg8fq93A2  =  (char)-1611317142;
   Fi__O5  =  (char)-344385320;
@@ -75,7 +75,7 @@ int main(void)
   moa4aGq7A  =  (char)-1593648368;
   b6eYp772  =  (char)-1735686756;
   Kp3vP  =  (char)356874668;
-  UbWnpB9F0  =  120816645;
+  UbWnpB9F0  =  (char)120816645;
   h01lKu7  =  (char)-1743109570;
   vRC2_GeI6e  =  (char)-1053736215;
   snN5  =  (char)1720096492;
@@ -85,7 +85,7 @@ int main(void)
   X2yjR33Z3  =  (char)1023938072;
   zxUC  =  (char)-744777841;
   XNINnGm  =  (char)-879440609;
-  B70JB  =  1075483648;
+  B70JB  =  (char)1075483648;
   eOkObaR  =  (char)-469966711;
   Q88T6c5  =  (char)-1495365894;
   unsigned short  Y41vwh_dM,  Tx0gst,  ePuyBXv4Nk,  ES8X9M054L,  o2_5QI97TF;

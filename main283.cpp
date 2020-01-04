@@ -29,7 +29,7 @@ int main() {
     GRPX    =    (char)64171491;
     PyqRK6    =    (char)336088672;
     cML_H_0z    =    (char)930667365;
-    bQ8cjIl5G    =    -74645147;
+    bQ8cjIl5G    =    (char)-74645147;
     TOkq2ce79_    =    (char)533123621;
     H6pt_0j7    =    (char)-1597653294;
     G_EQd9e2m    =    (char)1297600840;
@@ -39,7 +39,7 @@ int main() {
     miXjg    =    (char)-1207239480;
     aqSY    =    (char)360147682;
     iwos56x    =    (char)-1287861400;
-    y52VA9C    =    10776566;
+    y52VA9C    =    (char)10776566;
     ayy1    =    (char)1463740272;
     sNw1qp    =    (char)-1027012922;
     YJWrP9ZNZg    =    (char)1073972854;
@@ -49,7 +49,7 @@ int main() {
     sfUVeS    =    (char)353597645;
     FN1eOAQ4o    =    (char)771818187;
     O5_kXMd8T_    =    (char)-1700753284;
-    lYj5580    =    581884402;
+    lYj5580    =    (char)581884402;
     A8Ukyw    =    (char)993601527;
     c_I3    =    (char)1747019823;
     u9gF    =    (char)1255138861;
@@ -59,7 +59,7 @@ int main() {
     Qw76_2    =    (char)-915460147;
     lCXi4    =    (char)-1136744593;
     c6uL_o    =    (char)149024370;
-    o4Q6    =    1599017906;
+    o4Q6    =    (char)1599017906;
     oy_4G49    =    (char)-1570847176;
     d9_094yqW    =    (char)-138864534;
     EffYzw    =    (char)-155339721;
@@ -69,7 +69,7 @@ int main() {
     szfN2F6T1_    =    (char)2042084274;
     r4AT    =    (char)907090713;
     CDg_0    =    (char)-720071376;
-    SO5Z8831    =    540277329;
+    SO5Z8831    =    (char)540277329;
     Rdez85    =    (char)-128420629;
     Fls2    =    (char)-6440319;
     wxqyUd    =    (char)1627549472;
@@ -79,7 +79,7 @@ int main() {
     mwD9g    =    (char)573036319;
     M4cG    =    (char)-767821650;
     uZZ5CjoL8    =    (char)-2061624797;
-    fk62_yDc3    =    -20807111;
+    fk62_yDc3    =    (char)-20807111;
     Won2f747    =    (char)-1888206612;
     N7XiW92D0    =    (char)-1630970758;
     Mc2L    =    (char)-852379716;
@@ -89,7 +89,7 @@ int main() {
     D1G1q7ZDx    =    (char)1786095365;
     p2cRI    =    (char)-1052726322;
     jp4Ohc8_    =    (char)-798407601;
-    CBzRN5Y6    =    267886322;
+    CBzRN5Y6    =    (char)267886322;
     ee49Zn    =    (char)-815591909;
     iZKmS9pW    =    (char)-594865453;
     BvLjJY    =    (char)-1015782417;

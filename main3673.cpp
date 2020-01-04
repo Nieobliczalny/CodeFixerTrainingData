@@ -29,7 +29,7 @@ int main(int argc, char** argv)
     pb7zEvD9    =    (unsigned short)-1538630064;
     ie56    =    (unsigned short)-1288875497;
     hb9A12    =    (unsigned short)-337546070;
-    FF2yaYzgv    =    321732859;
+    FF2yaYzgv    =    (unsigned short)321732859;
     KFQ87XQGe    =    (unsigned short)-1307748419;
     kxFf2sZJ    =    (unsigned short)353387059;
     Ch9461a8    =    (unsigned short)-1033378449;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
     kK2f    =    (unsigned short)813142877;
     n6H_chN9cO    =    (unsigned short)662332274;
     MA_h    =    (unsigned short)-1546765048;
-    YKUa6Jtv    =    1304404443;
+    YKUa6Jtv    =    (unsigned short)1304404443;
     AW41_X0n3z    =    (unsigned short)-851412535;
     uJI6_uVT3    =    (unsigned short)-86122426;
     P_MiM9Ru8    =    (unsigned short)-132115589;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
     QWA0s7    =    (unsigned short)-101620309;
     u19JEXU    =    (unsigned short)424852009;
     r1FEm    =    (unsigned short)1086838968;
-    QkXuR    =    -993143226;
+    QkXuR    =    (unsigned short)-993143226;
     d76O    =    (unsigned short)-1206457400;
     UGI8tRhTd    =    (unsigned short)885909118;
     u3Gv_f4F    =    (unsigned short)-1468121895;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
     vfasy    =    (unsigned short)993423189;
     x93jpRl3q    =    (unsigned short)653788387;
     OxZx9gaaOd    =    (unsigned short)782043332;
-    u6Gw19    =    1830535453;
+    u6Gw19    =    (unsigned short)1830535453;
     jZO9    =    (unsigned short)320456652;
     kkEPt172pn    =    (unsigned short)1850347488;
     qKl3Y546S    =    (unsigned short)-1297373480;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
     COiJk3031    =    (unsigned short)241702507;
     FB5yYE0_36    =    (unsigned short)1882966197;
     v9KD9xzh    =    (unsigned short)-1638352165;
-    H8uH774W    =    -735492892;
+    H8uH774W    =    (unsigned short)-735492892;
     zAww81    =    (unsigned short)-398969379;
     Qp_u2T    =    (unsigned short)-767496092;
     rM73    =    (unsigned short)242094245;

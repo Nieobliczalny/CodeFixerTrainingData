@@ -30,7 +30,7 @@ int main(int argc, char** argv)
     Xsp28    =    (unsigned short)-990132645;
     f7CfKR3    =    (unsigned short)-1792671690;
     lhlip14    =    (unsigned short)1904490021;
-    r7Bs65LS    =    1135850195;
+    r7Bs65LS    =    (unsigned short)1135850195;
     MJTT    =    (unsigned short)-1731656612;
     Bpch8J    =    (unsigned short)641812341;
     EzVo8Y_JQ    =    (unsigned short)1624421077;

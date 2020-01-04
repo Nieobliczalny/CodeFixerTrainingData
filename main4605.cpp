@@ -39,7 +39,7 @@ int main(int argc, char** argv)
     KFL4CL    =    (unsigned short)184686489;
     P521    =    (unsigned short)-5372190;
     E7qv_s3    =    (unsigned short)952082075;
-    u4Y1JCna    =    -1373793420;
+    u4Y1JCna    =    (unsigned short)-1373793420;
     jrdJ89W_11    =    (unsigned short)-1644260035;
     MucL7p    =    (unsigned short)-767095438;
     DUwF6    =    (unsigned short)-1493921423;

@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
     K8xB_J52pA    =    (unsigned short)987088401;
     J9wY    =    (unsigned short)1678101638;
     w9U7jov81    =    (unsigned short)-1906441278;
-    Edc4    =    1979779421;
+    Edc4    =    (unsigned short)1979779421;
     MS5U5r    =    (unsigned short)-1335124701;
     y9V84    =    (unsigned short)-1415065052;
     XQdx3    =    (unsigned short)-11176939;

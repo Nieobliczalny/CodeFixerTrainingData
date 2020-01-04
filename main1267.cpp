@@ -32,7 +32,7 @@ int main(void) {
     X249nhQ    =    (short)-1470053096;
     OzrY    =    (short)1456959732;
     cIFib    =    (short)-1567095839;
-    e6J3o9WTJ    =    -850697648;
+    e6J3o9WTJ    =    (short)-850697648;
     V5u77GKg95    =    (short)1836729713;
     Wq1YRFJhL    =    (short)-1505174265;
     wLgrZ    =    (short)-1665721775;
@@ -42,7 +42,7 @@ int main(void) {
     FH455    =    (short)270529619;
     A56KCgp3rD    =    (short)-1646367054;
     e9ZsyHiY4W    =    (short)1916146447;
-    hXv8    =    568497499;
+    hXv8    =    (short)568497499;
     coXP31Sz6    =    (short)181586394;
     LuVR6F    =    (short)-2071510024;
     vAad5n7N5    =    (short)-353459984;
@@ -52,7 +52,7 @@ int main(void) {
     q4_A41    =    (short)-404033332;
     WwJ2e    =    (short)888516614;
     v27T9H    =    (short)-1386488423;
-    b42t    =    626356405;
+    b42t    =    (short)626356405;
     PsCWv    =    (short)649489189;
     tNx_KMb    =    (short)1396929782;
     I713R    =    (short)130229741;
@@ -62,7 +62,7 @@ int main(void) {
     pclEb    =    (short)-75063585;
     s4QgP24z1O    =    (short)-1989538713;
     ltcG    =    (short)-79972495;
-    awi6899    =    398753268;
+    awi6899    =    (short)398753268;
     Km5BwyU_r    =    (short)-200118006;
     cc7NouW    =    (short)-163841323;
     eM08Txv    =    (short)1049829985;
@@ -72,7 +72,7 @@ int main(void) {
     rFy8h    =    (short)-887000587;
     zI0PD39v    =    (short)-461347975;
     v2_85A925    =    (short)-1973403086;
-    k3UU7E8A    =    1206534121;
+    k3UU7E8A    =    (short)1206534121;
     Q5et    =    (short)1700740633;
     B6UeNTPUG    =    (short)-724479105;
     OU3IT    =    (short)-505580779;
@@ -82,7 +82,7 @@ int main(void) {
     ERlM1jUj4G    =    (short)1694983658;
     r7_5    =    (short)1575961788;
     F7W1    =    (short)-787394164;
-    qQvm35rf    =    -1711857924;
+    qQvm35rf    =    (short)-1711857924;
     VEUQ    =    (short)-762576676;
     H_49wdCF6w    =    (short)1832472978;
     gWrY    =    (short)-179669509;

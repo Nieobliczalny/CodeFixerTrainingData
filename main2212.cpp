@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
 	Ksz71	=	(unsigned char)932883122;
 	F4o905	=	(unsigned char)-708613427;
 	jW10jv7_	=	(unsigned char)1707054740;
-	TIFP2DoC	=	-264633009;
+	TIFP2DoC	=	(unsigned char)-264633009;
 	HrQx	=	(unsigned char)204514282;
 	i3hc_TmV	=	(unsigned char)-445744353;
 	S83813i	=	(unsigned char)519923160;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
 	I7CUL	=	(unsigned char)-866997691;
 	oV72q_p	=	(unsigned char)1932836006;
 	X6RCyC_N	=	(unsigned char)-1209639188;
-	Inp6	=	938404328;
+	Inp6	=	(unsigned char)938404328;
 	wtoSbQq	=	(unsigned char)592891678;
 	bV4O3	=	(unsigned char)-1864606799;
 	V2O3cy8A	=	(unsigned char)-1516049074;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
 	hurS	=	(unsigned char)-1046116220;
 	H2qu1J1	=	(unsigned char)-1601410992;
 	se4IQ	=	(unsigned char)-533532840;
-	id8C	=	1579355471;
+	id8C	=	(unsigned char)1579355471;
 	gfqL3B6	=	(unsigned char)-62224513;
 	L4r7hL_I_a	=	(unsigned char)731230269;
 	W_5q0	=	(unsigned char)-899186388;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
 	Mcws4VmG	=	(unsigned char)-1572590013;
 	lcIrsXm5	=	(unsigned char)1523350720;
 	tyLAaS2Sd_	=	(unsigned char)-52020389;
-	c__5uV__Om	=	-860395186;
+	c__5uV__Om	=	(unsigned char)-860395186;
 	B8_4Cr6gX	=	(unsigned char)-1477936628;
 	Mb4k8EXE2	=	(unsigned char)877172456;
 	QQ22	=	(unsigned char)-1054098860;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
 	uIojBFJlTT	=	(unsigned char)-418378408;
 	TN4pRrk	=	(unsigned char)-767236160;
 	C792cdKgF2	=	(unsigned char)-1618409407;
-	Y94jH	=	-812955553;
+	Y94jH	=	(unsigned char)-812955553;
 	eX1vYY3rK	=	(unsigned char)-231643575;
 	Mxa6puv	=	(unsigned char)-846496585;
 	Q58c3_in1d	=	(unsigned char)11315684;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
 	M74OY4	=	(unsigned char)-875104395;
 	so03Kyl	=	(unsigned char)2112334531;
 	itK62i_	=	(unsigned char)-45926136;
-	Jc_bPLc18	=	251980363;
+	Jc_bPLc18	=	(unsigned char)251980363;
 	eS9pdmZ	=	(unsigned char)-666304634;
 	g68F	=	(unsigned char)-303785726;
 	B9D1	=	(unsigned char)1841870205;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
 	R_o4Bf91	=	(unsigned char)-1289693735;
 	eXSKp4T	=	(unsigned char)-1287713316;
 	QGwfs88	=	(unsigned char)-1931274609;
-	rL6Us3	=	-660941485;
+	rL6Us3	=	(unsigned char)-660941485;
 	M0SFS	=	(unsigned char)1415303623;
   long long  l2uUs2,  sa04j55O,  i_QC,  HLo71Ru;
   l2uUs2  =  0;

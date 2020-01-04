@@ -52,7 +52,7 @@ int main(void) {
 	cC_2a	=	(char)-1484372518;
 	GKDF92W5_6	=	(char)1235584447;
 	GwkTe	=	(char)-80192763;
-	jZ97672	=	-523267060;
+	jZ97672	=	(char)-523267060;
 	sw313A	=	(char)-313160715;
 	hkHHLxz	=	(char)-1224229995;
 	n1K745	=	(char)464390737;

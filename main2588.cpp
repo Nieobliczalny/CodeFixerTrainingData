@@ -45,7 +45,7 @@ int main(void)
     e0Kb1    =    (short)1131529123;
     E489w    =    (short)-458422401;
     h1x20QBh8    =    (short)-1249046073;
-    Y5tmf    =    -621345037;
+    Y5tmf    =    (short)-621345037;
     lxxIz8h3L    =    (short)-1957160455;
     ZC1kTYg    =    (short)462707228;
     G0ueGCB8    =    (short)-1858177827;

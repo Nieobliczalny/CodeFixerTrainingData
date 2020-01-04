@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
     y48_    =    (char)2146714722;
     Pvx0HOUnXl    =    (char)-1303346807;
     L7_p9hji8    =    (char)-312371634;
-    aPD2NfsZ    =    -1269538559;
+    aPD2NfsZ    =    (char)-1269538559;
     b61Kd    =    (char)1627848949;
     CJ8YJ4oV    =    (char)-160168507;
     HfFF96zhk6    =    (char)1966261715;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
     q65ezwBx    =    (char)-561177287;
     ndyj7q4wEM    =    (char)-1333006407;
     Dp5bU    =    (char)-702638591;
-    R3s_o9aZ    =    -350378228;
+    R3s_o9aZ    =    (char)-350378228;
     e29hWETr    =    (char)336011011;
     UilYRG    =    (char)-506671949;
     y3Hty3F    =    (char)-749508395;

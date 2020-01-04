@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
     j2D7f6jQ    =    (unsigned char)-282559690;
     J4srV_e    =    (unsigned char)-718318752;
     xPblU    =    (unsigned char)1506730563;
-    EU9Cu    =    886568494;
+    EU9Cu    =    (unsigned char)886568494;
     M_ZQrH79_    =    (unsigned char)-1422033799;
     k33W3P5T    =    (unsigned char)1105341887;
     s1EN    =    (unsigned char)-795917807;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
     GvD35    =    (unsigned char)108217812;
     DLoCk6qkF    =    (unsigned char)278816449;
     iBj2_mn    =    (unsigned char)-1203103404;
-    GDC6I    =    169007909;
+    GDC6I    =    (unsigned char)169007909;
     m5sD2Sc9U4    =    (unsigned char)603190994;
     nu6T    =    (unsigned char)966955588;
     Vf3Xl7hZ    =    (unsigned char)1502323378;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
     zSB6zJI    =    (unsigned char)-1839879830;
     I_VExf    =    (unsigned char)391715678;
     Nvd__    =    (unsigned char)412948802;
-    lE15jWoC0    =    -826949627;
+    lE15jWoC0    =    (unsigned char)-826949627;
     iYOs9N63    =    (unsigned char)1804157;
     Tkd06    =    (unsigned char)276690173;
     xQS1k98    =    (unsigned char)1582001;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
     lyxN    =    (unsigned char)859918207;
     D8RqmLZt    =    (unsigned char)717972489;
     I_t7ocP    =    (unsigned char)-580387829;
-    tgN2AsV    =    449419576;
+    tgN2AsV    =    (unsigned char)449419576;
     ojUt2    =    (unsigned char)-1918261711;
     d6rRY14I    =    (unsigned char)1315370948;
     wdN62EsNJ_    =    (unsigned char)-1701288849;
@@ -81,7 +81,7 @@ int main(int argc, char** argv) {
     D3w0cU    =    (unsigned char)1314144796;
     T_7o3    =    (unsigned char)984793241;
     B39n    =    (unsigned char)2033688664;
-    Qh39X2xO    =    1529566047;
+    Qh39X2xO    =    (unsigned char)1529566047;
     b2XwFC8jLE    =    (unsigned char)-1357772842;
     lKqJ8F2m8    =    (unsigned char)-863421253;
     mRxRUhhFkL    =    (unsigned char)619191176;
@@ -91,7 +91,7 @@ int main(int argc, char** argv) {
     RU4602X0    =    (unsigned char)-932642837;
     Q_Y0w    =    (unsigned char)-1744419404;
     YgE9AJvI    =    (unsigned char)-1571605732;
-    qmuMfmwZ    =    -1505169711;
+    qmuMfmwZ    =    (unsigned char)-1505169711;
     GRw9Fa_K    =    (unsigned char)367574982;
     NT4b    =    (unsigned char)691933578;
     lN6N41    =    (unsigned char)1392768415;

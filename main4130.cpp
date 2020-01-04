@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
  sn7bzt6F0 = (char)2077930429;
  Y6wFG = (char)-458566011;
  Ks7M6aj = (char)1493190972;
- DW1Nz = -1530317251;
+ DW1Nz = (char)-1530317251;
  hu2YHs3V2K = (char)1272842274;
  kHWo8Ab_s = (char)-50942686;
  KxzVBZIg = (char)407539525;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
  x224s = (char)1237490282;
  zu7XqYS = (char)-1956575737;
  J3RR9zJ1_ = (char)1959388997;
- v2tz = -1623393445;
+ v2tz = (char)-1623393445;
 	unsigned short int	UM420by,	u9B2,	Q5e_R0,	X365QXzc25;
 	UM420by	=	0;
 	u9B2	=	0;

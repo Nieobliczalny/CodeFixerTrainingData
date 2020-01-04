@@ -29,7 +29,7 @@ int main(void)
   za1a8  =  (short)-936348108;
   yFn5  =  (short)479044004;
   bOmdZ5vAlZ  =  (short)-833015567;
-  LBrS2be  =  -902114414;
+  LBrS2be  =  (short)-902114414;
   JBSL  =  (short)-1395138160;
   i3zXhvto_  =  (short)2124984845;
   wohG5lo8Z  =  (short)-556896925;
@@ -39,7 +39,7 @@ int main(void)
   VXMs  =  (short)254982171;
   kdFIH1FX  =  (short)2009548557;
   vjVbu  =  (short)1142813712;
-  wuHxWUFB  =  -1068140814;
+  wuHxWUFB  =  (short)-1068140814;
   gxMFsp9QW  =  (short)-1390725767;
   ed5Ag1_5  =  (short)-5548583;
   nh58T  =  (short)1908846227;
@@ -49,7 +49,7 @@ int main(void)
   EtApIp2  =  (short)-1118766763;
   boF3GIv5  =  (short)-1097490252;
   wpPQ2  =  (short)2115894423;
-  d7Pys9PK  =  -1677288914;
+  d7Pys9PK  =  (short)-1677288914;
   Wm2ciC8  =  (short)-901603800;
   Wv6aM  =  (short)-503609567;
   ZRC81B9  =  (short)-1958136442;
@@ -59,7 +59,7 @@ int main(void)
   s6hTA7RCH  =  (short)-1246652697;
   qe4rB  =  (short)-1367258540;
   Rjhu  =  (short)-629236381;
-  Yd8U9  =  1237126892;
+  Yd8U9  =  (short)1237126892;
   lcx3O  =  (short)-155633225;
   p96ZNWGyI  =  (short)-1909833395;
   Gu951sb5  =  (short)-61268958;
@@ -69,7 +69,7 @@ int main(void)
   wMRT5hhz7  =  (short)-1038775421;
   ze7_8B  =  (short)-1106635396;
   Y9fV  =  (short)8856893;
-  rz2w01P  =  1810491867;
+  rz2w01P  =  (short)1810491867;
   s30T3YDleQ  =  (short)-1863476204;
   AC_77_13  =  (short)-852292968;
   k9z_6O0f  =  (short)-1128889255;
@@ -79,7 +79,7 @@ int main(void)
   kA65XUy5J  =  (short)-267711785;
   KaBx  =  (short)-1587838218;
   sz_oBkY  =  (short)2087422045;
-  S92Ej3HLo4  =  518029979;
+  S92Ej3HLo4  =  (short)518029979;
   Qy_Lq7  =  (short)-1059047036;
   deCWk  =  (short)903159680;
   CGRDg  =  (short)-1419671892;
@@ -89,7 +89,7 @@ int main(void)
   Dux8yIP  =  (short)-1187164186;
   dGD7j4  =  (short)744348048;
   HEoRro_j  =  (short)1845567842;
-  ulhyKI  =  1983674936;
+  ulhyKI  =  (short)1983674936;
     long long    GAI5c99K,    vs3c,    jkaQFpj;
     GAI5c99K    =    0;
     vs3c    =    0;

@@ -36,7 +36,7 @@ int main(void)
   ClcZL8Y  =  (unsigned char)434476421;
   VJO9F_e9s0  =  (unsigned char)240245861;
   LTPccm  =  (unsigned char)-103873690;
-  NngCnL0  =  597775986;
+  NngCnL0  =  (unsigned char)597775986;
   z_dZs7e9  =  (unsigned char)-444626855;
   JxXEcS1EK2  =  (unsigned char)-888766631;
   rEX1k  =  (unsigned char)-1722016020;
@@ -46,7 +46,7 @@ int main(void)
   K3nK22  =  (unsigned char)1891658303;
   sKTPy  =  (unsigned char)-1495486756;
   u_KavJv  =  (unsigned char)-578232531;
-  f9vvfBi6  =  635012734;
+  f9vvfBi6  =  (unsigned char)635012734;
   eDysgoS  =  (unsigned char)-377784407;
   HS3U  =  (unsigned char)-99639354;
   aFijs  =  (unsigned char)-58518671;
@@ -56,7 +56,7 @@ int main(void)
   R56nE0SK7r  =  (unsigned char)-400001915;
   nHa5c42tA  =  (unsigned char)-435625961;
   mLV_91039A  =  (unsigned char)68143982;
-  D5anX7G  =  1298020600;
+  D5anX7G  =  (unsigned char)1298020600;
   Xo3CK2  =  (unsigned char)-666329136;
   MNPd  =  (unsigned char)727928971;
   Qh2sB0TTRv  =  (unsigned char)527480910;
@@ -66,7 +66,7 @@ int main(void)
   AI03_iZdPL  =  (unsigned char)-1876785460;
   eeh6eu  =  (unsigned char)1812282293;
   SCYlf2  =  (unsigned char)132243303;
-  vo_t_  =  -25156360;
+  vo_t_  =  (unsigned char)-25156360;
   CyWg0UO96K  =  (unsigned char)1488629707;
   F6rH  =  (unsigned char)1667167287;
   lr9oPG  =  (unsigned char)-2118861189;
@@ -76,7 +76,7 @@ int main(void)
   f7Gco3EgDV  =  (unsigned char)992541874;
   L48Nt8M  =  (unsigned char)731833978;
   KK566r2D1  =  (unsigned char)103775845;
-  lfLg7FfN08  =  -2058341539;
+  lfLg7FfN08  =  (unsigned char)-2058341539;
   CWRziVa5U  =  (unsigned char)751106808;
   I_2i6LNH_  =  (unsigned char)226286633;
   t0676ni  =  (unsigned char)-2102026747;
@@ -86,7 +86,7 @@ int main(void)
   pL8Ciu4  =  (unsigned char)1546748646;
   y1pLVRs  =  (unsigned char)-884649131;
   ILW82  =  (unsigned char)-781316612;
-  J_Rb7731U  =  -2025904116;
+  J_Rb7731U  =  (unsigned char)-2025904116;
   P9J2  =  (unsigned char)1530554792;
   Q13DZiPx5m  =  (unsigned char)1700717000;
   rNM49  =  (unsigned char)-569683726;

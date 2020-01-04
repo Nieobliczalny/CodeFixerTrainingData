@@ -21,7 +21,7 @@ int main()
 	f5oBftYSOS	=	(unsigned short)956398844;
 	u7754iS5	=	(unsigned short)654533250;
 	uvo3W	=	(unsigned short)789335591;
-	K9mK	=	1598234583;
+	K9mK	=	(unsigned short)1598234583;
 	vw2j_PY0N1	=	(unsigned short)-1375840905;
 	NUVa_DtFy	=	(unsigned short)476976435;
 	wROQe	=	(unsigned short)432476116;
@@ -31,7 +31,7 @@ int main()
 	M53x	=	(unsigned short)-873399596;
 	W6D66EapP	=	(unsigned short)-371806330;
 	UQ9Y1Cd	=	(unsigned short)-1945747239;
-	igHn5t9b	=	-1311438677;
+	igHn5t9b	=	(unsigned short)-1311438677;
 	l9s4Tb7Vs	=	(unsigned short)-561353496;
 	mfo5	=	(unsigned short)-1863180872;
 	h9nUo5lt8R	=	(unsigned short)2057485138;
@@ -41,7 +41,7 @@ int main()
 	Z7F6	=	(unsigned short)-853624888;
 	oU1T7zEJcQ	=	(unsigned short)-76236750;
 	Uam18n4	=	(unsigned short)-1612852527;
-	L4kXl61z	=	2068983837;
+	L4kXl61z	=	(unsigned short)2068983837;
 	bueZx	=	(unsigned short)-635495571;
 	jykk3t	=	(unsigned short)-2006129907;
 	RY6_GVnH_4	=	(unsigned short)-1029676327;
@@ -51,7 +51,7 @@ int main()
 	oK5UipNZla	=	(unsigned short)994522459;
 	rA_a	=	(unsigned short)-639743954;
 	h82h_0U	=	(unsigned short)-940820274;
-	cLa5u9	=	881452002;
+	cLa5u9	=	(unsigned short)881452002;
 	t94PO	=	(unsigned short)-2039488951;
 	XP_p40H_h	=	(unsigned short)1866195061;
 	b49Q	=	(unsigned short)858335978;
@@ -61,7 +61,7 @@ int main()
 	xx00Wz47V	=	(unsigned short)-1087810865;
 	ijoDqyZ	=	(unsigned short)-432519625;
 	we9Lq	=	(unsigned short)452895789;
-	uO9M8a	=	-1500461191;
+	uO9M8a	=	(unsigned short)-1500461191;
 	Dl2683yUHT	=	(unsigned short)2049193229;
 	G_gTX9JR	=	(unsigned short)-1690090324;
 	j_ckI_el8	=	(unsigned short)1438686071;
@@ -71,7 +71,7 @@ int main()
 	u2lkC5C0L7	=	(unsigned short)-1457035078;
 	I4T0i5o	=	(unsigned short)-1678458107;
 	CpbE9	=	(unsigned short)563592989;
-	y47R	=	28837383;
+	y47R	=	(unsigned short)28837383;
 	F6_osN1Zi	=	(unsigned short)-556231531;
 	HfwgXu	=	(unsigned short)-291807023;
 	wn9_	=	(unsigned short)1347545233;
@@ -81,7 +81,7 @@ int main()
 	f73U	=	(unsigned short)-2012942062;
 	Yv55vYK0An	=	(unsigned short)263602993;
 	Ca9o	=	(unsigned short)840735630;
-	zOZF8	=	-1258793002;
+	zOZF8	=	(unsigned short)-1258793002;
 	Z54S7Xt	=	(unsigned short)-1091022270;
 	nglL	=	(unsigned short)781989699;
 	g9RS	=	(unsigned short)959185371;

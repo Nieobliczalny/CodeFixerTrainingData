@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
 	dKPR8	=	(unsigned short)867998909;
 	isN4d	=	(unsigned short)219654487;
 	S1051dto7M	=	(unsigned short)-173737798;
-	W132249xT	=	-492166365;
+	W132249xT	=	(unsigned short)-492166365;
 	g6AZO8	=	(unsigned short)1448842714;
 	wZh2	=	(unsigned short)1773136743;
 	jMYp1O	=	(unsigned short)1922148203;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
 	LLdKK6Qqie	=	(unsigned short)-306609043;
 	cwj9y0	=	(unsigned short)150557429;
 	v5cNTt	=	(unsigned short)269637227;
-	b5477F63	=	-1789050172;
+	b5477F63	=	(unsigned short)-1789050172;
 	x96c4vv0	=	(unsigned short)-1680001760;
 	F7EbjYVyK	=	(unsigned short)-435249647;
 	vMOoR537	=	(unsigned short)1845929142;
@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
 	OM_y31Gj_X	=	(unsigned short)1080267312;
 	NsCM	=	(unsigned short)1571282025;
 	y90jVI	=	(unsigned short)-1228051313;
-	ziG_i	=	428782144;
+	ziG_i	=	(unsigned short)428782144;
 	rg1_XYb0	=	(unsigned short)569878006;
 	drrX7G	=	(unsigned short)433498200;
 	Tw52Oq1O	=	(unsigned short)1405354880;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
 	Lj3ZRm	=	(unsigned short)-2131910099;
 	A11b19HA_	=	(unsigned short)1282726289;
 	AieReRz	=	(unsigned short)371824857;
-	cUNLbQKw7o	=	1309088631;
+	cUNLbQKw7o	=	(unsigned short)1309088631;
 	gOV9ve	=	(unsigned short)302301010;
 	zriK1U9	=	(unsigned short)-681935119;
 	o9b1i	=	(unsigned short)-432494187;
@@ -89,7 +89,7 @@ int main(int argc, char** argv) {
 	M1_15A2	=	(unsigned short)-295792255;
 	W087	=	(unsigned short)-828230459;
 	GeGuv81g5	=	(unsigned short)1953760060;
-	c8P_5CI	=	-1193085240;
+	c8P_5CI	=	(unsigned short)-1193085240;
 	iI_K	=	(unsigned short)1268739595;
 	U6a2lkB2	=	(unsigned short)-53602430;
 	yQG4QI83	=	(unsigned short)-120132641;
@@ -99,7 +99,7 @@ int main(int argc, char** argv) {
 	FyFi9R0	=	(unsigned short)193916071;
 	tGmoWy4uZ	=	(unsigned short)748272220;
 	wcqHSGQ04	=	(unsigned short)1915428587;
-	Mhl2twk	=	1185229378;
+	Mhl2twk	=	(unsigned short)1185229378;
 	u3YH_4G	=	(unsigned short)943384864;
 	XAJ9A	=	(unsigned short)-1954251811;
 	fdi3H	=	(unsigned short)2092486984;

@@ -44,7 +44,7 @@ int main(int argc, char** argv)
  QX0z5MUlgc = (unsigned short)366139756;
  DJfwn = (unsigned short)343221361;
  FOaDe72Cn = (unsigned short)1541878793;
- GHd5644gq2 = 1259281973;
+ GHd5644gq2 = (unsigned short)1259281973;
  pWkeq = (unsigned short)-1015912489;
  V8q6c7l_ = (unsigned short)-1507012329;
  wBlCc4LM = (unsigned short)-695611168;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
  WN_d5vp9 = (unsigned short)1357223471;
  zD71mJs3 = (unsigned short)-589693820;
  xJD8F = (unsigned short)792260917;
- Tw9ttb8E5 = -2135415209;
+ Tw9ttb8E5 = (unsigned short)-2135415209;
  NDPCJi8A = (unsigned short)-542374167;
  EAaLgJ4RG0 = (unsigned short)1958014441;
  mzc80 = (unsigned short)-2078078989;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
  Zx1oy = (unsigned short)6554730;
  K02t = (unsigned short)-87551898;
  S_8X0 = (unsigned short)35993711;
- o8WTouT = 1188552068;
+ o8WTouT = (unsigned short)1188552068;
  N5Nf39_ = (unsigned short)2119235922;
  ck3e = (unsigned short)-1133232576;
  F0_sl2K1k9 = (unsigned short)940139416;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
  EKA_M = (unsigned short)-1022266524;
  WAc_Z9 = (unsigned short)923005345;
  F03k7 = (unsigned short)-1543464978;
- s8jtCcp = 2056062117;
+ s8jtCcp = (unsigned short)2056062117;
  q2G54Ihy4r = (unsigned short)1470068577;
  g7_qi70gB = (unsigned short)-594425279;
  gpamr = (unsigned short)-2047324651;
@@ -84,7 +84,7 @@ int main(int argc, char** argv)
  bdN_xW = (unsigned short)-1270106007;
  adJ1 = (unsigned short)-494043489;
  X169l1B = (unsigned short)-1044961151;
- s9AFk1 = 255489119;
+ s9AFk1 = (unsigned short)255489119;
  OW148Sq339 = (unsigned short)188228113;
  D9G35R = (unsigned short)1197282438;
  M4jfN = (unsigned short)-1551444894;
@@ -94,7 +94,7 @@ int main(int argc, char** argv)
  t0D8FX = (unsigned short)-743125234;
  V__cDb = (unsigned short)1801536672;
  FPAZ5n9Y = (unsigned short)-1164659932;
- CvL16LZ = 1354204149;
+ CvL16LZ = (unsigned short)1354204149;
  M5O4 = (unsigned short)1857816549;
  kqVxi410K3 = (unsigned short)-587897594;
  xGl66 = (unsigned short)-915651956;

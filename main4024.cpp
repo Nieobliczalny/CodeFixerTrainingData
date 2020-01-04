@@ -50,7 +50,7 @@ int main() {
     rvC33Q2_6    =    (char)-579757866;
     k01AJv2o    =    (char)-1363579387;
     yd6R    =    (char)-1242168601;
-    oiF3vMF    =    2045237604;
+    oiF3vMF    =    (char)2045237604;
     m33u1Suj11    =    (char)2068502092;
     J__eZbh3E    =    (char)-442515279;
     zdMqQG    =    (char)-2084009810;
@@ -60,7 +60,7 @@ int main() {
     DSR2L    =    (char)-1326588698;
     C2lbK4    =    (char)-1191751447;
     Lo_GwW    =    (char)473208620;
-    Zfs_X5QY    =    2141160282;
+    Zfs_X5QY    =    (char)2141160282;
 
 VWrFiL <<= JH3sV022GW;
 

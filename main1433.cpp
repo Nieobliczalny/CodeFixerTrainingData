@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
 	c3uM6T	=	(unsigned short)1241018599;
 	n5C7FM	=	(unsigned short)-1654685591;
 	nI_rc7	=	(unsigned short)-1314890391;
-	dxc6c0N2	=	1516053945;
+	dxc6c0N2	=	(unsigned short)1516053945;
 	oMYAD0fU	=	(unsigned short)-1483778964;
 	U4z_d4E86	=	(unsigned short)1886738914;
 	NTA38	=	(unsigned short)-662766067;

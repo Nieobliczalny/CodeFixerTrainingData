@@ -24,7 +24,7 @@ int main(void)
  qV_2dish_ = (unsigned short)749926930;
  LyDxP = (unsigned short)1896735761;
  WbdaHB7 = (unsigned short)-1833777414;
- nohX_n24 = 1994796942;
+ nohX_n24 = (unsigned short)1994796942;
  vXQY = (unsigned short)-888418665;
  Fu_W1u2e9 = (unsigned short)-1303122298;
  noQEXhp4u4 = (unsigned short)-925506691;
@@ -34,7 +34,7 @@ int main(void)
  m4O0xye3 = (unsigned short)-34142999;
  Q4F8Y35m0 = (unsigned short)1896397378;
  mA360i0U = (unsigned short)1900792586;
- c6974Z7 = 89904130;
+ c6974Z7 = (unsigned short)89904130;
  Pu7k7ea9n = (unsigned short)-1648016928;
  fxNH_ = (unsigned short)177376970;
  rj0D = (unsigned short)-1443793558;

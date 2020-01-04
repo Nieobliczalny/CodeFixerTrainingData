@@ -35,7 +35,7 @@ int main() {
     Wo4j8fxgpm    =    (unsigned short)-1271527306;
     MG0649W6e2    =    (unsigned short)814972576;
     YfPz    =    (unsigned short)-2001720535;
-    y_R_Dl_    =    1375870164;
+    y_R_Dl_    =    (unsigned short)1375870164;
     Krrcq335e    =    (unsigned short)-979220805;
     F2lJbf    =    (unsigned short)1642935486;
     jqQemo    =    (unsigned short)1679410237;
@@ -45,7 +45,7 @@ int main() {
     rKQ00    =    (unsigned short)377607941;
     V33W    =    (unsigned short)-1954398513;
     L5rm    =    (unsigned short)982571220;
-    v_WwKt    =    -1053295340;
+    v_WwKt    =    (unsigned short)-1053295340;
     wU9sVu1    =    (unsigned short)-2018161502;
     ZKl6    =    (unsigned short)927702071;
     Lyd7    =    (unsigned short)-721801956;
@@ -55,7 +55,7 @@ int main() {
     y4PX6Wq    =    (unsigned short)1415019477;
     h6rK_S35    =    (unsigned short)-428036214;
     K1Lk    =    (unsigned short)-67142244;
-    OwJbldG_O7    =    1286364296;
+    OwJbldG_O7    =    (unsigned short)1286364296;
     U_4_wiby    =    (unsigned short)-426439475;
     ZMBJHWarm    =    (unsigned short)652675991;
     X15Y6H16    =    (unsigned short)2032255706;
@@ -65,7 +65,7 @@ int main() {
     dRXKa    =    (unsigned short)1597940160;
     D56EK8O    =    (unsigned short)367779331;
     lc39eOQ753    =    (unsigned short)802000322;
-    S37gLX    =    -1496530764;
+    S37gLX    =    (unsigned short)-1496530764;
     c55dtYzx5H    =    (unsigned short)1978450926;
     jNsZgBPV98    =    (unsigned short)-1469510627;
     S4rzt    =    (unsigned short)-2047719240;
@@ -75,7 +75,7 @@ int main() {
     m6Pi    =    (unsigned short)-836255860;
     D4FS8d    =    (unsigned short)-677923496;
     k53i3C4    =    (unsigned short)-2144376112;
-    f_7K4_ND    =    -348532095;
+    f_7K4_ND    =    (unsigned short)-348532095;
     tu6zG6Dj    =    (unsigned short)824790341;
     F470ND    =    (unsigned short)-1599255464;
     Q2uYWr    =    (unsigned short)947465858;
@@ -85,7 +85,7 @@ int main() {
     DqDE85l    =    (unsigned short)-1950296315;
     Tz86O9    =    (unsigned short)-1164055988;
     Nx9Gu    =    (unsigned short)-1319672809;
-    uldSYfTSS    =    -1706711192;
+    uldSYfTSS    =    (unsigned short)-1706711192;
     ja8B8G    =    (unsigned short)390458729;
     Vw8c7LtwV7    =    (unsigned short)1416760296;
     j150WCA8    =    (unsigned short)754417135;

@@ -43,7 +43,7 @@ int main()
   jMr4bV5  =  (unsigned char)1282510674;
   Q59tZ6  =  (unsigned char)442973890;
   IL6DaK1L  =  (unsigned char)-1328363643;
-  OE7TWZX  =  354501602;
+  OE7TWZX  =  (unsigned char)354501602;
   SCnB63v78T  =  (unsigned char)-1551386296;
   KwW_XBn7_  =  (unsigned char)-1931826197;
   uF2_L  =  (unsigned char)-411883638;
@@ -53,7 +53,7 @@ int main()
   w2XMQU  =  (unsigned char)-764005363;
   hkq95oE  =  (unsigned char)-2063115811;
   q_V0A6  =  (unsigned char)-2079781650;
-  ebm9ORy  =  -869214931;
+  ebm9ORy  =  (unsigned char)-869214931;
   p61k_v93  =  (unsigned char)-1286968532;
   HGwTp_39nD  =  (unsigned char)301253009;
   y0_q888  =  (unsigned char)-233620023;

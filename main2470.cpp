@@ -23,7 +23,7 @@ int main(int argc, char** argv)
   kNs_  =  (unsigned short)2074451802;
   Y90Z67xS  =  (unsigned short)-291192636;
   GGhL5C10Qg  =  (unsigned short)1928909785;
-  iWj0s8u  =  168842496;
+  iWj0s8u  =  (unsigned short)168842496;
   lPOihRVEYp  =  (unsigned short)1452443073;
   N3Okx  =  (unsigned short)-93945260;
   lrVQ4S2Fms  =  (unsigned short)1363643668;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   oClE  =  (unsigned short)-1447996209;
   LiDflrSe1C  =  (unsigned short)-484654658;
   N2F5RyL6Kp  =  (unsigned short)768400192;
-  i_lI6MI  =  731023627;
+  i_lI6MI  =  (unsigned short)731023627;
   Ebeb1a9  =  (unsigned short)609934744;
   r_3E58  =  (unsigned short)-1162122539;
   omj8a3RxV  =  (unsigned short)655286835;

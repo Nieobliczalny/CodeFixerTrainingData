@@ -38,7 +38,7 @@ int main(int argc, char** argv)
     du77_2    =    (unsigned char)1875243346;
     J9aYlPT    =    (unsigned char)-1611052697;
     xw_JM8    =    (unsigned char)1368399150;
-    EwOBM_b3    =    1029081197;
+    EwOBM_b3    =    (unsigned char)1029081197;
     IaNycpj_5    =    (unsigned char)-1764981433;
     w3DQ8Iil7C    =    (unsigned char)2035827806;
     W5966yzogM    =    (unsigned char)-291872907;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
     aB61c9r    =    (unsigned char)-1689708558;
     d6wQ    =    (unsigned char)681618402;
     J2h45lcX    =    (unsigned char)-128148611;
-    vIp_jYtku    =    -1271616519;
+    vIp_jYtku    =    (unsigned char)-1271616519;
     i1q1bL6Dh    =    (unsigned char)597472200;
     fHJ2k    =    (unsigned char)810168424;
     DM0d0f3e    =    (unsigned char)-48087578;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
     f_9i7b    =    (unsigned char)-1137710473;
     T0U6h    =    (unsigned char)1521495641;
     CqSjqb9Tc7    =    (unsigned char)-2122126325;
-    q5rr40f    =    -99584898;
+    q5rr40f    =    (unsigned char)-99584898;
     rSGxt9K    =    (unsigned char)-244695241;
     w598usL    =    (unsigned char)-1965675284;
     BFUnU22X    =    (unsigned char)-1118414983;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
     CSjtnfI    =    (unsigned char)1817693258;
     OFEgE    =    (unsigned char)-1581738000;
     Nrz0_6    =    (unsigned char)-144471964;
-    fQ867    =    1947147225;
+    fQ867    =    (unsigned char)1947147225;
     Z_6M7OqkN    =    (unsigned char)-1654559237;
     E_21vj2Wn    =    (unsigned char)-380971590;
     h76jp15    =    (unsigned char)-277003168;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
     EMxE9unt    =    (unsigned char)-666743060;
     M47SoD0B    =    (unsigned char)-1921413237;
     G7zF_bCr4    =    (unsigned char)1240071327;
-    mZIm586    =    -1391778851;
+    mZIm586    =    (unsigned char)-1391778851;
     HbbVm3o    =    (unsigned char)-363452487;
     BHpE58_H    =    (unsigned char)-702933513;
     F6d5QTPa    =    (unsigned char)-993109802;

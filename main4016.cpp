@@ -28,7 +28,7 @@ int main() {
 	F75U	=	(unsigned char)-877975715;
 	L3rmNkU67	=	(unsigned char)-639660679;
 	PUKW3R	=	(unsigned char)-1350890319;
-	MIt1	=	-874583595;
+	MIt1	=	(unsigned char)-874583595;
 	Yy3_	=	(unsigned char)1547922039;
 	PNkfJgStiI	=	(unsigned char)-859455935;
     unsigned int    AA9R,    wm10__1,    q8FUocgVqy,    D92iu;

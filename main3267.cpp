@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
   vBaER8iBcr  =  (short)-462239337;
   GTEnuzP2H  =  (short)-1530146104;
   YKBJL__  =  (short)610808123;
-  NKDZ  =  2072173512;
+  NKDZ  =  (short)2072173512;
   dvHTI  =  (short)-377578701;
   yEBbdg64  =  (short)960165066;
   uo98bXp7yp  =  (short)-1035965516;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
   i80LCe7  =  (short)-1933739544;
   LU492  =  (short)-966093485;
   D_VGlP7ya1  =  (short)-352075957;
-  UayhL32J  =  -1914296813;
+  UayhL32J  =  (short)-1914296813;
   o7exznb_  =  (short)-1349068573;
 
 q7ZM = (int)abs(YKBJL__);

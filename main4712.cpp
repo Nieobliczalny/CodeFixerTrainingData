@@ -33,7 +33,7 @@ int main()
  n23282 = (char)1077571111;
  g18_qH = (char)-1341275923;
  Fj0p = (char)-1672088509;
- nFy450 = 92085599;
+ nFy450 = (char)92085599;
  rq_FiZq76 = (char)2086940530;
  X06sm1 = (char)-467888656;
  Vp4OEdRla = (char)890567902;
@@ -43,7 +43,7 @@ int main()
  kz8_iIS = (char)-433383246;
  rMR9xN = (char)1032399047;
  ZXqjAU = (char)1846112411;
- Fm5k = 800369377;
+ Fm5k = (char)800369377;
  O8es4aC5P8 = (char)-1827114209;
  PH9Au6 = (char)1987087962;
  lovhT = (char)-170684608;
@@ -53,7 +53,7 @@ int main()
  G9vK6 = (char)1397531721;
  KlK5Z3JI07 = (char)-1068565027;
  VHP7D = (char)-608588989;
- UGg1 = 1589172389;
+ UGg1 = (char)1589172389;
  NW4g_42lG9 = (char)-646541835;
  kgrei = (char)-1486879916;
  g389l = (char)-1078664164;
@@ -63,7 +63,7 @@ int main()
  cvAJaPp_w8 = (char)1404378184;
  QDmMEsVXL0 = (char)873007949;
  Odw12 = (char)-1745674367;
- yl41R_ = 1411818338;
+ yl41R_ = (char)1411818338;
  AfKScj = (char)31788877;
  Me6zl_0d4h = (char)-1475501998;
  KSIZui0WBK = (char)-892713582;
@@ -73,7 +73,7 @@ int main()
  dz720Zin94 = (char)-1189357304;
  OPF09_f5o = (char)-1667201911;
  v7Yb110 = (char)-1401957836;
- I_mtTo = -1296061421;
+ I_mtTo = (char)-1296061421;
  CBrC32D4fX = (char)2127756703;
  dnl90aT13 = (char)-2146657022;
  syNnp_n = (char)-1331734153;
@@ -83,7 +83,7 @@ int main()
  MQ0_dY198I = (char)521612146;
  wDmHfU = (char)1898415855;
  qOoVwY = (char)-1882389457;
- lNtX62 = 1054960971;
+ lNtX62 = (char)1054960971;
  YT_jC = (char)-264588539;
  F1_Wm2LFp2 = (char)1282762460;
  x7I3U = (char)1735735290;
@@ -93,7 +93,7 @@ int main()
  Xp__eYrC9 = (char)1622538970;
  s1MRU41EcR = (char)1572555962;
  o1MT = (char)559423816;
- TYE1 = -65767246;
+ TYE1 = (char)-65767246;
  Lxfgq = (char)1590793675;
  Y5oHbz4i = (char)1448716767;
  ECX_ = (char)-48775513;
@@ -103,7 +103,7 @@ int main()
  R_8x0gE = (char)-1659686331;
  SLa4 = (char)1962612604;
  cm2V7Vs7 = (char)1715820107;
- e6klL = -2031451528;
+ e6klL = (char)-2031451528;
  s1hcl = (char)1525676075;
  EaKe6aMw = (char)-1971123728;
  vX53yAgg = (char)1136625267;
@@ -113,7 +113,7 @@ int main()
  K7xiVa9 = (char)-1898880190;
  V5Wa3zE9B = (char)-1526599789;
  Geb30 = (char)1831181722;
- DGZe = -1678128854;
+ DGZe = (char)-1678128854;
  YOA6zE = (char)-872494428;
  KOAhl8l = (char)-652113866;
  TY4dq = (char)528100597;

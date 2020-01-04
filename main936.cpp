@@ -45,7 +45,7 @@ int main()
     OUYl32F1N5    =    (unsigned short)-772716089;
     XZ_G7    =    (unsigned short)-1437217507;
     QZ9Nte    =    (unsigned short)-1608341654;
-    f_8xoV99D    =    -1322885506;
+    f_8xoV99D    =    (unsigned short)-1322885506;
     LRBHADR1    =    (unsigned short)1341327075;
     DeT8vmHe8F    =    (unsigned short)1878423707;
     PX2O68eZ    =    (unsigned short)-1872694916;
@@ -55,7 +55,7 @@ int main()
     Zp_TPE    =    (unsigned short)380936478;
     FD3DO805U_    =    (unsigned short)1430136347;
     JHbTv2he74    =    (unsigned short)-403452576;
-    urRmEqsOHl    =    2078467641;
+    urRmEqsOHl    =    (unsigned short)2078467641;
     jioE3V6KG    =    (unsigned short)-1005215919;
     t4cr    =    (unsigned short)1084989287;
     KoD2    =    (unsigned short)2031265711;
@@ -65,7 +65,7 @@ int main()
     B9n32    =    (unsigned short)1849799700;
     N_b98O    =    (unsigned short)-1711986409;
     w2KJtx    =    (unsigned short)-697999505;
-    V5q_91wT8    =    1016234823;
+    V5q_91wT8    =    (unsigned short)1016234823;
     g_76N    =    (unsigned short)1048829282;
     geUFr    =    (unsigned short)1605046585;
     cz0Y2    =    (unsigned short)-1969846574;
@@ -75,7 +75,7 @@ int main()
     h8qX786    =    (unsigned short)-1776425029;
     KpvvZ    =    (unsigned short)-1853323916;
     QTlh7F_4    =    (unsigned short)-818253053;
-    WL8E    =    144362879;
+    WL8E    =    (unsigned short)144362879;
     IU60GJcs    =    (unsigned short)-2077252983;
     EB8VO6L6    =    (unsigned short)-1331761169;
     RBZL    =    (unsigned short)-2002430072;
@@ -85,7 +85,7 @@ int main()
     QC_BSf    =    (unsigned short)-191143273;
     Dkl5    =    (unsigned short)1437228203;
     tZiDF    =    (unsigned short)-828996042;
-    MU_P57elAr    =    1623411498;
+    MU_P57elAr    =    (unsigned short)1623411498;
     LSS9J4H_9M    =    (unsigned short)504779342;
     ea1i7    =    (unsigned short)575852285;
     y7BdRAJKhu    =    (unsigned short)-1797759970;
@@ -95,7 +95,7 @@ int main()
     R_t0    =    (unsigned short)155935752;
     RbpK1nDg    =    (unsigned short)-630661372;
     UMKX    =    (unsigned short)-756214394;
-    x96zFdd    =    1959178497;
+    x96zFdd    =    (unsigned short)1959178497;
     e8yX    =    (unsigned short)-2066582731;
     KX_IDtU3    =    (unsigned short)-211095824;
     a1bg    =    (unsigned short)-1238547366;

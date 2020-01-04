@@ -36,7 +36,7 @@ int main(void)
     JkAChf    =    (short)-738142767;
     yU_4xA5Q    =    (short)-1439529179;
     CF67_O    =    (short)-1560973570;
-    hE6q6IV_    =    1198712033;
+    hE6q6IV_    =    (short)1198712033;
     QvH9v6    =    (short)-1693846038;
     Lngr4    =    (short)-1103198733;
     ZVnk91HdK5    =    (short)902634392;
@@ -46,7 +46,7 @@ int main(void)
     WK_BApLzRp    =    (short)-11538978;
     G_GtMdOA0    =    (short)-1948326865;
     oag3H1U9po    =    (short)-1022208124;
-    OmcBQ5_    =    -391551046;
+    OmcBQ5_    =    (short)-391551046;
     o3Gn_p_D    =    (short)912036049;
     MVTb7m4G_    =    (short)1753128508;
     Y507Wf9r    =    (short)1241258895;
@@ -56,7 +56,7 @@ int main(void)
     aapU    =    (short)1814044621;
     OeUcKJIv7    =    (short)414851224;
     RfK70WPTt    =    (short)-1908132904;
-    fi6f5lHwK1    =    1812474636;
+    fi6f5lHwK1    =    (short)1812474636;
     N1d1    =    (short)268119856;
     d0Lqn9ztc    =    (short)1042234076;
     Lmcr3    =    (short)979300104;
@@ -66,7 +66,7 @@ int main(void)
     ySklva8    =    (short)-1680052167;
     vEdI    =    (short)-648500199;
     FempEi13    =    (short)547773767;
-    fO75    =    -321631349;
+    fO75    =    (short)-321631349;
     B8b4_0K1t5    =    (short)-1198708973;
     kv5FB    =    (short)-1380082362;
     x9hc_nnQ7    =    (short)-1164044391;
@@ -76,7 +76,7 @@ int main(void)
     r5bfJ1    =    (short)-643109870;
     YkphA    =    (short)1095655346;
     aQBRGD2jWd    =    (short)-1077206372;
-    CMu5E    =    -1870806590;
+    CMu5E    =    (short)-1870806590;
     CHBLkfj3Uz    =    (short)1049613662;
     mqrd    =    (short)1426864860;
     RhxGe    =    (short)1016406589;
@@ -86,7 +86,7 @@ int main(void)
     nfbj1_Q    =    (short)-1498176839;
     oaX0_f48    =    (short)-1366984638;
     TlS36    =    (short)426296005;
-    ilTYp    =    1133596271;
+    ilTYp    =    (short)1133596271;
     l0u79V40c    =    (short)-1644780197;
     HdHdM4    =    (short)-1261325092;
     Zb0xta    =    (short)1863091925;

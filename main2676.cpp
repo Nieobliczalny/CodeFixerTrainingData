@@ -37,7 +37,7 @@ int main() {
  zNc9 = (unsigned char)976711128;
  P2z1 = (unsigned char)425999195;
  TT660OikA6 = (unsigned char)-583523284;
- Eut9b1 = -1228182268;
+ Eut9b1 = (unsigned char)-1228182268;
  d9_6fUx = (unsigned char)-1139654058;
  cN4Ftvg2E = (unsigned char)1880312652;
  ZBof = (unsigned char)-1088417982;
@@ -47,7 +47,7 @@ int main() {
  CVWC = (unsigned char)1874556463;
  q_gOISg = (unsigned char)552019888;
  ntc1 = (unsigned char)1350299548;
- xO91 = -2054473172;
+ xO91 = (unsigned char)-2054473172;
  EaFU3VuX = (unsigned char)57546520;
  Lz28 = (unsigned char)-815962831;
  V_5q = (unsigned char)-45687738;
@@ -57,7 +57,7 @@ int main() {
  fNK2e = (unsigned char)-866002603;
  uLvWuLHQj = (unsigned char)-2047058804;
  MmeCK = (unsigned char)1869709562;
- r2vY2g = 936912867;
+ r2vY2g = (unsigned char)936912867;
  x__bmgB0 = (unsigned char)-359444178;
  pt05He = (unsigned char)979874503;
  Hrj8ZXCHu = (unsigned char)-1872826062;
@@ -67,7 +67,7 @@ int main() {
  rCcQ008P = (unsigned char)1157004467;
  qoKs = (unsigned char)-1534003656;
  JyEeo3qy = (unsigned char)1286293641;
- A8Pl = -1000572952;
+ A8Pl = (unsigned char)-1000572952;
  ETh_zC3 = (unsigned char)-718355870;
  Qt2o6ZBHWH = (unsigned char)1804528903;
  xItPMRh = (unsigned char)1835589767;
@@ -77,7 +77,7 @@ int main() {
  d9xvDOON = (unsigned char)75651291;
  H8ZCFS = (unsigned char)-479925348;
  a3hOnGT = (unsigned char)613952914;
- CLvuRsR__ = -1120211701;
+ CLvuRsR__ = (unsigned char)-1120211701;
  ZjXXTA3GdN = (unsigned char)-592846763;
  AoE_Qu9d = (unsigned char)1496403830;
  qnu5 = (unsigned char)1247608064;
@@ -87,7 +87,7 @@ int main() {
  RnOuTd_N = (unsigned char)249902035;
  hTq6bMHn = (unsigned char)-418966902;
  m51p = (unsigned char)1612084297;
- x0obqHKn = -1275918105;
+ x0obqHKn = (unsigned char)-1275918105;
  bqj8UmsW = (unsigned char)-1514301336;
  z7ING = (unsigned char)-931699239;
  P_12 = (unsigned char)-1681942700;
@@ -97,7 +97,7 @@ int main() {
  R3yv2zEj = (unsigned char)-29603760;
  I_axAEFV = (unsigned char)-669038606;
  yH_1Bw8X = (unsigned char)-1942387295;
- myDRfzx1r = 1136766016;
+ myDRfzx1r = (unsigned char)1136766016;
  u8NR406m = (unsigned char)1391171134;
  l01qO7Fo = (unsigned char)89897830;
  Ssh51Ah = (unsigned char)-916826213;

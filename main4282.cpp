@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
   c7xlz  =  (unsigned short)-1848107379;
   JPXay  =  (unsigned short)-1773916521;
   DHrH739  =  (unsigned short)-1581491025;
-  n0oD1u26  =  335507666;
+  n0oD1u26  =  (unsigned short)335507666;
   Fd8883R3  =  (unsigned short)896842563;
   dGva  =  (unsigned short)15382452;
   X59fTKd2B  =  (unsigned short)1637944956;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
   fEqAt  =  (unsigned short)130469586;
   xTDG  =  (unsigned short)-1145724735;
   zC322_wfG6  =  (unsigned short)598259501;
-  ek0QM77Yq  =  -859328642;
+  ek0QM77Yq  =  (unsigned short)-859328642;
   BDf0d  =  (unsigned short)96954124;
   vtS4  =  (unsigned short)934393791;
   P681  =  (unsigned short)1196503577;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
   L0gQE  =  (unsigned short)738255515;
   YOgbvQFl09  =  (unsigned short)817278110;
   Ejj9O3V3h7  =  (unsigned short)-1891407437;
-  Pt7yFtD  =  -616031259;
+  Pt7yFtD  =  (unsigned short)-616031259;
   NXhpsiLD2a  =  (unsigned short)-1125724667;
   AWe_EVA_v4  =  (unsigned short)204872151;
   Bw567  =  (unsigned short)-853712738;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
   mdioN9  =  (unsigned short)-580042943;
   bchJ  =  (unsigned short)-736658278;
   fuHi25EvH  =  (unsigned short)-1773752628;
-  Z2Xpc  =  -188926280;
+  Z2Xpc  =  (unsigned short)-188926280;
   irXZp  =  (unsigned short)1292830848;
   goipv  =  (unsigned short)-1892103977;
   v26JHtd02  =  (unsigned short)528121831;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
   LryKa  =  (unsigned short)1750467034;
   R8BkZM4  =  (unsigned short)50198420;
   IN_j_IhEVG  =  (unsigned short)531150973;
-  rXdSS  =  1776604937;
+  rXdSS  =  (unsigned short)1776604937;
   cehs1d  =  (unsigned short)-15357630;
   i5k_W  =  (unsigned short)2112784331;
   u20cO  =  (unsigned short)-1991074214;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
   Y6owfETc  =  (unsigned short)-1932842812;
   NMb1KcmF  =  (unsigned short)873825360;
   KBRE4hC  =  (unsigned short)571840853;
-  VwvIJb  =  1074865466;
+  VwvIJb  =  (unsigned short)1074865466;
   Dmdbf  =  (unsigned short)380170132;
   q3xy  =  (unsigned short)-2029638858;
 

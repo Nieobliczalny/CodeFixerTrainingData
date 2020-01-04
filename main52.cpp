@@ -25,7 +25,7 @@ int main(int argc, char** argv)
   RFRvP3N  =  (short)-1851711881;
   Qi3W  =  (short)1242214404;
   XiKEfc  =  (short)1557969422;
-  zXc5noYz  =  -1249559933;
+  zXc5noYz  =  (short)-1249559933;
   Dd5m  =  (short)881025858;
   r5Ii7oA5  =  (short)-1807361951;
   nM0jK  =  (short)283967833;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
   p_7O  =  (short)569809053;
   a7N8  =  (short)-494479287;
   oBOQP8  =  (short)-597361741;
-  K3Jz6K84Z  =  306887947;
+  K3Jz6K84Z  =  (short)306887947;
   hZ_75G3G4  =  (short)-419736621;
   TBcor  =  (short)-1409976364;
   IsC0aL  =  (short)1271005526;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
   dip6rjZgP5  =  (short)-925116946;
   ii1_R2V01  =  (short)171169492;
   br1y  =  (short)124682326;
-  H56Fy0il49  =  462881506;
+  H56Fy0il49  =  (short)462881506;
   ddlTyoJ  =  (short)-628740731;
   rzTr5gGE  =  (short)830873074;
   pgpZ  =  (short)159462444;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
   d0cez  =  (short)-19724418;
   Sw3FWM1g  =  (short)-1438596895;
   y9oyo  =  (short)-414108617;
-  sCi5wvq21  =  11902681;
+  sCi5wvq21  =  (short)11902681;
   x2DtL78bn  =  (short)1702737333;
   N_n31h6  =  (short)-64487514;
   eg4_IKhP  =  (short)1656349752;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
   gJ0CV1f9  =  (short)1456056559;
   OXCPD35  =  (short)1032687194;
   F_1X  =  (short)-223150737;
-  sSqXq5  =  -372337400;
+  sSqXq5  =  (short)-372337400;
   z79_GP  =  (short)805192447;
   gFo3A  =  (short)-1758142569;
   oVm5GLC7cW  =  (short)241801424;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
   rM6Y  =  (short)1612823946;
   H_8qoK  =  (short)-2121019966;
   GN_o9UQ  =  (short)-1796915889;
-  Xrv2wtcB  =  -1608813100;
+  Xrv2wtcB  =  (short)-1608813100;
   a_3P_C  =  (short)-631984855;
   C_j8  =  (short)-1636106325;
   IFwU452bem  =  (short)1638881189;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
   o9FR3BBkke  =  (short)-547225827;
   Y00_  =  (short)2094784893;
   uclkY  =  (short)-1958352526;
-  bAmwMk  =  -2142005393;
+  bAmwMk  =  (short)-2142005393;
 
 switch (rM6Y)
 {

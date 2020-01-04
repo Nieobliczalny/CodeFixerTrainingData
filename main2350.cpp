@@ -29,7 +29,7 @@ int main(void) {
     aVX8eCW    =    (unsigned short)-1411634027;
     WWO25y    =    (unsigned short)-741298095;
     tuX5tH    =    (unsigned short)-1694481716;
-    d37RIW3Slj    =    -1911342531;
+    d37RIW3Slj    =    (unsigned short)-1911342531;
     D5xhBmP1    =    (unsigned short)1404965725;
     eL2K90y_Li    =    (unsigned short)761604451;
 

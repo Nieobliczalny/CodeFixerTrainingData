@@ -28,7 +28,7 @@ int main() {
 	c6OyM8o96V	=	(char)2132922932;
 	ZJga7A	=	(char)1042050563;
 	T4WJ48Z	=	(char)377780285;
-	O3ome4	=	-164505856;
+	O3ome4	=	(char)-164505856;
 	p_OoR_o	=	(char)-952471869;
 	cSM1	=	(char)639812213;
 	LNHu43fNi	=	(char)-472343665;
@@ -38,7 +38,7 @@ int main() {
 	chco7	=	(char)-1987472029;
 	OyJE4	=	(char)261076352;
 	QSC99PZnl8	=	(char)1298498050;
-	cnXk81	=	-1770276569;
+	cnXk81	=	(char)-1770276569;
 	Hg9o8i7JQ2	=	(char)505924717;
 	ktMJiFgi3	=	(char)-319767549;
 	pD04_X	=	(char)-1470724234;
@@ -48,7 +48,7 @@ int main() {
 	E1AYV	=	(char)-1184048303;
 	btpx2_2	=	(char)-692922421;
 	b3n89H6DU	=	(char)-1800813118;
-	v3gnuvxc	=	-641331299;
+	v3gnuvxc	=	(char)-641331299;
 	rcUw0_2T	=	(char)-203293572;
 	x_hA	=	(char)-388907890;
 	uhD7r4Ey93	=	(char)99555210;
@@ -58,7 +58,7 @@ int main() {
 	khdz7B5	=	(char)1155661852;
 	rp8dmXa	=	(char)-911935832;
 	g0ruk	=	(char)-1865140762;
-	xG2k	=	451178091;
+	xG2k	=	(char)451178091;
 	D_0U__	=	(char)-2143931311;
 	h6Y7R	=	(char)3144654;
 	FRm7QKH	=	(char)403236754;
@@ -68,7 +68,7 @@ int main() {
 	m3b9O6rS	=	(char)-964934708;
 	hff_2RpoG	=	(char)1894328441;
 	w_10q5jX	=	(char)-2025834955;
-	z00BIB2t	=	-1715351631;
+	z00BIB2t	=	(char)-1715351631;
 	DQa6dfp4	=	(char)1414151036;
 	Ph052	=	(char)198106040;
 	QQ085tql	=	(char)608263175;
@@ -78,7 +78,7 @@ int main() {
 	T5rEXo7Qk0	=	(char)-2021838264;
 	GZi9RqpUyX	=	(char)873622302;
 	Vu0N9dG	=	(char)1606780334;
-	FjcI8y9F	=	1875404947;
+	FjcI8y9F	=	(char)1875404947;
 	p77KIfp	=	(char)-1208004775;
 	Ip2_iTL	=	(char)270099842;
 	YX1nj	=	(char)780137692;
@@ -88,7 +88,7 @@ int main() {
 	lP1G3Lb	=	(char)-714431149;
 	Bh0NkE8Z	=	(char)1104050502;
 	VLf3CV	=	(char)1756860945;
-	Z_5Lpu5M	=	-1212568436;
+	Z_5Lpu5M	=	(char)-1212568436;
 	zvSM	=	(char)-1823989120;
 	qj_aMEPHGz	=	(char)-1338803740;
 	DoF75xN	=	(char)-1771236519;
@@ -98,7 +98,7 @@ int main() {
 	OLbuW	=	(char)-1136980514;
 	gIiSc5s_2P	=	(char)-1807037868;
 	ywRK	=	(char)866721648;
-	BNB3	=	1364812859;
+	BNB3	=	(char)1364812859;
 	tOcj	=	(char)1535200529;
 	PHNR4Pb	=	(char)1463558506;
 	qAP5v	=	(char)2077429804;

@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
     DET16AR9R    =    (unsigned char)-1270617404;
     safv9    =    (unsigned char)1899649194;
     m10S2Qt9R    =    (unsigned char)-232570940;
-    BV06    =    -1447295083;
+    BV06    =    (unsigned char)-1447295083;
     CIbC8Y    =    (unsigned char)881841693;
     BTa2    =    (unsigned char)-553486175;
     ul91    =    (unsigned char)-1573049095;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
     etVWx7    =    (unsigned char)60350891;
     G7P9o    =    (unsigned char)-815278513;
     v_us7b8    =    (unsigned char)-2086326008;
-    p5KF3eU3s    =    -127704198;
+    p5KF3eU3s    =    (unsigned char)-127704198;
     etZ4OuOhx    =    (unsigned char)-831734615;
     SB9b4SOP    =    (unsigned char)-21638439;
     W93N7Yw    =    (unsigned char)721222787;

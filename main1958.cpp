@@ -26,7 +26,7 @@ int main() {
 	F3HYaj	=	(short)-1269997443;
 	Pj57	=	(short)2055231903;
 	qQ39N	=	(short)54002760;
-	px4A_tO3HJ	=	78969442;
+	px4A_tO3HJ	=	(short)78969442;
 	Icf1o	=	(short)1056221466;
 	LHj6542R9	=	(short)-1256262166;
 	G1Y3n	=	(short)958215844;
@@ -36,7 +36,7 @@ int main() {
 	V8p_uzrbu	=	(short)-620261466;
 	iG435t6oV	=	(short)-1151076146;
 	RMTMxA_vIC	=	(short)-889074066;
-	qTRZUsJ8sJ	=	-634383809;
+	qTRZUsJ8sJ	=	(short)-634383809;
 	XDNfA	=	(short)1210514244;
 	Q295h0Bc	=	(short)-798162071;
 	AbZzmb	=	(short)-544022356;
@@ -46,7 +46,7 @@ int main() {
 	uaQmmy0_m	=	(short)-1001029920;
 	pj_nLb4CRc	=	(short)2040018229;
 	NU8_86	=	(short)-1624483807;
-	N24a	=	626105267;
+	N24a	=	(short)626105267;
 	JJa1pa_o_r	=	(short)43848409;
 	n0NP	=	(short)132112335;
 	aDvvumUQ	=	(short)1407320571;
@@ -56,7 +56,7 @@ int main() {
 	OYhU0V84	=	(short)-352919104;
 	xyYL60	=	(short)909926526;
 	UuP06	=	(short)1542379689;
-	dGNrX	=	-666350393;
+	dGNrX	=	(short)-666350393;
 	LhtO_	=	(short)734397845;
 	TxwCeCxJG	=	(short)-1925579244;
 	votMhq	=	(short)-55557329;
@@ -66,7 +66,7 @@ int main() {
 	X00DH1A3gi	=	(short)964867260;
 	W54724	=	(short)-451105591;
 	M5YT28x	=	(short)1206986287;
-	clS8k	=	-797157328;
+	clS8k	=	(short)-797157328;
 	nF2J6ax	=	(short)436983049;
 	O4Cz	=	(short)937439711;
 	lXrFnyq86	=	(short)828114973;
@@ -76,7 +76,7 @@ int main() {
 	x6NR3_b	=	(short)751851213;
 	MD_aTM5g92	=	(short)-280462122;
 	Q8qQAx9e8u	=	(short)1746053932;
-	K7sC9nqE	=	-626789931;
+	K7sC9nqE	=	(short)-626789931;
 	r_P9Bg29	=	(short)313617103;
 	GEVM84	=	(short)237697983;
 	leEDu_5S	=	(short)-1064961737;
@@ -86,7 +86,7 @@ int main() {
 	Xk_Ph_g03	=	(short)-1617891119;
 	WY27eD	=	(short)929532849;
 	W420492U_1	=	(short)-975222740;
-	MAQYnIX	=	150577439;
+	MAQYnIX	=	(short)150577439;
 	QT09	=	(short)-955686752;
 	b4Qo	=	(short)1779109860;
 	Fkl6itmRD	=	(short)-18938451;
@@ -96,7 +96,7 @@ int main() {
 	ASe8	=	(short)561874083;
 	XpHN	=	(short)-109180098;
 	yrWVsz	=	(short)-875082355;
-	Ke_f	=	-1883243234;
+	Ke_f	=	(short)-1883243234;
 	G1zXr2QT3	=	(short)17051985;
 	jwOOK48q	=	(short)-1497550307;
 	xRLR	=	(short)-1755933913;

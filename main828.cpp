@@ -25,7 +25,7 @@ int main(void) {
   KS5vY0U  =  (unsigned char)-1432058541;
   lImKoT  =  (unsigned char)1127714272;
   C661K0Q  =  (unsigned char)-1931524500;
-  Tf1_yk57r  =  -1199544989;
+  Tf1_yk57r  =  (unsigned char)-1199544989;
   x9RlXtH  =  (unsigned char)-612490471;
   znmlvg  =  (unsigned char)-947290089;
   QhAETL  =  (unsigned char)1489515589;
@@ -35,7 +35,7 @@ int main(void) {
   v2O5pNPP  =  (unsigned char)-124260093;
   He_E  =  (unsigned char)1895922617;
   b6_ze0Q  =  (unsigned char)-1621096944;
-  xk3XP  =  -700502089;
+  xk3XP  =  (unsigned char)-700502089;
   WwrwkN98  =  (unsigned char)1705525905;
   cg9d  =  (unsigned char)-1140754761;
   mOfyXk_  =  (unsigned char)579912805;
@@ -45,7 +45,7 @@ int main(void) {
   bNLCizC  =  (unsigned char)840418634;
   dMNR  =  (unsigned char)1667183103;
   p1iXA2ml  =  (unsigned char)-276664350;
-  En68  =  -1278512416;
+  En68  =  (unsigned char)-1278512416;
   hsRSt1NFdO  =  (unsigned char)1888187005;
   gesx6ch3  =  (unsigned char)-1485110480;
   YppI0  =  (unsigned char)-2050089524;
@@ -55,7 +55,7 @@ int main(void) {
   CWE27H_5  =  (unsigned char)1952743609;
   yuN0  =  (unsigned char)-831524388;
   EEz1Wpq8JF  =  (unsigned char)-1625455718;
-  nTKywp1Su9  =  2012209095;
+  nTKywp1Su9  =  (unsigned char)2012209095;
   kJ31  =  (unsigned char)845219609;
   KP4N6  =  (unsigned char)797752776;
   nFsWR3v30s  =  (unsigned char)-2112959867;
@@ -65,7 +65,7 @@ int main(void) {
   kvfp  =  (unsigned char)939056073;
   ba0L33  =  (unsigned char)847863720;
   kcdvkA  =  (unsigned char)796577630;
-  F80981A8  =  -1723428349;
+  F80981A8  =  (unsigned char)-1723428349;
   Dy4pD  =  (unsigned char)974215137;
   bbA__Q1Iuj  =  (unsigned char)-331495243;
   Ylb3  =  (unsigned char)-1434132283;
@@ -75,7 +75,7 @@ int main(void) {
   ia7J4I3w  =  (unsigned char)-264628729;
   fyO0nRO  =  (unsigned char)-1844619844;
   lQnzfk  =  (unsigned char)515151104;
-  Z_8KO1sAs  =  -1092006814;
+  Z_8KO1sAs  =  (unsigned char)-1092006814;
   T4sW2xVeY  =  (unsigned char)328063938;
   HPDr84ZjW  =  (unsigned char)253525311;
   hy2HdNCvHc  =  (unsigned char)417563302;

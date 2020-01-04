@@ -30,7 +30,7 @@ int main(int argc, char** argv)
  EXszhc = (char)518889919;
  Iac9851CAD = (char)-505746876;
  eY_ms9w = (char)-475418877;
- V6a0YNJpB1 = 1435939643;
+ V6a0YNJpB1 = (char)1435939643;
  KwfI_3_an8 = (char)-858000295;
  iDY2k655 = (char)1857576310;
  I2x0_IF3Xv = (char)2004166576;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
  O77A36ds = (char)-31441427;
  JGU74E = (char)-1789052319;
  uXGZjNVdg4 = (char)109116361;
- YB473 = -1943808700;
+ YB473 = (char)-1943808700;
   unsigned short int  FxkmU,  J3WUvT,  UQp1jJOh;
   FxkmU  =  0;
   J3WUvT  =  0;

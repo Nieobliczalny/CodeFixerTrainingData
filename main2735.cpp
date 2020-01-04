@@ -30,7 +30,7 @@ int main(void) {
 	Sy34S9	=	(short)1695260463;
 	IBnB07Wb42	=	(short)-272374219;
 	M9n2989	=	(short)1220634375;
-	rFXb3Sa	=	62142822;
+	rFXb3Sa	=	(short)62142822;
 	Mv8j4_j	=	(short)1969253628;
 	Hy7__L3LSQ	=	(short)-1982443295;
 	EI2U0cfs8K	=	(short)910974830;
@@ -40,7 +40,7 @@ int main(void) {
 	Z6LI_	=	(short)2114887515;
 	e_32c	=	(short)-845396065;
 	Y3Zzd4j38N	=	(short)359322780;
-	Vn77HSFOO	=	-2037293177;
+	Vn77HSFOO	=	(short)-2037293177;
 	pzo2yR_6zy	=	(short)394096916;
 	xkcUtom8DY	=	(short)-1749031998;
 	CZ429ay_Z	=	(short)-1366873250;
@@ -50,7 +50,7 @@ int main(void) {
 	R92u16	=	(short)-1353717987;
 	jv3Wxa5704	=	(short)466302872;
 	u_58BQ0W9	=	(short)-755769270;
-	Uthe3S7_	=	-2142427794;
+	Uthe3S7_	=	(short)-2142427794;
 	tO5085bokp	=	(short)91767474;
 	MJ7l8cg13	=	(short)-1546718827;
 	SwVU29	=	(short)985944444;
@@ -60,7 +60,7 @@ int main(void) {
 	R03P5	=	(short)-146623587;
 	FX3A3	=	(short)-377320348;
 	f_O5xHDV	=	(short)-651500366;
-	Y3qe7m	=	293087685;
+	Y3qe7m	=	(short)293087685;
 	ZjhQW	=	(short)2006291761;
 	sB1ChT4ZPG	=	(short)-1327770542;
 	sQR490Og	=	(short)546980161;
@@ -70,7 +70,7 @@ int main(void) {
 	S0gGK	=	(short)-992886815;
 	S28V8KZm9	=	(short)1646943532;
 	lU6_7M1RqO	=	(short)-1828016433;
-	vVuJ0l	=	-996849080;
+	vVuJ0l	=	(short)-996849080;
 	Y7j885	=	(short)471289924;
 	c8nHW6uUbz	=	(short)-1641802177;
 	Z_OP0A	=	(short)-299153490;
@@ -80,7 +80,7 @@ int main(void) {
 	jiR_57_	=	(short)-466820995;
 	pf85_4w	=	(short)442762086;
 	HG_nz7C5	=	(short)575320591;
-	Ct960	=	-1464230580;
+	Ct960	=	(short)-1464230580;
 	zQ34	=	(short)165130366;
 	rKmqd	=	(short)-801348790;
 	VYuzbVd0J	=	(short)1106395137;
@@ -90,7 +90,7 @@ int main(void) {
 	M9j3uJl58	=	(short)574646874;
 	fQ7B11	=	(short)-1397723341;
 	tIpfV99	=	(short)-2010715206;
-	j02UFE7	=	5357558;
+	j02UFE7	=	(short)5357558;
 	M94zJ	=	(short)883846688;
 	A53fPl3ufM	=	(short)862913381;
 	Bx0eI	=	(short)-523895179;
@@ -100,7 +100,7 @@ int main(void) {
 	vzR30o9	=	(short)552100607;
 	ZWrxgS	=	(short)-1264753096;
 	yCQ4vK	=	(short)2123080700;
-	fesmQw	=	1724682008;
+	fesmQw	=	(short)1724682008;
 	kQXt	=	(short)1170892103;
 	DveQ	=	(short)-123446452;
 	xe__439	=	(short)-722334863;

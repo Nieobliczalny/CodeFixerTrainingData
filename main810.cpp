@@ -28,7 +28,7 @@ int main(void) {
 	r4hnC_m	=	(unsigned char)-223064841;
 	Tqi9	=	(unsigned char)-1693079252;
 	n007	=	(unsigned char)-1270828754;
-	c1kyXM	=	611171349;
+	c1kyXM	=	(unsigned char)611171349;
 	k0xixSh	=	(unsigned char)-1750876230;
 	q5yK7Ly	=	(unsigned char)-606581492;
 	CAcIB	=	(unsigned char)1743282392;
@@ -38,7 +38,7 @@ int main(void) {
 	wqLey06K_	=	(unsigned char)535954997;
 	M3d4E	=	(unsigned char)-1227788537;
 	m4c196Od7	=	(unsigned char)-1904036297;
-	t1A1	=	-687193916;
+	t1A1	=	(unsigned char)-687193916;
 	aXERX	=	(unsigned char)-772273354;
 	mu6f	=	(unsigned char)-375729388;
 	FmX7baVtGj	=	(unsigned char)557574771;
@@ -48,7 +48,7 @@ int main(void) {
 	LWbU7NF6	=	(unsigned char)-1248574746;
 	Lx2qV	=	(unsigned char)-502017589;
 	Y95P5V	=	(unsigned char)-1187602069;
-	B6i31atT5	=	533493935;
+	B6i31atT5	=	(unsigned char)533493935;
 	FjL1g73M9_	=	(unsigned char)137658100;
 	Org1O	=	(unsigned char)-254893240;
 	ZETaO	=	(unsigned char)-299962247;

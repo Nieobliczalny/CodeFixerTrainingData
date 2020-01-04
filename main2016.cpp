@@ -32,7 +32,7 @@ int main() {
  o8080wufz1 = (unsigned char)-1669827205;
  Au6apCbrh = (unsigned char)1661707864;
  E5Gw0 = (unsigned char)-294563981;
- l9qN_o = -86864105;
+ l9qN_o = (unsigned char)-86864105;
  jG9H = (unsigned char)-1884118505;
  JcUu = (unsigned char)-991596491;
  oYWiu = (unsigned char)147881416;
@@ -42,7 +42,7 @@ int main() {
  T2o8dKsL = (unsigned char)1766792810;
  shPz = (unsigned char)1947007946;
  m_lE5QEw = (unsigned char)1772813060;
- n6y2_KO = -2000214431;
+ n6y2_KO = (unsigned char)-2000214431;
 
 for (int i = 0; i < 5; ++i)
 {

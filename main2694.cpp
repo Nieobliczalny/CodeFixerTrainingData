@@ -32,7 +32,7 @@ int main(int argc, char** argv)
 	S831c	=	(short)-260063011;
 	rc_1HdBIy3	=	(short)-1059959365;
 	bs8Fz	=	(short)1847811339;
-	zi4U	=	-1946909455;
+	zi4U	=	(short)-1946909455;
 	Kl22qG	=	(short)-201257625;
 	W5DrrTK26	=	(short)-144814646;
 	Vf7_WJlB	=	(short)-1641513464;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 	YSANqxL1	=	(short)-1140856593;
 	iz3J7a	=	(short)-1808794975;
 	nc7186e	=	(short)-2147053134;
-	fwEnFHZ	=	-647550855;
+	fwEnFHZ	=	(short)-647550855;
 	tJA1G9I7	=	(short)-190659127;
 	JIrx5w	=	(short)-1578713072;
 	kI9X9FHGU	=	(short)-1775489457;

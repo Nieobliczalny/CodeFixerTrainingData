@@ -136,7 +136,7 @@ case 0:
 uyI5 = V4_l70BaB_((char)-1128884579, (unsigned short)-1413627256, (short)-873332680, U5j3E7z, (short)-1279029432);
 break;
 case 1:
-uyI5 = V4_l70BaB_((char)626891854, (unsigned short)-1273161475, (short)1716126450, U5j3E7z, -1892299474);
+uyI5 = V4_l70BaB_((char)626891854, (unsigned short)-1273161475, (short)1716126450, U5j3E7z, (short)-1892299474);
 break;
 case 2:
 T6Ka = (int)floor(BHTXnA);

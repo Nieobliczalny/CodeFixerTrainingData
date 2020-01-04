@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
     jXHqnFS191    =    (unsigned short)800701547;
     VFP1_    =    (unsigned short)-1779785402;
     VrK_    =    (unsigned short)-387506707;
-    zS08    =    1959373582;
+    zS08    =    (unsigned short)1959373582;
     P9I68oUy    =    (unsigned short)643708471;
     J9IDE    =    (unsigned short)1906062848;
     GEIUP    =    (unsigned short)150675226;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
     fe9ra    =    (unsigned short)1702716682;
     jA84DM0F    =    (unsigned short)-1087878144;
     dYH6Rv91W    =    (unsigned short)123541176;
-    pm8J_c9jR    =    780777480;
+    pm8J_c9jR    =    (unsigned short)780777480;
     m3DF3HD    =    (unsigned short)-218741890;
     hwU7P    =    (unsigned short)181050917;
     m2z3Q4CxCn    =    (unsigned short)-1131846431;
@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
     K3r6    =    (unsigned short)-1964731117;
     Q8_110    =    (unsigned short)132089123;
     tZ09G9    =    (unsigned short)1257221492;
-    Ca1f    =    -1978092504;
+    Ca1f    =    (unsigned short)-1978092504;
 
 if (Q8_110 == VrK_)
 {

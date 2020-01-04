@@ -32,7 +32,7 @@ int main(void) {
     qrCi8Jji    =    (unsigned char)-1510881253;
     F73t_bQjeY    =    (unsigned char)-998870290;
     p2Oi86    =    (unsigned char)1198059954;
-    PuWaJnZ    =    227503885;
+    PuWaJnZ    =    (unsigned char)227503885;
     NCTs    =    (unsigned char)-1138865816;
     btRcETw    =    (unsigned char)-1986127235;
     Kd8_5DJE    =    (unsigned char)1382254403;
@@ -42,7 +42,7 @@ int main(void) {
     hRpp29R2    =    (unsigned char)1776332455;
     cHa31Y    =    (unsigned char)-2126442246;
     zw9rB9vhlF    =    (unsigned char)-1734227427;
-    w68_    =    -2082075759;
+    w68_    =    (unsigned char)-2082075759;
 
 NXtwU4_I = (int)abs(ysQ5);
 {

@@ -24,7 +24,7 @@ int main()
     l_wU_X4nVC    =    (char)2042126875;
     B3D7    =    (char)1261287965;
     l3YZM_W8A    =    (char)202781457;
-    VU122Go3VJ    =    -1859243117;
+    VU122Go3VJ    =    (char)-1859243117;
     eP9zl4rTL8    =    (char)-226608937;
     fyy3on    =    (char)1121465445;
     L51g    =    (char)586980109;
@@ -34,7 +34,7 @@ int main()
     S5RNxi    =    (char)-190843224;
     cvH3    =    (char)580799263;
     qtOVF64y    =    (char)-1976158001;
-    hWv8YTF1    =    -1162547845;
+    hWv8YTF1    =    (char)-1162547845;
     c_4w4_P1    =    (char)-2091231323;
     pFoP77NY    =    (char)-2139395825;
     KT71r_1    =    (char)2093708878;
@@ -44,7 +44,7 @@ int main()
     Oa0jD    =    (char)-1923430674;
     vg8fBPOx    =    (char)-1805061837;
     hpr3___    =    (char)2051454473;
-    W2Xom    =    1753284299;
+    W2Xom    =    (char)1753284299;
     qr9nn0HxR    =    (char)-1544843227;
     CD0dc2UhX    =    (char)-1776487896;
     qQrsQ    =    (char)-616903381;
@@ -54,7 +54,7 @@ int main()
     Ke3jxGXoh    =    (char)-540982385;
     dVE_G_8    =    (char)-2106006043;
     R193S_    =    (char)-1561225816;
-    pXNp11w0    =    1099870146;
+    pXNp11w0    =    (char)1099870146;
     KAn0G76I    =    (char)-881978171;
     w07m2u    =    (char)1269787808;
     EqDS8HD    =    (char)191137187;
@@ -64,7 +64,7 @@ int main()
     Asjf8r    =    (char)-1886001815;
     Ppc7hnK4k1    =    (char)-1342413699;
     s4CDV4Z    =    (char)1020171037;
-    beHuSYQ1g    =    -387421503;
+    beHuSYQ1g    =    (char)-387421503;
     re1h7_L    =    (char)-1965466766;
     th_4_    =    (char)1947372919;
     mNoX3NY    =    (char)-1846148621;
@@ -74,7 +74,7 @@ int main()
     x2PN    =    (char)1656889056;
     op3zvrZw6x    =    (char)-376245198;
     g32W0ghe_A    =    (char)-1978180910;
-    CkRMO    =    -2038071134;
+    CkRMO    =    (char)-2038071134;
     b7RWqpA0Gy    =    (char)-805908720;
     kl6E    =    (char)970977395;
     u7YM2Qf    =    (char)-958046163;
@@ -84,7 +84,7 @@ int main()
     o71Sh0d    =    (char)1846670405;
     up3sXy8k    =    (char)941783112;
     mX7IZ_4J    =    (char)505936406;
-    M_cL    =    98754348;
+    M_cL    =    (char)98754348;
     j868L    =    (char)-612652449;
     Nrr7ba3dL    =    (char)-1187790478;
     BTNo    =    (char)1036870660;
@@ -94,7 +94,7 @@ int main()
     EzjSR356U    =    (char)-3758433;
     iN9heDKt    =    (char)-345915806;
     jJ4AR1z8Og    =    (char)503587017;
-    kN8IKLaU    =    1935473112;
+    kN8IKLaU    =    (char)1935473112;
     unsigned char    LLmGw1,    f30N_3fj;
     LLmGw1    =    0;
     f30N_3fj    =    0;

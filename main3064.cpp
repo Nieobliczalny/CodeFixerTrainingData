@@ -26,7 +26,7 @@ int main() {
  pH_Hjs = (short)1221756477;
  ca4re81 = (short)1501371192;
  gNTc531IFf = (short)1485752693;
- YEFxllu = 656970551;
+ YEFxllu = (short)656970551;
  r1c2b8ca2 = (short)-902831108;
  E4LT = (short)2037017562;
  BFvk0ND = (short)1846075789;
@@ -36,7 +36,7 @@ int main() {
  s7dwRdbr = (short)-1057963705;
  K1XQ = (short)-1872913133;
  ZFaP8ZUkgV = (short)-501502530;
- cQfKh_6 = 309049874;
+ cQfKh_6 = (short)309049874;
  zlTZ0x5 = (short)-210196810;
  qkUgX3rP = (short)-2108182853;
  o0LLi5QK = (short)955096343;
@@ -46,7 +46,7 @@ int main() {
  Zh6F = (short)-487919091;
  oTyg0YL05 = (short)170751345;
  NZYb_7J = (short)-939819887;
- R_2sg31gji = -2088251910;
+ R_2sg31gji = (short)-2088251910;
  zM84un5y7P = (short)-1899878952;
  VTZlo7kg = (short)1652928796;
  Eyp2 = (short)-444828705;
@@ -56,7 +56,7 @@ int main() {
  g4Jh9 = (short)-1393033759;
  dhd9S = (short)-1494061529;
  z69x78Z4R = (short)2121989242;
- S3Y5SU5 = 761360234;
+ S3Y5SU5 = (short)761360234;
  e3j3X0_ = (short)-542558535;
  xafEL = (short)261326300;
  rVGM1_P2lP = (short)697722188;
@@ -66,7 +66,7 @@ int main() {
  XtW60lr = (short)-786228223;
  B7ocb243 = (short)496887402;
  sH_b0 = (short)1755815611;
- A7_QfJb51 = -1936464703;
+ A7_QfJb51 = (short)-1936464703;
  I_Z1h97 = (short)-1585763837;
  VTV0Ty = (short)356319823;
  D_mXB4XOY_ = (short)-796918745;
@@ -76,7 +76,7 @@ int main() {
  WoWm7x = (short)-1269349278;
  S6FzYTQU = (short)810845426;
  fYZ0LPRpks = (short)1012787249;
- FF55J2D1_ = 1475657799;
+ FF55J2D1_ = (short)1475657799;
  cfIx1 = (short)1771286890;
  h03H = (short)-1938717050;
  nJzX96__8 = (short)-690461474;
@@ -86,7 +86,7 @@ int main() {
  i3S4zPm2 = (short)-2089498367;
  X80DC878 = (short)-81646545;
  Uj54lPe = (short)439887456;
- pqym_ShFY_ = -2109785579;
+ pqym_ShFY_ = (short)-2109785579;
  vd0sn27 = (short)-164997660;
  ZDtB6lg = (short)1305050446;
  dB1w5kH5 = (short)482832373;
@@ -96,7 +96,7 @@ int main() {
  Wcpugqnah4 = (short)-545614878;
  e7565 = (short)1409418010;
  m_C372 = (short)1320785134;
- UsfLKw = -2026123476;
+ UsfLKw = (short)-2026123476;
  SSR6iQOW_S = (short)1480615693;
  z3yg126wQ = (short)-1022593921;
  d93BQ6Lj6 = (short)-1789548851;

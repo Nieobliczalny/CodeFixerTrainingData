@@ -47,7 +47,7 @@ int main(void)
 	V771dL	=	(char)-477167807;
 	i2lYl	=	(char)-133035647;
 	hwlX	=	(char)964154558;
-	aDaDRmW	=	-932591621;
+	aDaDRmW	=	(char)-932591621;
 	XJt0onnq1_	=	(char)-1720525877;
 	kbmkace	=	(char)26131033;
 

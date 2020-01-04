@@ -26,7 +26,7 @@ int main(void)
 	cLY_05QFX	=	(unsigned short)1567481685;
 	T2p3	=	(unsigned short)-289137777;
 	g9hke	=	(unsigned short)-957947809;
-	xfn03_p	=	1561549926;
+	xfn03_p	=	(unsigned short)1561549926;
 	Bfc5	=	(unsigned short)-425208992;
 	mINm6	=	(unsigned short)870163313;
 	slbBcuCf	=	(unsigned short)-806799433;

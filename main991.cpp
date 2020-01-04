@@ -28,7 +28,7 @@ int main() {
  R4_o_i99 = (short)-505650104;
  D9jzFH0X2w = (short)-881159548;
  T6Caq_M0j = (short)-1598529362;
- oPaUzOY2 = 270737198;
+ oPaUzOY2 = (short)270737198;
  f_RHC = (short)1007102273;
  nZfXN1FQL = (short)206276052;
  tLwDp = (short)577711196;
@@ -38,7 +38,7 @@ int main() {
  llofb2F = (short)-251512332;
  TwH7wV6 = (short)1901058220;
  FAdsu59N9s = (short)1672877139;
- pytUY7v = -240776467;
+ pytUY7v = (short)-240776467;
  i_OZCV69Y = (short)-1758901655;
 
 for (int i = 0; i < 8; i++)
