@@ -378,7 +378,7 @@ case 0:
 zUPyU_dh = (unsigned short)(V7Cz - 1498506364);
 break;
 case 1:
-C49a = V7Cz - 2036740802;
+C49a = (unsigned short)(V7Cz - 2036740802);
 break;
 case 2:
 esUABeQ_a4 = (xZ5T_Te0 >= -653931735) ? esUABeQ_a4 : 1760479796;

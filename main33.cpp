@@ -94,7 +94,7 @@ B5Uo = r3BzbB(Df6vG1w, oBmu);
 }
 else
 {
-B5Uo = r3BzbB(97064325, -28774803);
+B5Uo = r3BzbB((unsigned short)97064325, -28774803);
 }
 }
 }

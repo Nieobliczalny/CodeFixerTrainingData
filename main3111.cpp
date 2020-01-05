@@ -225,7 +225,7 @@ case 'e':
 dnzsk4T8l7 = gjQyUp1 % ZRBSLfv26;
 break;
 case 'f':
-BS2__0S8rh = Irnmo99(-233391890);
+BS2__0S8rh = Irnmo99((unsigned char)-233391890);
 break;
 case 'g':
 qeN6nH = IeMCXcLip | mGtrG4nuV;

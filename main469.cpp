@@ -217,7 +217,7 @@ break;
 
 UYo06RZ0Q = (short)(Sf_0 - 698697801);
 
-AS2R96S4 = Rt4uwOTjd(-1736435614, 1844584114) / t0ZV8gwJ;
+AS2R96S4 = Rt4uwOTjd(-1736435614, (unsigned char)1844584114) / t0ZV8gwJ;
 UYo06RZ0Q--;
 
 {

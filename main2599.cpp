@@ -222,7 +222,7 @@ switch (dBqqIrPtsK)
 {
 case 'a':
 case 'A':
-QYNu_0N7 = iibg3_75(18032105, z4Vgq4, cBuGc, 1504906144, -674411673);
+QYNu_0N7 = iibg3_75((short)18032105, z4Vgq4, cBuGc, 1504906144, -674411673);
 break;
 case 'b':
 case 'B':

@@ -166,7 +166,7 @@ case 'H':
 I_305d0 = l3cnj(l2975UmQJB, I_305d0, Pa8PQ, -1017008967, DVg_8IW8);
 break;
 default:
-Pa8PQ = gOb1p(-897132009, 1857668637, 1792154754);
+Pa8PQ = gOb1p((short)-897132009, 1857668637, 1792154754);
 break;
 }
 }

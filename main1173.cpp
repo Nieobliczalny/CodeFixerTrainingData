@@ -544,7 +544,7 @@ case 4:
 T3rWQc2 = (unsigned short)(aZ010 - 1393931250);
 break;
 case 5:
-P1UE = U65a6_(-1159067859, -1437002097, -1633404834) % yIhe2WVP;
+P1UE = U65a6_(-1159067859, (short)-1437002097, -1633404834) % yIhe2WVP;
 break;
 case 6:
 dSQ36 = XuHkyN_i7H | 585173933;

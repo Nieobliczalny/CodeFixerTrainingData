@@ -917,7 +917,7 @@ return 0;
 }
 
 short    W99qy(unsigned short    y6eh)    {
-    return    1284898277;
+    return    (short)1284898277;
 }
 
 short	Dbe40LJ(unsigned int	F2rt,short int	an0v3HrWGl,unsigned long	RaVh)

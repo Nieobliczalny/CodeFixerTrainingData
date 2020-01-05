@@ -91,7 +91,7 @@ iEP09 = (char)(YSrr7m_Mw - 121764080);
 break;
 case 'e':
 case 'E':
-Er63c9Z0 = b1Q_8Ey4((unsigned short)415505158, -839418270, Hi_Ot, gup5, -579926930);
+Er63c9Z0 = b1Q_8Ey4((unsigned short)415505158, (unsigned char)-839418270, Hi_Ot, gup5, -579926930);
 break;
 case 'f':
 case 'F':
@@ -364,7 +364,7 @@ case 4:
 Er63c9Z0 &= 307729732;
 break;
 case 5:
-c8465ro = KO8_Q5A0c(-2023156701, y0AdK);
+c8465ro = KO8_Q5A0c((unsigned short)-2023156701, y0AdK);
 break;
 case 6:
 FcFO7U_ &= QYe8lcd;

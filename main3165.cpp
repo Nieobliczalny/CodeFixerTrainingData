@@ -360,7 +360,7 @@ k_v10hld = (int)ceil(YeJ4);
 }
 else
 {
-Kn9N5NW = KOff(143758100);
+Kn9N5NW = KOff((unsigned char)143758100);
 }
 }
 }

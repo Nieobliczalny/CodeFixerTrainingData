@@ -490,7 +490,7 @@ case 'a':
 wfyH82 = (l_6C8H1OtE) ? (short)OwTV6Tyi : (short)1448709792;
 break;
 case 'b':
-cfJ0_bTIE = tUhQHH(-1019135689);
+cfJ0_bTIE = tUhQHH((char)-1019135689);
 break;
 case 'c':
 eFK4lYM57p = um8e3G(eFK4lYM57p, 381041495, -1741321449);

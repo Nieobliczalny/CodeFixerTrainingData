@@ -134,7 +134,7 @@ case 6:
 UQSm_ = (w_7xN > -869930302) ? (unsigned short)Drh88qA : (unsigned short)-1978710243;
 break;
 case 7:
-DJ42v6L4l = yr9mEReR_(DJ42v6L4l, Lu5Nw0u0, uF26Ac, 1844529516, 584224853);
+DJ42v6L4l = yr9mEReR_(DJ42v6L4l, Lu5Nw0u0, uF26Ac, (short)1844529516, 584224853);
 break;
 case 8:
 EdBBQ505++;

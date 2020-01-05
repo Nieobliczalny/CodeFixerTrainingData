@@ -301,7 +301,7 @@ I_sdI5tW1c = (unsigned short)(NS_U9x47fR % 362563049);
 }
 else
 {
-rBz5S = W4U2pN4X(YC_b, HNFVZ, r11X, dX0Gna0yX, 682013603);
+rBz5S = W4U2pN4X(YC_b, HNFVZ, r11X, dX0Gna0yX, (unsigned char)682013603);
 }
 }
 }

@@ -336,7 +336,7 @@ case 'a':
 G8iNQTxj0 = (unsigned short)(hro37n - 726571016);
 break;
 case 'b':
-tkRy8U4 = Mk0mD6f_X(-1526527906, qKMmH, Qvmv, oFdNb_a, -1856663532);
+tkRy8U4 = Mk0mD6f_X((unsigned short)-1526527906, qKMmH, Qvmv, oFdNb_a, -1856663532);
 break;
 case 'c':
 n82fz_61G = (int)floor(LS5OA0);
@@ -550,7 +550,7 @@ catch (int& errorCode)
 {
 wKwxh %= OBu7VQoF6;
 }
-oNmD1HJ7 = NmrE(iiIn8V_P, -1487828697, eO2bf5, u6N68CH55h, -1645546070);
+oNmD1HJ7 = NmrE(iiIn8V_P, (char)-1487828697, eO2bf5, u6N68CH55h, -1645546070);
 wuaN1F2q = (unsigned short int)(iqL2eh);
 if (wKwxh >= 334868154)
 {

@@ -476,7 +476,7 @@ case 2:
 L3iq = (unsigned char)(jR59HJ * 1585493987);
 break;
 default:
-dE7IAf9iRS = (b81kW >= 1335389165) ? 331797769 : UFrSP;
+dE7IAf9iRS = (b81kW >= 1335389165) ? (unsigned char)331797769 : UFrSP;
 break;
 }
 }

@@ -214,7 +214,7 @@ case 4:
 I65Le2 %= q9JZm8X3;
 break;
 case 5:
-e_e9hG3ww_ = W6OpE3v_ << 1616034993;
+e_e9hG3ww_ = (char)(W6OpE3v_ << 1616034993);
 break;
 case 6:
 u_088 = (int)abs(s8_r);

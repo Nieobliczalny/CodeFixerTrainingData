@@ -113,7 +113,7 @@ aM66F = (I576 > 1371968214) ? (unsigned short)itTh2Oa : (unsigned short)16380438
 }
 else
 {
-Xxkhfs = I14_EUYm2(-1385235523, -907471279, 1618034249, -165753856);
+Xxkhfs = I14_EUYm2(-1385235523, -907471279, (unsigned short)1618034249, -165753856);
 }
 j--;
 }

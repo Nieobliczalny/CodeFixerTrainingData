@@ -389,7 +389,7 @@ Ymz3N33E = (unsigned short)(uAa9j - 1662865828);
 switch (jy5_0k2mc)
 {
 case 0:
-Ymz3N33E = CG__D7L64v(-517479401);
+Ymz3N33E = CG__D7L64v((unsigned char)-517479401);
 break;
 case 1:
 Ymz3N33E = ukULG / 826786024;

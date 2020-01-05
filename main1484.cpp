@@ -447,7 +447,7 @@ case 7:
 hc352 = VHpZnwM9eC(-259899534);
 break;
 case 8:
-tF9U9qC = sG4uQ8(1774718701, -555639465);
+tF9U9qC = sG4uQ8((short)1774718701, -555639465);
 break;
 default:
 XW7j = sG4uQ8(XW7j, -1846005794);

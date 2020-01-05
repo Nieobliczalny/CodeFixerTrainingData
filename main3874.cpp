@@ -272,7 +272,7 @@ Z4Gb20U = (F_0pX <= ItQq) ? (unsigned short)G51sh53 : (unsigned short)-142081541
 break;
 case 'e':
 case 'E':
-gwT_yXu1 = J78Xy(1550385422, gwT_yXu1, E0BV13OFb, VJKypW7, X_0b1F9);
+gwT_yXu1 = J78Xy((char)1550385422, gwT_yXu1, E0BV13OFb, VJKypW7, X_0b1F9);
 break;
 case 'f':
 case 'F':

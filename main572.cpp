@@ -273,7 +273,7 @@ i66AfoM |= 206819972;
 }
 else if (ulI875N <= pxQe47tA)
 {
-S6__t0 = b6ef(f_604y_m23, 797015171, 1678589716, KA_xRFWl1, 249736690);
+S6__t0 = b6ef(f_604y_m23, (short)797015171, 1678589716, KA_xRFWl1, 249736690);
 }
 else if (y70Xd6u4 < I829MoM)
 {

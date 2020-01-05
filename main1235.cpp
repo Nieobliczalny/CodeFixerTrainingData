@@ -50,7 +50,7 @@ vhXoE4 = (unsigned short)(Gk__8ilp % 837194729);
 }
 else if (ZkzuP3g40 & k7TDq)
 {
-ogQMGejiM = B_79x(-1227457659, RSsag917, -1764367292, d_jK);
+ogQMGejiM = B_79x(-1227457659, RSsag917, (char)-1764367292, d_jK);
 }
 else if (vlTxXN_f5 & -2022538702)
 {

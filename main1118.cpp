@@ -95,7 +95,7 @@ qnHB81v = H8SAwsPm - 1221731814;
 break;
 case 'e':
 case 'E':
-VF_67o48G_ = h49b_HQ2 * 1002598525;
+VF_67o48G_ = (short)(h49b_HQ2 * 1002598525);
 break;
 case 'f':
 case 'F':

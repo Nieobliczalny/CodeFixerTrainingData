@@ -300,7 +300,7 @@ GX6y450 = (short)(udwg7LLFB + 875633455);
 }
 else if (n56b < JiTPx6)
 {
-St_64DmE = t_NsA(-838816397, LirS_e);
+St_64DmE = t_NsA((unsigned char)-838816397, LirS_e);
 }
 else if (m0jV9Z < UO1FaZBR_U)
 {

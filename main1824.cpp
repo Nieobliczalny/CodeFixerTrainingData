@@ -282,7 +282,7 @@ QB_tRI9z = (short)(KXMk7 & 1242112345);
 break;
 case 'h':
 case 'H':
-uy76 = ayJS(W70T284I, NiXq3Y7Ll0, WQX9Y, -553849086, 1496483782);
+uy76 = ayJS(W70T284I, NiXq3Y7Ll0, WQX9Y, (unsigned char)-553849086, 1496483782);
 break;
 case 'i':
 case 'I':

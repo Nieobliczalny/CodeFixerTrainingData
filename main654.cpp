@@ -722,7 +722,7 @@ jfZ7C = (int)abs(yYbzQEUFn0);
 }
 else if (((P9xf8__ < Z1haexfTp) || (S_vhcO & EmzT8_M)) && (ubuOiFo <= p7IwhJ32))
 {
-AQdi0GCi = SqOn_4M((short)2059612249, -740183790, P4Nj_n, L884);
+AQdi0GCi = SqOn_4M((short)2059612249, (short)-740183790, P4Nj_n, L884);
 }
 else
 {

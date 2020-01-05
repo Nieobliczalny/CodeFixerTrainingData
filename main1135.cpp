@@ -607,7 +607,7 @@ if (M6XvJoln & -506791276)
 switch (Ag9iI1S)
 {
 case 'a':
-pDLi = Ue68jWtM9g(m_F9Gwx, 640413974, sizjkX3_T, mhU7W7);
+pDLi = Ue68jWtM9g(m_F9Gwx, (char)640413974, sizjkX3_T, mhU7W7);
 break;
 case 'b':
 zM_Q112r = Ue68jWtM9g(QdtX610Q6, O_Kl, (unsigned short)-588177253, bocer4);

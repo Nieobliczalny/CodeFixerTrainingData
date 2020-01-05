@@ -209,7 +209,7 @@ else if (zTUwG_F3Y7)
 {
 if ((g545t61bx0 == O599mins4O) || (i9_4FOsswK))
 {
-ZvMm5n9 = N1FUm0(ZvMm5n9, 1813412964, 1707666114, ajq_6e, FIIH0yXH_);
+ZvMm5n9 = N1FUm0(ZvMm5n9, 1813412964, (short)1707666114, ajq_6e, FIIH0yXH_);
 }
 }
 else

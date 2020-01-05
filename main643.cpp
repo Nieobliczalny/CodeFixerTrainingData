@@ -578,7 +578,7 @@ else if ((R4c3yfHDZ9 < k_2LzO) || ((Y9H24AqA > bicT_) && (S4et2Q72rz == bicT_)))
 {
 if (R4c3yfHDZ9)
 {
-Y9H24AqA = v9X3kRsiT(1452396185, dz_9__, h_V4FaED44, -898385077);
+Y9H24AqA = v9X3kRsiT(1452396185, dz_9__, h_V4FaED44, (unsigned char)-898385077);
 }
 }
 else if (Y9H24AqA == k_2LzO)

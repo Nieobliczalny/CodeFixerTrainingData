@@ -686,7 +686,7 @@ case 1:
 kWYR = (qO36pTCOzZ != -896328025) ? (unsigned short)G3TaH7M_Xz : (unsigned short)990720176;
 break;
 case 2:
-D8u_yj = (r_97SRs > 1707650997) ? -35412131 : e7BTg;
+D8u_yj = (r_97SRs > 1707650997) ? (unsigned short)-35412131 : e7BTg;
 break;
 case 3:
 AK4C4A40dv -= 1850064708;

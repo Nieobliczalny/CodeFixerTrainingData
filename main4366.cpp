@@ -149,7 +149,7 @@ case 0:
 G4lBH71b40 = (unsigned char)(J1qR | 835252557);
 break;
 case 1:
-ncD4D = ab3jMG2(-187068881, 1389346315, (short)-629127697, 1307555391);
+ncD4D = ab3jMG2(-187068881, 1389346315, (short)-629127697, (unsigned short)1307555391);
 break;
 case 2:
 Hj9DA = hiwxQ9L3c(438111771, 1396719498, vks0zEvaxD, ms08L, sy6__C);

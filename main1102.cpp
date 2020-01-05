@@ -683,7 +683,7 @@ iAT7 = (DTTC > hX7L81108i) ? -183929837 : -586987395;
 break;
 case 'd':
 case 'D':
-pF91w = I7ejz(-1302256792) << 935163777;
+pF91w = I7ejz((short)-1302256792) << 935163777;
 break;
 case 'e':
 case 'E':

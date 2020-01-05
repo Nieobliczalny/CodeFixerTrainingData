@@ -119,7 +119,7 @@ for (int i = 0; i < 1; ++i)
 JH3sV022GW = (char)(mb066KDx37 + 1481449706);
 }
 
-rvC33Q2_6 = rOnh2ELL(-1842145071, R1w4RLnz, -1022543947, 646223205);
+rvC33Q2_6 = rOnh2ELL((short)-1842145071, R1w4RLnz, -1022543947, 646223205);
 
 B7gC5 = (char)(JH3sV022GW);
 

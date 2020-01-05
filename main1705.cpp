@@ -203,7 +203,7 @@ case 'c':
 l03Y6RHd3A = (unsigned char)(C_JlL - 1156949103);
 break;
 case 'd':
-dQI_d = x5scy9H(jX_WaQ, 378183567, xA6tj, -1242989319);
+dQI_d = x5scy9H(jX_WaQ, 378183567, xA6tj, (unsigned short)-1242989319);
 break;
 case 'e':
 FyVt = x5scy9H(FyVt, jX_WaQ, (unsigned short)-206120154, -1858771297);

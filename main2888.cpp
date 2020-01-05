@@ -225,7 +225,7 @@ z7Z5 = (unsigned short)(dT_oz | 899044351);
 break;
 case 'c':
 case 'C':
-Z_35D = HYOnzy14kd(-984276656, S6wMTQ0q, 699185772, -1507866782);
+Z_35D = HYOnzy14kd((unsigned char)-984276656, S6wMTQ0q, 699185772, -1507866782);
 break;
 case 'd':
 case 'D':

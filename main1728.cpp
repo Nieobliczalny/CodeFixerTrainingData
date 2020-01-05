@@ -375,7 +375,7 @@ ZF57ZED48L = (unsigned short)(qZ20u1X - 847131221);
 
 for (int i = 3; i >= 0; --i)
 {
-zxmk_E8g = (NUO8xqFK >= 1109209853) ? qZ20u1X : XmjBRy7;
+zxmk_E8g = (NUO8xqFK >= 1109209853) ? (unsigned short)qZ20u1X : XmjBRy7;
 }
 
 for (int i = 5; i >= 0; i--)

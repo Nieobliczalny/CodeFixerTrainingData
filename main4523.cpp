@@ -282,7 +282,7 @@ case 4:
 jXFKQb0 = (char)(Q_9RD049V | 1118397509);
 break;
 default:
-QGt_lHHYTt = btq3Cg7g(-2082082564, vHVnmT9, 552444093, Uh_R7mg);
+QGt_lHHYTt = btq3Cg7g(-2082082564, vHVnmT9, (short)552444093, Uh_R7mg);
 break;
 }
 }

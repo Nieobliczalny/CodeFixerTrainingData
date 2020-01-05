@@ -731,7 +731,7 @@ break;
 }
 else if ((EhAVogp7 > iaCQi2NI) || ((y0JTXTL == -1025533901) && (v4ERVl5cK & rl4z)))
 {
-xrl_F = iIuSX4C(xrl_F, HnV391, 2130647273);
+xrl_F = iIuSX4C(xrl_F, HnV391, (unsigned short)2130647273);
 }
 else
 {

@@ -228,7 +228,7 @@ case 5:
 LHHKg1MK7_ = (char)(x0t_ ^ 1636821767);
 break;
 case 6:
-zxU7T = R656OB(-1551299390, Yz3y5_f);
+zxU7T = R656OB((unsigned char)-1551299390, Yz3y5_f);
 break;
 case 7:
 o1MT += vOdb;
