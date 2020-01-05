@@ -516,7 +516,7 @@ boG1W6hQc = (unsigned short)(yUebVci0EO + 880357855);
 }
 else if (aV6TEc_ < pjII4)
 {
-eIh2EW0k13 = py61P(351875800, O8x95Hzh, (unsigned short)442463506, 1486782941);
+eIh2EW0k13 = py61P(351875800, O8x95Hzh, (unsigned short)442463506, (unsigned char)1486782941);
 }
 else if (PhNvvV77g9 > qHJ1)
 {

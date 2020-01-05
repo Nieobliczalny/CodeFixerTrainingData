@@ -463,7 +463,7 @@ case 'c':
 zn87_Yh = P_oLNy(zn87_Yh, L6_b, LCt6r4P, PEs3yPHm, (unsigned short)177928475);
 break;
 case 'd':
-EDCH4_H = P_oLNy(XDMn1, -1389685741, 1884868245, 962670501, YIm10);
+EDCH4_H = P_oLNy(XDMn1, -1389685741, (unsigned short)1884868245, 962670501, YIm10);
 break;
 case 'e':
 EDCH4_H = P_oLNy(EDCH4_H, NDRG9op8, (unsigned short)1060906642, -1867927519, XDMn1);

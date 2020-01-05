@@ -276,7 +276,7 @@ gwT_yXu1 = J78Xy((char)1550385422, gwT_yXu1, E0BV13OFb, VJKypW7, X_0b1F9);
 break;
 case 'f':
 case 'F':
-l2ShPsdf18 = C8RJ(1216064441, 2003175581, -1453238827, j22W8Bp2fP, K28h);
+l2ShPsdf18 = C8RJ((char)1216064441, 2003175581, -1453238827, j22W8Bp2fP, K28h);
 break;
 case 'g':
 case 'G':

@@ -356,7 +356,7 @@ if ((sb8_99 < -1874919430) && (B_9tZ7Jq == vYEMC9if))
 {
 if (J02Ei6Rg6w != -1061983099)
 {
-cnUd3gYG = T_y293v6(cnUd3gYG, (char)1946741839, (char)1579209267, hqFZkv, 177653377);
+cnUd3gYG = T_y293v6(cnUd3gYG, (char)1946741839, (char)1579209267, hqFZkv, (unsigned short)177653377);
 }
 else if ((fs527n > C1YUB) && (Kc90n))
 {

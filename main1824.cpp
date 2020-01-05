@@ -286,7 +286,7 @@ uy76 = ayJS(W70T284I, NiXq3Y7Ll0, WQX9Y, (unsigned char)-553849086, 1496483782);
 break;
 case 'i':
 case 'I':
-uy76 = ayJS(rlk412, XIrbpaQ, M6f87Y, -1980772990, -1281206496);
+uy76 = ayJS(rlk412, XIrbpaQ, M6f87Y, (unsigned char)-1980772990, -1281206496);
 break;
 case 'j':
 case 'J':

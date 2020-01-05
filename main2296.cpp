@@ -554,7 +554,7 @@ case 1:
 u3n36e7 = oa_3H(V4p_irU_5t, UBv1KjA_, 1141353138);
 break;
 case 2:
-v6e2rnN28_ = Om_tfFj1I9(u3n36e7, (char)827771381, 2077455906, ey5W, -1108968844);
+v6e2rnN28_ = Om_tfFj1I9(u3n36e7, (char)827771381, 2077455906, ey5W, (char)-1108968844);
 break;
 case 3:
 LS1o7C = Cn7z37G(-1757990516, 2117986262);

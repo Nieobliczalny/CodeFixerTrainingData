@@ -381,7 +381,7 @@ case 1:
 C49a = (unsigned short)(V7Cz - 2036740802);
 break;
 case 2:
-esUABeQ_a4 = (xZ5T_Te0 >= -653931735) ? esUABeQ_a4 : 1760479796;
+esUABeQ_a4 = (xZ5T_Te0 >= -653931735) ? esUABeQ_a4 : (unsigned short)1760479796;
 break;
 case 3:
 qLZ0uy -= jH_oZ4dm;

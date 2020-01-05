@@ -473,7 +473,7 @@ X31G1ns6 = (char)(f_Jn ^ 1960146205);
 }
 else if (Id57byq3P <= Gh91E7)
 {
-MJCBl7DZ63 = (T4CPKadR) ? (unsigned char)-1497405365 : 535451721;
+MJCBl7DZ63 = (T4CPKadR) ? (unsigned char)-1497405365 : (unsigned char)535451721;
 }
 else if (Bv44 >= X31G1ns6)
 {

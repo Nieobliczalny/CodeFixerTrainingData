@@ -206,7 +206,7 @@ case 'd':
 dQI_d = x5scy9H(jX_WaQ, 378183567, xA6tj, (unsigned short)-1242989319);
 break;
 case 'e':
-FyVt = x5scy9H(FyVt, jX_WaQ, (unsigned short)-206120154, -1858771297);
+FyVt = x5scy9H(FyVt, jX_WaQ, (unsigned short)-206120154, (unsigned short)-1858771297);
 break;
 case 'f':
 jX_WaQ = (int)abs(xA6tj);

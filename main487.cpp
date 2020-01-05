@@ -292,7 +292,7 @@ case 2:
 sM3_4u = yLTXB9JC(-148713698, n6fc0U, (unsigned short)1648954728, -774358461);
 break;
 case 3:
-pOCQXF7bm = ljt68QmM - 1549512607;
+pOCQXF7bm = (unsigned char)(ljt68QmM - 1549512607);
 break;
 case 4:
 sM3_4u = (int)abs(P8L46E);

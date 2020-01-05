@@ -234,7 +234,7 @@ case 7:
 o1MT += vOdb;
 break;
 case 8:
-zxU7T = R656OB((unsigned char)1083140419, -780880065);
+zxU7T = R656OB((unsigned char)1083140419, (unsigned short)-780880065);
 break;
 }
 if (KlK5Z3JI07 >= 643437786)

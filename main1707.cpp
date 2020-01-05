@@ -233,7 +233,7 @@ d4N0bcTD7 = bIi7VNHG * K0une25;
 break;
 case 'e':
 case 'E':
-Y_8eL19H = RK1442O9((unsigned char)-533317738, (unsigned short)-727165411, 744045436);
+Y_8eL19H = RK1442O9((unsigned char)-533317738, (unsigned short)-727165411, (short)744045436);
 break;
 case 'f':
 case 'F':

@@ -375,7 +375,7 @@ case 4:
 N9hsS10YV8 = QRSF3_ / 413409957;
 break;
 case 5:
-kMV9B06 = TJ9dYg6j(kMV9B06, HL2b, (char)1875891853, -44149562);
+kMV9B06 = TJ9dYg6j(kMV9B06, HL2b, (char)1875891853, (char)-44149562);
 break;
 case 6:
 oO10Bz = N5UDJY / 877042760;
