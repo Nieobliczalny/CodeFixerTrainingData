@@ -1,0 +1,8 @@
+# CodeFixerTrainingData
+Training data for CodeFixer
+
+Each error type is fixed on separate branch:
+* proper - deadcode.DeadStores
+* checker2 - clang-diagnostic-tautological-out-of-range-compare
+* checker3 - clang-diagnostic-unused-parameter
+* [?] - clang-diagnostic-[?]
